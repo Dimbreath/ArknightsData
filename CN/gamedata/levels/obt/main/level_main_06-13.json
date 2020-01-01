@@ -883,7 +883,7 @@
           "valueStr": "enemy_1070_iced"
         },
         {
-          "key": "hp",
+          "key": "max_hp",
           "value": 2.0,
           "valueStr": null
         },
@@ -902,7 +902,7 @@
       "blackboard": [
         {
           "key": "scale",
-          "value": 0.5,
+          "value": 0.9,
           "valueStr": null
         },
         {

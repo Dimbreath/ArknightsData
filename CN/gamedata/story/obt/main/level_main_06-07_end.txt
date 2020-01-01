@@ -38,7 +38,7 @@
 [name="霜星"]  想这样就撤退？
 [Character(name="char_017_homura_3#5",name2="char_1505_frstar_1",focus=1)]
 [name="煌"]  我劝你一句。别再战斗了，白毛兔子。
-[name="煌"]  再这么强撑着用法术，你会死的很快。你的力量正在把你的活力榨干。
+[name="煌"]  再这么强撑着用法术，你会死得很快。你的力量正在把你的活力榨干。
 [name="煌"]  或者，你可以来罗德岛。至少我们有办法延续你的生命。
 [Character(name="char_017_homura_3#5",name2="char_1505_frstar_1",focus=2)]
 [name="霜星"]  ......

@@ -183,7 +183,9 @@
 [name="伊诺"]  你要做什么？
 [name="萨沙"]  这是我从矿场偷来的源石，本来想要卖掉换些吃的。
 [name="伊诺"]  萨沙！
+[CameraShake(duration=0.3, xstrength=15, ystrength=10, vibrato=30, randomness=30, fadeout=false)]
 [name="萨沙"]  唔！
+[delay(time=0.5)]
 [name="萨沙"]  这样，我们就都是感染者了。
 [name="萨沙"]  让我们一起活下去。
 [Dialog]
@@ -236,7 +238,7 @@
 [name="梅菲斯特"]  可是，你以前说过......
 [Character(name="char_1507_Mephisto_1#2",name2="char_011_talula_1",focus=2)]
 [name="塔露拉"]  那是几年前的事情了。
-[name="塔露拉"]  随着我们事业的进步，有些事情会自然而然的改变。
+[name="塔露拉"]  随着我们事业的进步，有些事情会自然而然地改变。
 [name="塔露拉"]  如果不跟上形势，我们就会被淘汰。
 [name="塔露拉"]  所以，我们和我们的感染者同胞，必须争取一个未来。
 [name="塔露拉"]  所有人都可以为了这个理想牺牲。

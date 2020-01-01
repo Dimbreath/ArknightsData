@@ -47,7 +47,7 @@
 [name="浮士德"]  别冲动，别被近卫局的计策冲昏头脑！
 [stopmusic(fadetime=2)]
 [Character(name="char_1508_Faust_1#1",name2="char_1507_Mephisto_1#1",focus=2)]
-[name="梅菲斯特"]  我有办法，浮士德。我可以让我的同胞们更好的活下去。
+[name="梅菲斯特"]  我有办法，浮士德。我可以让我的同胞们更好地活下去。
 [Character(name="char_1508_Faust_1#1",name2="char_1507_Mephisto_1#1",focus=1)]
 [name="浮士德"]  ......？你要做什么？
 [Character(name="char_1508_Faust_1#1",name2="char_1507_Mephisto_1#5",focus=2)]

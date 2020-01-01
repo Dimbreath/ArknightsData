@@ -7,7 +7,7 @@
 [Blocker(a=0, fadetime=1.5, block=true)]
 [PlayMusic(intro="$darkness02_intro", key="$darkness02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=1)]
-[name="雪怪小队成员A"]  我确认过了。所有能联系上的整合运动队伍已经全部撤出了。
+[name="雪怪小队成员A"]  我确认过了，所有能联系上的整合运动队伍已经全部撤出了。
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=2)]
 [name="雪怪小队成员B"]  人真多啊。
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=1)]

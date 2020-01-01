@@ -15,7 +15,7 @@
 [name="灰喉"]  ......！
 [name="灰喉"]  儿童？
 [playsound(key="$d_gen_transmissionget", volume=0.4)]
-[name="灰喉"]  通报Blaze-4，Amiya-1小队，在贫民区3区四街十号建筑的废墟中发现幸存儿童，感染者。
+[name="灰喉"]  通报Blaze-4，Amiya-1小队，在贫民区四街十号建筑的废墟中发现幸存儿童，感染者。
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=0.5, block=true)]
@@ -29,7 +29,7 @@
 [Character]
 [name="孩童"]  你是龙门人？
 [Character(name="char_367_swllow_1")]
-[name="灰喉"]  ......是不会伤害你的人。我乌萨斯话说的不好。我没敌意。
+[name="灰喉"]  ......是不会伤害你的人。我乌萨斯话说得不好。我没敌意。
 [Character]
 [name="孩童"]  你在说什么？
 [Character(name="char_367_swllow_1")]
@@ -60,7 +60,7 @@
 [Character(name="char_367_swllow_1#4",name2="char_1002_nsabr_1",focus=2)]
 [name="整合运动成员"]  ......你在想什么？你以为我们被杀就了结了吗？
 [name="整合运动成员"]  就算我们被杀，他们也不会放过孩子，他们谁都不会放过！
-[name="整合运动成员"]  如果我们被杀就结束了，我们甘愿被杀也不会把孩子当做诱饵啊！
+[name="整合运动成员"]  如果能这么简单就结束了，我们甘愿被杀也不会把孩子当做诱饵！
 [name="整合运动成员"]  我们甚至没有攻击你！
 [Character(name="char_367_swllow_1#4",name2="char_1002_nsabr_1",focus=1)]
 [name="灰喉"]  谁会这么做......你是说穿黑色雨披的人？
@@ -81,8 +81,19 @@
 [Dialog]
 [Character]
 [Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
-[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
-
+[CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$e_skill_skulsrsword", volume=0.9)]
+[delay(time=0.6)]
+[PlaySound(key="$e_atk_arrow_h")]
+[CameraShake(duration=1, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true)]
+[delay(time=0.5)]
+[PlaySound(key="$e_atk_arrow_h")]
+[CameraShake(duration=1, xstrength=15, ystrength=10, vibrato=30, randomness=90, fadeout=true)]
+[delay(time=1)]
+[CameraShake(duration=1, xstrength=10, ystrength=12, vibrato=30, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$e_skill_skulsrsword", volume=0.9)]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=3, block=true)]
 [Character(name="char_367_swllow_1")]
 [name="灰喉"]  唔......
 [name="灰喉"]  我还活着？
@@ -115,7 +126,7 @@
 [name="煌"]  我已经看到你为了感染者孩子们奋勇作战的样子了。哗，好靓女。
 [Character(name="char_367_swllow_1",name2="char_017_homura_3#4",focus=1)]
 [name="灰喉"]  你龙门话讲的很烂。
-[Character(name="char_367_swllow_1",name2="char_017_homura_3#2",focus=2)]
+[Character(name="char_367_swllow_1",name2="char_017_homura_3#4",focus=2)]
 [name="煌"]  我就触景生情随便说的！我以前觉得你是个无血无泪的非感染者，加入罗德岛说不定是为了刺探情报，我误解你了。
 [Character(name="char_367_swllow_1",name2="char_017_homura_3#4",focus=1)]
 [name="灰喉"]  如果我是间谍，我就会用这种手段让你信任我。只要你不是太傻让我流血致死......
@@ -127,7 +138,7 @@
 [Character(name="char_367_swllow_1",name2="char_017_homura_3#4",focus=1)]
 [name="灰喉"]  我可能会逃走。
 [Character(name="char_367_swllow_1",name2="char_017_homura_3#4",focus=2)]
-[name="煌"]  别老幻想些有的没的了。你怎么跑的过我呢？
+[name="煌"]  别老幻想些有的没的了。你怎么跑得过我呢？
 [name="煌"]  信任这个词儿，不意味着没有防范。信任是指，知道你会做什么事，不会做什么事。
 [name="煌"]  你做的对的，我全力支持；你做的错的，我要纠正，甚至阻止。这就是信任。
 [name="煌"]  谢谢你，灰喉，你信任了我，你用行动纠正了我的想法。
@@ -156,7 +167,7 @@
 [Predicate(references="1")]
 [name="阿米娅"]  应该......还不太够吧？
 [name="阿米娅"]  虽然表面上大大咧咧的，煌的内在其实可复杂了。
-[name="阿米娅"]  再经过一些时间、经历一些事情，Dr.nickname也是可以做到的。
+[name="阿米娅"]  再经过一些时间、经历一些事情，Dr.{@nickname}也是可以做到的。
 [name="阿米娅"]  但要再努力一点才行！
 [Predicate(references="2")]
 [name="阿米娅"]  相互信任是困难的，但也是必须的。
@@ -188,7 +199,7 @@
 [name="阿米娅"]  是这样的。
 [name="阿米娅"]  刚才那些整合运动的眼神里充满了恐惧。
 [name="阿米娅"]  我们和近卫局没可能把人吓成这样，别说逼他们不顾一切地打破自己原本的坚持了。
-[name="阿米娅"]  它们遭遇了什么样地敌人......究竟是什么让他们变成这个样子？
+[name="阿米娅"]  它们遭遇了什么样的敌人......究竟是什么让他们变成这个样子？
 [name="阿米娅"]  我们......会和那些人为敌吗？
 [Delay(time=0.3)]
 [Dialog]

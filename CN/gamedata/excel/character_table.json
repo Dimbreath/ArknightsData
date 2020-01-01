@@ -42814,7 +42814,7 @@
             "data": {
               "maxHp": 667,
               "atk": 173,
-              "def": 54,
+              "def": 53,
               "magicResistance": 0.0,
               "cost": 11,
               "blockCnt": 1,
@@ -42838,7 +42838,7 @@
             "data": {
               "maxHp": 954,
               "atk": 289,
-              "def": 91,
+              "def": 89,
               "magicResistance": 0.0,
               "cost": 11,
               "blockCnt": 1,
@@ -42870,7 +42870,7 @@
             "data": {
               "maxHp": 954,
               "atk": 289,
-              "def": 91,
+              "def": 89,
               "magicResistance": 0.0,
               "cost": 13,
               "blockCnt": 1,
@@ -42894,7 +42894,7 @@
             "data": {
               "maxHp": 1224,
               "atk": 420,
-              "def": 130,
+              "def": 128,
               "magicResistance": 0.0,
               "cost": 13,
               "blockCnt": 1,
@@ -42942,7 +42942,7 @@
             "data": {
               "maxHp": 1224,
               "atk": 420,
-              "def": 130,
+              "def": 128,
               "magicResistance": 0.0,
               "cost": 13,
               "blockCnt": 1,
@@ -42966,7 +42966,7 @@
             "data": {
               "maxHp": 1493,
               "atk": 513,
-              "def": 155,
+              "def": 152,
               "magicResistance": 0.0,
               "cost": 13,
               "blockCnt": 1,
@@ -73146,8 +73146,8 @@
             "level": 1,
             "data": {
               "maxHp": 1286,
-              "atk": 313,
-              "def": 155,
+              "atk": 308,
+              "def": 156,
               "magicResistance": 0.0,
               "cost": 20,
               "blockCnt": 2,
@@ -73170,8 +73170,8 @@
             "level": 50,
             "data": {
               "maxHp": 1649,
-              "atk": 435,
-              "def": 222,
+              "atk": 429,
+              "def": 224,
               "magicResistance": 0.0,
               "cost": 20,
               "blockCnt": 2,
@@ -73202,8 +73202,8 @@
             "level": 1,
             "data": {
               "maxHp": 1649,
-              "atk": 435,
-              "def": 222,
+              "atk": 429,
+              "def": 224,
               "magicResistance": 0.0,
               "cost": 22,
               "blockCnt": 2,
@@ -73226,8 +73226,8 @@
             "level": 80,
             "data": {
               "maxHp": 2115,
-              "atk": 589,
-              "def": 300,
+              "atk": 581,
+              "def": 303,
               "magicResistance": 0.0,
               "cost": 22,
               "blockCnt": 2,
@@ -73274,8 +73274,8 @@
             "level": 1,
             "data": {
               "maxHp": 2115,
-              "atk": 589,
-              "def": 300,
+              "atk": 581,
+              "def": 303,
               "magicResistance": 0.0,
               "cost": 24,
               "blockCnt": 3,
@@ -73298,8 +73298,8 @@
             "level": 90,
             "data": {
               "maxHp": 2821,
-              "atk": 776,
-              "def": 367,
+              "atk": 765,
+              "def": 370,
               "magicResistance": 0.0,
               "cost": 24,
               "blockCnt": 3,
@@ -73600,7 +73600,36 @@
             "requiredPotentialRank": 0,
             "prefabKey": "1",
             "name": "紧急除颤",
-            "description": "在生命值低于25%时，仅一次回复50%的生命值并在4秒内使生命值不低于50%",
+            "description": "在生命值低于25%时，仅一次回复50%的生命值并在3秒内使生命值不低于50%",
+            "rangeId": null,
+            "blackboard": [
+              {
+                "key": "hp_ratio",
+                "value": 0.25
+              },
+              {
+                "key": "huang_t_1[heal].hp_ratio",
+                "value": 0.5
+              },
+              {
+                "key": "huang_t_1[lock].min_hp_ratio",
+                "value": 0.5
+              },
+              {
+                "key": "huang_t_1[lock].duration",
+                "value": 3.0
+              }
+            ]
+          },
+          {
+            "unlockCondition": {
+              "phase": 1,
+              "level": 1
+            },
+            "requiredPotentialRank": 2,
+            "prefabKey": "1",
+            "name": "紧急除颤",
+            "description": "在生命值低于25%时，仅一次回复50%的生命值并在4<@ba.talpu>（+1）</>秒内使生命值不低于50%",
             "rangeId": null,
             "blackboard": [
               {
@@ -73629,7 +73658,7 @@
             "requiredPotentialRank": 0,
             "prefabKey": "1",
             "name": "紧急除颤",
-            "description": "在生命值低于25%时，仅一次回复50%的生命值并在8秒内使生命值不低于50%",
+            "description": "在生命值低于25%时，仅一次回复50%的生命值并在6秒内使生命值不低于50%",
             "rangeId": null,
             "blackboard": [
               {
@@ -73646,7 +73675,36 @@
               },
               {
                 "key": "huang_t_1[lock].duration",
-                "value": 8.0
+                "value": 6.0
+              }
+            ]
+          },
+          {
+            "unlockCondition": {
+              "phase": 2,
+              "level": 1
+            },
+            "requiredPotentialRank": 2,
+            "prefabKey": "1",
+            "name": "紧急除颤",
+            "description": "在生命值低于25%时，仅一次回复50%的生命值并在7<@ba.talpu>（+1）</>秒内使生命值不低于50%",
+            "rangeId": null,
+            "blackboard": [
+              {
+                "key": "hp_ratio",
+                "value": 0.25
+              },
+              {
+                "key": "huang_t_1[heal].hp_ratio",
+                "value": 0.5
+              },
+              {
+                "key": "huang_t_1[lock].min_hp_ratio",
+                "value": 0.5
+              },
+              {
+                "key": "huang_t_1[lock].duration",
+                "value": 7.0
               }
             ]
           }
@@ -73723,25 +73781,9 @@
         "equivalentCost": null
       },
       {
-        "type": 0,
-        "description": "再部署时间-4秒",
-        "buff": {
-          "attributes": {
-            "abnormalFlags": null,
-            "abnormalImmunes": null,
-            "abnormalCombos": null,
-            "abnormalComboImmunes": null,
-            "attributeModifiers": [
-              {
-                "attributeType": 21,
-                "formulaItem": 0,
-                "value": -4.0,
-                "loadFromBlackboard": false,
-                "fetchBaseValueFromSourceEntity": false
-              }
-            ]
-          }
-        },
+        "type": 1,
+        "description": "第一天赋效果增强",
+        "buff": null,
         "equivalentCost": null
       },
       {

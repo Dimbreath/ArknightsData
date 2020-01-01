@@ -9,7 +9,8 @@
 [Delay(time=1)]
 [name="整合运动成员"]  唔，唔......
 [Character(name="char_017_homura_3#4",name2="char_1002_nsabr_1",focus=1)]
-[name="煌"]  不好意思啊。哦，我也不是打了你就不当你是同胞了。
+[name="煌"]  不好意思啊。
+[name="煌"]  哦，我也不是打了你就不当你是同胞了。
 [Character(name="char_017_homura_3#8")]
 [name="煌"]  ......算了，这话我自己说了都不信。
 [Character(name="char_017_homura_3#4")]
@@ -20,9 +21,9 @@
 [Character(name="char_015_lmg")]
 [name="近卫局成员"]  ......
 [Character(name="char_017_homura_3#9",name2="char_015_lmg",focus=1)]
-[name="煌"]  我是哪里还得不到信任？我甚至救了你们一命。
+[name="煌"]  我是哪里还得不到你们的信任？我甚至救了你们一命。
 [Character(name="char_017_homura_3#8",name2="char_015_lmg",focus=2)]
-[name="近卫局成员"]  退后......！我知道，可，可你......感染者......！
+[name="近卫局成员"]  退后......！我知道，可、可你......感染者......！
 [Character(name="char_017_homura_3#5")]
 [name="煌"]  哦，是啊。是啊。
 [name="煌"]  嘁。

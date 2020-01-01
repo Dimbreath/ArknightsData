@@ -71,7 +71,7 @@
 [name="陈"]  九......！
 [Character]
 [name="九"]  你说的特殊部队，我似乎已经看见过了。
-[name="九"]  我还是把龙门想象的太好了。再见，陈。
+[name="九"]  我还是把龙门想象得太好了。再见，陈。
 [name="九"]  对了，别去检查排水系统。
 [playsound(key="$transmission", volume=0.4)]
 [delay(time=1)]

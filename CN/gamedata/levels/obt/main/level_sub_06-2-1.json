@@ -493,7 +493,13 @@
         "heightType": 1,
         "buildableType": 2,
         "passableMask": 2,
-        "blackboard": null,
+        "blackboard": [
+          {
+            "key": "base_force_level",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ],
         "effects": null
       },
       {
@@ -515,12 +521,12 @@
       {
         "tileKey": "tile_bigforce",
         "heightType": 1,
-        "buildableType": 1,
+        "buildableType": 2,
         "passableMask": 2,
         "blackboard": [
           {
             "key": "base_force_level",
-            "value": 1.0,
+            "value": 2.0,
             "valueStr": null
           }
         ],
@@ -2332,7 +2338,7 @@
         },
         {
           "type": 1,
-          "time": 17.0,
+          "time": 22.0,
           "position": {
             "row": 0,
             "col": 0
@@ -2398,7 +2404,7 @@
         },
         {
           "type": 1,
-          "time": 17.0,
+          "time": 22.0,
           "position": {
             "row": 0,
             "col": 0
@@ -2586,9 +2592,9 @@
               "actionType": 0,
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
-              "count": 6,
-              "preDelay": 3.0,
-              "interval": 8.0,
+              "count": 2,
+              "preDelay": 27.0,
+              "interval": 16.0,
               "routeIndex": 8,
               "blockFragment": false,
               "autoPreviewRoute": true,
@@ -2599,9 +2605,9 @@
               "actionType": 0,
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
-              "count": 5,
+              "count": 2,
               "preDelay": 11.0,
-              "interval": 8.0,
+              "interval": 32.0,
               "routeIndex": 9,
               "blockFragment": false,
               "autoPreviewRoute": true,
@@ -2658,7 +2664,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 3.0,
+              "preDelay": 6.0,
               "interval": 1.0,
               "routeIndex": 13,
               "blockFragment": false,
@@ -2671,7 +2677,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 3.0,
+              "preDelay": 6.0,
               "interval": 1.0,
               "routeIndex": 14,
               "blockFragment": false,
@@ -2684,7 +2690,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 11.0,
+              "preDelay": 35.0,
               "interval": 1.0,
               "routeIndex": 15,
               "blockFragment": false,
@@ -2697,7 +2703,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 11.0,
+              "preDelay": 35.0,
               "interval": 1.0,
               "routeIndex": 16,
               "blockFragment": false,
@@ -2710,7 +2716,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 35.0,
+              "preDelay": 55.0,
               "interval": 1.0,
               "routeIndex": 17,
               "blockFragment": false,
@@ -2723,7 +2729,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 35.0,
+              "preDelay": 55.0,
               "interval": 1.0,
               "routeIndex": 18,
               "blockFragment": false,
@@ -2736,7 +2742,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 45.0,
+              "preDelay": 70.0,
               "interval": 1.0,
               "routeIndex": 19,
               "blockFragment": false,
@@ -2749,7 +2755,7 @@
               "managedByScheduler": true,
               "key": "enemy_1067_snslime",
               "count": 1,
-              "preDelay": 45.0,
+              "preDelay": 70.0,
               "interval": 1.0,
               "routeIndex": 20,
               "blockFragment": false,

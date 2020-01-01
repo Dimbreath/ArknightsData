@@ -128,7 +128,7 @@
 [name="诗怀雅"]  你有什么打算？
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]
 [name="陈"]  ......
-[name="陈"]  我要放走一小部分整合运动。然后我们进贫民区追踪它们。
+[name="陈"]  我要放走一小部分整合运动，然后我们进贫民区追踪它们。
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=1)]
 [name="诗怀雅"]  你这不是给了那些特殊部队把柄？
 [Character(name="char_308_swire_1#5",name2="char_010_chen_1#1",focus=2)]

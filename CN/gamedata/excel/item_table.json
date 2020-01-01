@@ -87,15 +87,15 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "sub_06-2-2",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "sub_04-2-3",
           "occPer": "ALWAYS"
         },
         {
           "stageId": "sub_05-1-2",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_06-2-2",
           "occPer": "ALWAYS"
         }
       ],
@@ -290,15 +290,15 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "sub_06-1-1",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "sub_04-3-3",
           "occPer": "ALWAYS"
         },
         {
           "stageId": "sub_05-3-2",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "sub_06-1-1",
           "occPer": "ALWAYS"
         }
       ],
@@ -491,11 +491,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "sub_05-1-1",
+          "stageId": "sub_06-1-2",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "sub_06-1-2",
+          "stageId": "sub_05-1-1",
           "occPer": "ALWAYS"
         }
       ],
@@ -6044,6 +6044,54 @@
       "obtainApproach": "采购中心",
       "classifyType": "CONSUME",
       "itemType": "VOUCHER_PICK",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "2020recruitment10_1": {
+      "itemId": "2020recruitment10_1",
+      "name": "α类新年寻访凭证",
+      "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+      "rarity": 4,
+      "iconId": "2020recruitment10_1",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30001,
+      "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+      "obtainApproach": "采购中心",
+      "classifyType": "CONSUME",
+      "itemType": "VOUCHER_CGACHA",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "2020recruitment10_2": {
+      "itemId": "2020recruitment10_2",
+      "name": "β类新年寻访凭证",
+      "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+      "rarity": 4,
+      "iconId": "2020recruitment10_2",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30001,
+      "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+      "obtainApproach": "采购中心",
+      "classifyType": "CONSUME",
+      "itemType": "VOUCHER_CGACHA",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "2020recruitment10_3": {
+      "itemId": "2020recruitment10_3",
+      "name": "γ类新年寻访凭证",
+      "description": "出于罗德岛在战略上的种种考量，在批量招揽人才的同时也进行了针对性的寻访，以便获得个别特殊人才的协助。",
+      "rarity": 4,
+      "iconId": "2020recruitment10_3",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 30001,
+      "usage": "罗德岛人事部特别批发的许可书，向猎头公司提出了若干项特殊需求，一次可以招聘十位干员。",
+      "obtainApproach": "采购中心",
+      "classifyType": "CONSUME",
+      "itemType": "VOUCHER_CGACHA",
       "stageDropList": [],
       "buildingProductList": []
     },

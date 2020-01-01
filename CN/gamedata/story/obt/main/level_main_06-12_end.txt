@@ -12,7 +12,7 @@
 [name="九"]  我知道。
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=1)]
 [name="整合运动成员"]  ......你的眼神有些不大对。
-[name="整合运动成员"]  说实话，原来我一直怀疑你是龙门那边的卧底。
+[name="整合运动成员"]  说实话，原本我一直怀疑你是龙门那边的卧底。
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=2)]
 [name="九"]  那现在呢？
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=1)]
@@ -21,7 +21,7 @@
 [name="九"]  真的间谍会杀你灭口。
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=1)]
 [name="整合运动成员"]  我其实真不怕你杀我。看看龙门这样子。哪怕你是龙门人，你也回不去了。
-[name="整合运动成员"]  因为你会比我们过的还惨。
+[name="整合运动成员"]  因为你会比我们过得还惨。
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=2)]
 [name="九"]  ......所以我不是。我现在已经什么都不是了。
 [Character(name="char_1002_nsabr_1",name2="avg_npc_043_1",focus=1)]
@@ -37,7 +37,7 @@
 [Character(name="avg_npc_039_1")]
 [name="监察司"]  磨磨蹭蹭的......花了那么长时间。
 [Character(name="avg_npc_041")]
-[name="？？？"]  我觉得做的很不错。一天之内就消灭了龙门城内的全部整合运动，我可以给最高分。
+[name="？？？"]  我觉得做得很不错。一天之内就消灭了龙门城内的全部整合运动，我可以给最高分。
 [Character(name="avg_npc_040")]
 [name="？？？"]  魏彦吾了不得。
 [Character(name="avg_npc_041")]
@@ -210,7 +210,7 @@
 [name="凯尔希"]  对。
 [name="凯尔希"]  ......
 [name="凯尔希"]  我失言了。不用理会我之前的话。
-[name="凯尔希"]  接下来的行动，小心一点。只有最危险的指挥官才会训练出这种奋战致死都没有退后半寸的感染者小队。
+[name="凯尔希"]  接下来的行动，小心一点。只有最危险的指挥官才会训练出这种奋战至死都没有退后半寸的感染者小队。
 [name="凯尔希"]  当然，要不要看到最后，由你们决定。
 [name="凯尔希"]  以及，节省体力。之后我们可能没什么时间休息。
 [Decision(options="龙门的战斗已经结束了。", values="1")]

@@ -13,4 +13,4 @@
 [PopupDialog(dialogHead="$avatar_doberm")] 当然，敌方雪怪小队的其他能力也还是未知数，博士也需要在今后的战斗中灵活制定针对策略。
 [PopupDialog(dialogHead="$avatar_doberm")] 现在部署剩下的干员，大家都提高警惕，合力消灭这批敌人吧。
 [PopupDialog(dialogHead="$avatar_beagle")] 啊！好的！
-[PopupDialog(dialogHead="$avatar_doberm")] 克洛斯人又跑哪儿去了？？
+[PopupDialog(dialogHead="$avatar_doberm")] 克洛丝人又跑哪儿去了？？

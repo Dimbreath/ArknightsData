@@ -3,7 +3,7 @@
 // Comments
 
 [Background(screenadapt="coverall", image="bg_indoor_n", width=1, height=1, fadetime=2)]
-[Delay(time=1)]
+[Delay(time=2)]
 [PlayMusic(intro="$darkness02_intro", key="$darkness02_loop", volume=0.8, crossfade=1.5, delay=0.5)]
 [Character(name="avg_npc_037")]
 [name="雪怪小队成员A"]  哈，哈......厉害！
@@ -18,7 +18,7 @@
 [name="雪怪小队成员A"]  真厉害啊，感觉和乌萨斯的防毒面具军刀人一个意思了，不，可能更强！
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=2)]
 [name="雪怪小队成员B"]  差点就没命，怎么还这么兴奋？你说的面具军刀可是乌萨斯皇帝内卫！我们那次也只是碰巧遇上五个！
-[name="雪怪小队成员B"]  现在，你数的清有几个雨披吗？
+[name="雪怪小队成员B"]  现在，你数得清有几个雨披吗？
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=1)]
 [name="雪怪小队成员A"]  这说明我们比以前更厉害了？
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=2)]
@@ -31,7 +31,7 @@
 [Character(name="avg_npc_037")]
 [name="雪怪小队成员C"]  安静！
 [Character(name="avg_npc_016")]
-[name="幻影弩手"]  报道。
+[name="幻影弩手"]  报到。
 [Character(name="avg_npc_037")]
 [name="雪怪小队成员C"]  大姊。这几位是......浮士德的队员。
 [Character(name="char_1505_frstar_1")]
@@ -78,8 +78,8 @@
 [name="雪怪小队成员C"]  明白！
 [Dialog]
 [Character]
-[Blocker(a=1, a=1, r=0,g=0, b=0, fadetime=1, block=true)]
-[Blocker(a=0, a=1, r=0,g=0, b=0,fadetime=1, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=1, block=true)]
+[Blocker(a=0, r=0,g=0, b=0,fadetime=1, block=true)]
 [Character(name="avg_npc_037",name2="char_1002_nsabr_1",focus=2)]
 [name="整合运动成员"]  他们和乌萨斯士兵一样，完全不顾及周围的地形和人群啊？
 [Character(name="avg_npc_037",name2="char_1002_nsabr_1",focus=1)]
@@ -111,8 +111,8 @@
 
 [Dialog]
 [Character]
-[Blocker(a=1, a=1, r=0,g=0, b=0,fadetime=1, block=true)]
-[Blocker(a=0, a=1, r=0,g=0, b=0,fadetime=1, block=true)]
+[Blocker(a=1,r=0,g=0,b=0,fadetime=1, block=true)]
+[Blocker(a=0,r=0,g=0,b=0,fadetime=1, block=true)]
 
 [Character(name="char_1505_frstar_1")]
 [name="霜星"]  怎么回事？
@@ -253,7 +253,7 @@
 [name="雪怪小队成员C"]  ......
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=2)]
 [name="雪怪小队成员A"]  佩特洛娃，你怎么了？表情怎么这么沉重？
-[name="雪怪小队成员A"]  ......大姐呢？
+[name="雪怪小队成员A"]  ......大姊呢？
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=1)]
 [name="佩特洛娃"]  杨格，过来。
 [Character(name="avg_npc_037",name2="avg_npc_037",focus=2)]

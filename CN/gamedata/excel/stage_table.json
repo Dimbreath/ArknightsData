@@ -15951,7 +15951,7 @@
       "zoneId": "main_6",
       "code": "6-4",
       "name": "溃烂的疮疤",
-      "description": "<@lv.fs>附加条件：</>\\n敌方狂暴宿主投掷手的攻击力大幅度提升",
+      "description": "<@lv.fs>附加条件：</>\\n敌方狂暴宿主投掷手的生命值大幅度提升",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -16605,7 +16605,7 @@
       "zoneId": "main_6",
       "code": "6-9",
       "name": "换一个角度",
-      "description": "雪怪小队不仅在战场上配置了使用霜冻法术的术师，还释放了体内寒气会在死亡后爆发的源石虫，请一定注意。",
+      "description": "雪怪小队不仅在战场上配置了使用霜冻法术的术师，还释放了会在死亡后爆发体内寒气的源石虫，请一定注意。",
       "hardStagedId": "main_06-08#f#",
       "dangerLevel": "精英1 LV.65",
       "dangerPoint": -1.0,
@@ -17635,7 +17635,7 @@
       "zoneId": "main_6",
       "code": "6-15",
       "name": "不错的回忆",
-      "description": "“虚幻”无人机和雪怪小队凿冰人都出现在了这片战场，这场战斗十分艰难，请有条理的应对异常状态和敌人的进攻。",
+      "description": "“虚幻”无人机和雪怪小队凿冰人都出现在了这片战场，这场战斗十分艰难，请有条理地应对异常状态和敌人的进攻。",
       "hardStagedId": "main_06-13#f#",
       "dangerLevel": "精英2 LV.10",
       "dangerPoint": -1.0,
@@ -17778,7 +17778,7 @@
       "zoneId": "main_6",
       "code": "6-15",
       "name": "不错的回忆",
-      "description": "<@lv.fs>附加条件：</>\\n敌方虚幻无人机的射程减半，但防御力和生命值大幅度提升",
+      "description": "<@lv.fs>附加条件：</>\\n敌方虚幻无人机的射程减少，但防御力和生命值大幅度提升",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -21247,7 +21247,7 @@
       "mainStageId": "main_05-09"
     },
     "sub_06-1-1": {
-      "stageType": "SUB",
+      "stageType": "MAIN",
       "difficulty": "NORMAL",
       "performanceStageFlag": "NORMAL_STAGE",
       "unlockCondition": [
@@ -21372,10 +21372,10 @@
         ]
       },
       "isStagePatch": false,
-      "mainStageId": "main_06-09"
+      "mainStageId": "sub_06-1-1"
     },
     "sub_06-1-2": {
-      "stageType": "SUB",
+      "stageType": "MAIN",
       "difficulty": "NORMAL",
       "performanceStageFlag": "NORMAL_STAGE",
       "unlockCondition": [
@@ -21463,10 +21463,10 @@
         ]
       },
       "isStagePatch": false,
-      "mainStageId": "main_06-09"
+      "mainStageId": "sub_06-1-2"
     },
     "sub_06-2-1": {
-      "stageType": "SUB",
+      "stageType": "MAIN",
       "difficulty": "NORMAL",
       "performanceStageFlag": "NORMAL_STAGE",
       "unlockCondition": [
@@ -21554,10 +21554,10 @@
         ]
       },
       "isStagePatch": false,
-      "mainStageId": "main_06-13"
+      "mainStageId": "sub_06-2-1"
     },
     "sub_06-2-2": {
-      "stageType": "SUB",
+      "stageType": "MAIN",
       "difficulty": "NORMAL",
       "performanceStageFlag": "NORMAL_STAGE",
       "unlockCondition": [
@@ -21682,7 +21682,7 @@
         ]
       },
       "isStagePatch": false,
-      "mainStageId": "main_06-13"
+      "mainStageId": "sub_06-2-2"
     },
     "hard_05-01": {
       "stageType": "SUB",
@@ -21981,6 +21981,293 @@
       },
       "isStagePatch": false,
       "mainStageId": "main_05-10"
+    },
+    "hard_06-01": {
+      "stageType": "SUB",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "unlockCondition": [
+        {
+          "stageId": "main_06-15",
+          "completeState": 2
+        }
+      ],
+      "stageId": "hard_06-01",
+      "levelId": "Obt/Hard/level_hard_06-01",
+      "zoneId": "main_6",
+      "code": "H6-1",
+      "name": "冰狱行动-1",
+      "description": "敌方精英部队和狂暴宿主一起发动了攻势，请合理运用中间的道路来对抗敌人。",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_C5_hard",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 5,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": -1,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 5,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": "",
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": 4,
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ]
+      },
+      "isStagePatch": false,
+      "mainStageId": "main_06-15"
+    },
+    "hard_06-02": {
+      "stageType": "SUB",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "unlockCondition": [
+        {
+          "stageId": "hard_06-01",
+          "completeState": 2
+        }
+      ],
+      "stageId": "hard_06-02",
+      "levelId": "Obt/Hard/level_hard_06-02",
+      "zoneId": "main_6",
+      "code": "H6-2",
+      "name": "冰狱行动-2",
+      "description": "狂暴宿主的两头夹击来势汹汹，此时更需要沉着冷静地应对。\\n<@lv.item><活性源石></>部署于其上的我军和经过的敌军持续受到伤害，但攻击力和攻速大幅度提升",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_C5_hard",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 5,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": -1,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 5,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": "",
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": 4,
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ]
+      },
+      "isStagePatch": false,
+      "mainStageId": "main_06-15"
+    },
+    "hard_06-03": {
+      "stageType": "SUB",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "unlockCondition": [
+        {
+          "stageId": "hard_06-02",
+          "completeState": 2
+        }
+      ],
+      "stageId": "hard_06-03",
+      "levelId": "Obt/Hard/level_hard_06-03",
+      "zoneId": "main_6",
+      "code": "H6-3",
+      "name": "冰狱行动-3",
+      "description": "冰爆源石虫的位置会让我方的干员部署陷入极大麻烦，请认真思考如何处理这批难缠的生物。",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_C5_hard",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 5,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": -1,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 5,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": "",
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": 4,
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ]
+      },
+      "isStagePatch": false,
+      "mainStageId": "main_06-15"
+    },
+    "hard_06-04": {
+      "stageType": "SUB",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "unlockCondition": [
+        {
+          "stageId": "hard_06-03",
+          "completeState": 2
+        }
+      ],
+      "stageId": "hard_06-04",
+      "levelId": "Obt/Hard/level_hard_06-04",
+      "zoneId": "main_6",
+      "code": "H6-4",
+      "name": "冰狱行动-4",
+      "description": "全盛状态的霜星回归战场，运用你的战术头脑，抵御这股寒霜风暴吧！\\n<@lv.item><源石冰晶></>周期性地释放对我方单位施加【寒冷】的范围性寒流",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_C5_hard",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 5,
+      "etItemId": null,
+      "etCost": -1,
+      "etFailReturn": -1,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": -1,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 5,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": "",
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": 4,
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "FURN",
+            "id": "furni_dropS006_oceans12_01",
+            "dropType": 1
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": 0,
+            "type": "FURN",
+            "id": "furni_dropS006_oceans12_01",
+            "dropType": 1
+          },
+          {
+            "occPercent": 0,
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": 8
+          }
+        ]
+      },
+      "isStagePatch": false,
+      "mainStageId": "main_06-15"
     },
     "wk_melee_1": {
       "stageType": "DAILY",

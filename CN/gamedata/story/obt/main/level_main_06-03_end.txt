@@ -128,7 +128,7 @@
 [Character(name="char_1508_Faust_1#1",name2="char_367_swllow_1",focus=2)]
 [name="灰喉"]  我不会。
 [Character(name="char_1508_Faust_1#1",name2="char_367_swllow_1",focus=1)]
-[name="浮士德"]  你经历得还不够多。
+[name="浮士德"]  你经历的还不够多。
 [Character(name="char_1508_Faust_1#1",name2="char_367_swllow_1",focus=2)]
 [name="灰喉"]  我看见你和刚才那个感染者最后的对话。你在做对的事。
 [Character(name="char_1508_Faust_1#1",name2="char_367_swllow_1",focus=1)]
@@ -168,7 +168,7 @@
 [Character]
 [name="浮士德"]  那才最可怜。
 [name="浮士德"]  ......也许你需要别人回答你的问题。不回答，你就不懂。
-[name="浮士德"]  别有负担，杀人，被杀，这种事天天发生。你们罗德岛也不可能避过的。
+[name="浮士德"]  别有负担，杀人、被杀，这种事天天发生。你们罗德岛也不可能避过的。
 [Character(name="char_367_swllow_1")]
 [name="灰喉"]  ......为什么不能一起帮助他们？
 [Character]

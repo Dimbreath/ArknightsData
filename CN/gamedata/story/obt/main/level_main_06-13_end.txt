@@ -24,7 +24,7 @@
 [name="阿米娅"]  （这样的话，我们不仅能避免战斗，也能获得更深层的交流机会。）
 [name="阿米娅"]  （如果是对方先救出领袖......）
 [Character(name="char_259_Jessica_1#3")]
-[name="杰西卡"]  阿，阿米娅，心跳探测仪有反应了，我们确定了精确位置，深度还不确定......
+[name="杰西卡"]  阿、阿米娅，心跳探测仪有反应了，我们确定了精确位置，深度还不确定......
 [Character(name="char_002_amiya_1#7")] 
 [name="阿米娅"]  我知道了！
 [PlaySound(key="$rungeneral", volume=0.9)]
@@ -96,7 +96,7 @@
 [name="雪怪小队成员B"]  到哪都一样。
 [Character(name="avg_npc_037")] 
 [name="雪怪1号"]  至少你们肯听我们说话，以前我们遇到的乌萨斯士兵，都是二话不说就射击的。
-[name="雪怪1号"]  箭矢乒铃乓啷地射的到处都是，之后就是打起来，到一方死光了才结束。
+[name="雪怪1号"]  箭矢乒铃乓啷地射得到处都是，之后就是打起来，到一方死光了才结束。
 [Character(name="char_017_homura_3#4")] 
 [name="煌"]  毕竟我们不是乌萨斯士兵，是制药公司。
 [Character(name="avg_npc_037")] 
@@ -301,14 +301,13 @@
 [name="霜星"]  又有哪种发生了的冲突是必要的呢？
 [Character(name="char_002_amiya_1#7",name2="char_1505_frstar_1",focus=1)]
 [name="阿米娅"]  至少我们不想与你的小队作战！
-[name="阿米娅"]  他们都是正直善良的人，伤害他们，或者让他们伤害无辜的人，绝对违背了我们的意愿！
+[name="阿米娅"]  他们都是正直善良的人。伤害他们，或者让他们伤害无辜的人，绝对违背了我们的意愿！
 [Character(name="char_002_amiya_1#7",name2="char_1505_frstar_1",focus=2)]
 [name="霜星"]  ......那就祈祷我们别再见面吧。
 [Character(name="char_002_amiya_1#7",name2="char_1505_frstar_1",focus=1)]
 [name="阿米娅"]  霜星小姐！
 [Character(name="char_002_amiya_1#7",name2="char_1505_frstar_1#7",focus=2)]
 [name="霜星"]  我可能也没那么想伤害各位。但如果必要的话，我会把各位全都杀掉。
-
 [Decision(options="你可以来罗德岛。我们可以不再互相战斗。", values="1")]
 [Predicate(references="1")]
 [Character(name="char_1505_frstar_1#8")]
@@ -370,9 +369,6 @@
 [Delay(time=1)]
 [name="霜星"]  ......
 [name="霜星"]  你们好，罗德岛。
-[Dialog]
-[Background(image="bg_undergroud_f",fadetime=3,screenadapt="coverall",block=true)]
-[delay(time=2)]
 [Dialog]
 [Delay(time=0.5)]
 [Blocker(a=1,r=0, g=0, b=0, fadetime=2, block=true)]

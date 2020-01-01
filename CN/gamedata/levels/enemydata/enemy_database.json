@@ -19373,15 +19373,15 @@
             "attributes": {
               "maxHp": {
                 "m_defined": true,
-                "m_value": 40000
+                "m_value": 45000
               },
               "atk": {
                 "m_defined": true,
                 "m_value": 530
               },
               "def": {
-                "m_defined": false,
-                "m_value": 0
+                "m_defined": true,
+                "m_value": 440
               },
               "magicResistance": {
                 "m_defined": false,
