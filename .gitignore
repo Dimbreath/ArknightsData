@@ -1,3 +1,20 @@
+# Folders used by the tool.
+bin/
+utils/
+
+# Python scripts used by the tool.
+*.py
+
+# Visual Studio Code settings.
+.vscode/
+
+# Other files used by the tool that are not needed by the repository.
+hashes.json
+
+# Folders in case something breaks.
+decrypted/
+gamedata/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
