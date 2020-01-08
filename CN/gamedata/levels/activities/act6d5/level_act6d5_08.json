@@ -12,7 +12,7 @@
   },
   "levelId": null,
   "mapId": null,
-  "bgmEvent": "longmenbat",
+  "bgmEvent": "snowmonster",
   "environmentSe": null,
   "mapData": {
     "map": [
@@ -834,7 +834,57 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "max_hp",
+          "value": 1.05,
+          "valueStr": null
+        },
+        {
+          "key": "atk",
+          "value": 1.05,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.05,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "global_forbid_location",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "location",
+          "value": 0.0,
+          "valueStr": "(5,8)|(4,8)|(3,8)|(5,7)|(4,7)|(3,7)|(5,9)|(4,9)|(3,9)"
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {
@@ -2501,11 +2551,11 @@
     {
       "motionMode": 0,
       "startPosition": {
-        "row": 3,
+        "row": 4,
         "col": 0
       },
       "endPosition": {
-        "row": 3,
+        "row": 4,
         "col": 10
       },
       "spawnRandomRange": {
@@ -2524,11 +2574,11 @@
     {
       "motionMode": 0,
       "startPosition": {
-        "row": 4,
+        "row": 3,
         "col": 0
       },
       "endPosition": {
-        "row": 4,
+        "row": 3,
         "col": 10
       },
       "spawnRandomRange": {
@@ -3170,7 +3220,7 @@
               "count": 1,
               "preDelay": 8.0,
               "interval": 1.0,
-              "routeIndex": 39,
+              "routeIndex": 38,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,
@@ -3183,7 +3233,7 @@
               "count": 1,
               "preDelay": 10.0,
               "interval": 1.0,
-              "routeIndex": 38,
+              "routeIndex": 39,
               "blockFragment": false,
               "autoPreviewRoute": false,
               "isUnharmfulAndAlwaysCountAsKilled": false,

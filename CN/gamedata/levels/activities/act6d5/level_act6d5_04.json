@@ -221,7 +221,7 @@
       {
         "tileKey": "tile_road",
         "heightType": 0,
-        "buildableType": 0,
+        "buildableType": 1,
         "passableMask": 3,
         "blackboard": null,
         "effects": null
@@ -631,17 +631,17 @@
         "blackboard": [
           {
             "key": "damage",
-            "value": 1000.0,
+            "value": 700.0,
             "valueStr": null
           },
           {
             "key": "cd_min",
-            "value": 10.0,
+            "value": 13.0,
             "valueStr": null
           },
           {
             "key": "cd_max",
-            "value": 10.0,
+            "value": 19.0,
             "valueStr": null
           }
         ],
@@ -951,7 +951,72 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.0,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.0,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 2.0,
+          "valueStr": null
+        },
+        {
+          "key": "enemy",
+          "value": 0.0,
+          "valueStr": "enemy_1001_bigbo"
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.0,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.1,
+          "valueStr": null
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {

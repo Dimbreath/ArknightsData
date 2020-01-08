@@ -906,7 +906,62 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "enemy",
+          "value": 0.0,
+          "valueStr": "enemy_1045_hammer_2"
+        },
+        {
+          "key": "max_hp",
+          "value": 1.37,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.1,
+          "valueStr": null
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {

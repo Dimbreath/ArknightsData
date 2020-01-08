@@ -834,7 +834,62 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.0,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.0,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.1,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_talent_blackb_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "enemy",
+          "value": 0.0,
+          "valueStr": "enemy_1049_eagent_2"
+        },
+        {
+          "key": "ReduceBlockCnt.duration",
+          "value": 2.0,
+          "valueStr": null
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {
@@ -2069,12 +2124,6 @@
     {
       "useDb": true,
       "id": "enemy_1039_breakr_2",
-      "level": 0,
-      "overwrittenData": null
-    },
-    {
-      "useDb": true,
-      "id": "enemy_1038_lunmag",
       "level": 0,
       "overwrittenData": null
     },

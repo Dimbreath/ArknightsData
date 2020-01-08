@@ -420,7 +420,7 @@
       },
       {
         "tileKey": "tile_forbidden",
-        "heightType": 1,
+        "heightType": 0,
         "buildableType": 0,
         "passableMask": 2,
         "blackboard": null,
@@ -430,7 +430,7 @@
         "tileKey": "tile_grass",
         "heightType": 1,
         "buildableType": 2,
-        "passableMask": 3,
+        "passableMask": 2,
         "blackboard": null,
         "effects": null
       },
@@ -834,7 +834,44 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.6,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.2,
+          "valueStr": null
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {

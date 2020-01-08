@@ -12,7 +12,7 @@
   },
   "levelId": null,
   "mapId": null,
-  "bgmEvent": null,
+  "bgmEvent": "indust",
   "environmentSe": null,
   "mapData": {
     "map": [
@@ -834,7 +834,57 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.2,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.1,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "char_cost_mul",
+      "professionMask": 1023,
+      "buildableMask": 2,
+      "blackboard": [
+        {
+          "key": "scale",
+          "value": 3.0,
+          "valueStr": null
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {

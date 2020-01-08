@@ -840,7 +840,57 @@
     "height": 8
   },
   "tilesDisallowToLocate": [],
-  "runes": null,
+  "runes": [
+    {
+      "difficultyMask": 2,
+      "key": "global_lifepoint",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "value",
+          "value": 1.0,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "enemy_attribute_mul",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "atk",
+          "value": 1.2,
+          "valueStr": null
+        },
+        {
+          "key": "def",
+          "value": 1.1,
+          "valueStr": null
+        },
+        {
+          "key": "max_hp",
+          "value": 1.2,
+          "valueStr": null
+        }
+      ]
+    },
+    {
+      "difficultyMask": 2,
+      "key": "global_forbid_location",
+      "professionMask": 1023,
+      "buildableMask": 3,
+      "blackboard": [
+        {
+          "key": "location",
+          "value": 0.0,
+          "valueStr": "(3,4)"
+        }
+      ]
+    }
+  ],
   "globalBuffs": null,
   "routes": [
     {
@@ -3612,6 +3662,128 @@
       "allowDiagonalMove": true,
       "visitEveryTileCenter": false,
       "visitEveryNodeCenter": false
+    },
+    {
+      "motionMode": 1,
+      "startPosition": {
+        "row": 3,
+        "col": 10
+      },
+      "endPosition": {
+        "row": 1,
+        "col": 0
+      },
+      "spawnRandomRange": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "spawnOffset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "checkpoints": [
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 3,
+            "col": 8
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 5,
+            "col": 7
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 2,
+            "col": 6
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 5,
+            "col": 5
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 2,
+            "col": 4
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 5,
+            "col": 3
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        },
+        {
+          "type": 0,
+          "time": 0.0,
+          "position": {
+            "row": 1,
+            "col": 2
+          },
+          "reachOffset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "randomizeReachOffset": false,
+          "reachDistance": 0.0
+        }
+      ],
+      "allowDiagonalMove": true,
+      "visitEveryTileCenter": false,
+      "visitEveryNodeCenter": false
     }
   ],
   "enemies": [],
@@ -3631,6 +3803,12 @@
     {
       "useDb": true,
       "id": "enemy_1040_bombd_2",
+      "level": 0,
+      "overwrittenData": null
+    },
+    {
+      "useDb": true,
+      "id": "enemy_1041_lazerd_2",
       "level": 0,
       "overwrittenData": null
     }
@@ -3984,6 +4162,19 @@
               "routeIndex": 24,
               "blockFragment": false,
               "autoPreviewRoute": false,
+              "isUnharmfulAndAlwaysCountAsKilled": false,
+              "hiddenGroup": null
+            },
+            {
+              "actionType": 0,
+              "managedByScheduler": true,
+              "key": "enemy_1041_lazerd_2",
+              "count": 1,
+              "preDelay": 40.0,
+              "interval": 1.0,
+              "routeIndex": 25,
+              "blockFragment": false,
+              "autoPreviewRoute": true,
               "isUnharmfulAndAlwaysCountAsKilled": false,
               "hiddenGroup": null
             }
