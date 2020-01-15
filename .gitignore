@@ -13,7 +13,7 @@ hashes.json
 
 # Folders in case something breaks.
 decrypted/
-gamedata/
+/gamedata/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
