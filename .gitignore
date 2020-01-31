@@ -1,6 +1,9 @@
-# Folders used by the tool.
-bin/
-utils/
+# Service
+*.service
+*.service.default
+
+# Logs files.
+logs/
 
 # Python scripts used by the tool.
 *.py
