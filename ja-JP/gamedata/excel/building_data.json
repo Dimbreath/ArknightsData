@@ -3330,6 +3330,34 @@
         }
       ]
     },
+    "char_284_spot": {
+      "charId": "char_284_spot",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_proc_probability[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "manu_formula_spd[100]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
     "char_109_fmout": {
       "charId": "char_109_fmout",
       "maxManpower": 8640000,
@@ -5462,7 +5490,7 @@
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
-      "description": "製造所配置時、<@cc.kw>原石</>製造の製造効率<@cc.vup>+30%</>"
+      "description": "製造所配置時、<@cc.kw>源石</>製造の製造効率<@cc.vup>+30%</>"
     },
     "manu_formula_spd[201]": {
       "buffId": "manu_formula_spd[201]",
@@ -5473,7 +5501,7 @@
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
-      "description": "製造所配置時、<@cc.kw>原石</>製造の製造効率<@cc.vup>+35%</>"
+      "description": "製造所配置時、<@cc.kw>源石</>製造の製造効率<@cc.vup>+35%</>"
     },
     "manu_formula_spd[210]": {
       "buffId": "manu_formula_spd[210]",
@@ -5484,7 +5512,7 @@
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
-      "description": "製造所配置時、<@cc.kw>原石</>製造の製造効率<@cc.vup>+35%</>"
+      "description": "製造所配置時、<@cc.kw>源石</>製造の製造効率<@cc.vup>+35%</>"
     },
     "manu_formula_spd[211]": {
       "buffId": "manu_formula_spd[211]",
@@ -5495,7 +5523,7 @@
       "textColor": "#333333",
       "buffCategory": "OUTPUT",
       "roomType": "MANUFACTURE",
-      "description": "製造所配置時、<@cc.kw>原石</>製造の製造効率<@cc.vup>+35%</>"
+      "description": "製造所配置時、<@cc.kw>源石</>製造の製造効率<@cc.vup>+35%</>"
     },
     "trade_ord_spd[000]": {
       "buffId": "trade_ord_spd[000]",
@@ -10431,7 +10459,7 @@
         "height": 8,
         "comfort": 110,
         "usage": "宿舎に飾れば、雰囲気を良くする。",
-        "description": "芸術的に見えるグラフィティ。とはいえ公共物に描くのは感心しない。",
+        "description": "芸術的に見えるグラフィティ。かつてはロンディニウムの町じゅうに貼られていた。",
         "obtainApproach": "信頼達成記念・グラスゴー",
         "processedProductId": "3401",
         "processedProductCount": 0,
