@@ -912,6 +912,9 @@
     "ba.talpu": "<color=#F49800>{0}</color>",
     "eb.key": "<color=#00FFFF>{0}</color>",
     "eb.danger": "<color=#FF0000>{0}</color>",
+    "ro.get": "<color=#0098DC>{0}</color>",
+    "ro.lose": "<color=#C82A36>{0}</color>",
+    "rolv.rem": "<color=#FF4C22>{0}</color>",
     "rc.title": "<color=#FFFFFF>{0}</color>",
     "rc.subtitle": "<color=#FFC90E>{0}</color>",
     "rc.em": "<color=#FF7F27>{0}</color>",
@@ -934,6 +937,7 @@
     "vc.newyear10": "<color=#FF3823>{0}</color>",
     "vc.adgacha": "<color=#0098DC>{0}</color>",
     "vc.attention": "<color=#FFD800>{0}</color>",
+    "act.missiontips": "<color=#d9bd6a>{0}</color>",
     "act.spreward": "<color=#FF5001>{0}</color>",
     "act.timelimit": "<color=#ffe300>{0}</color>",
     "vc.text": "<color=#898989>{0}</color>",
@@ -1024,5 +1028,6 @@
     "rhodesIsland"
   ],
   "monthlySubWarningTime": 345600,
-  "UnlimitSkinOutOfTime": 1209600
+  "UnlimitSkinOutOfTime": 1209600,
+  "replicateShopStartTime": 1597132800
 }
