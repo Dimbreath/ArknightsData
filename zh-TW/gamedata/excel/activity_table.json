@@ -1,5 +1,17 @@
 {
   "basicInfo": {
+    "act3d5": {
+      "id": "act3d5",
+      "type": "COLLECTION",
+      "name": "限時積分任務",
+      "startTime": 1601409600,
+      "endTime": 1602619199,
+      "rewardEndTime": 1602619199,
+      "displayOnHome": false,
+      "hasStage": false,
+      "actTopBarColor": "003edc",
+      "actTopBarText": "限時活動進行中"
+    },
     "act3d7": {
       "id": "act3d7",
       "type": "CHECKIN_ONLY",
@@ -910,6 +922,1026 @@
         }
       ],
       "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_1",
+      "sortId": 1,
+      "description": "累計消耗800點理智",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "800"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_2",
+      "sortId": 2,
+      "description": "累計消耗1600點理智",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1600"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_3",
+      "sortId": 3,
+      "description": "累計消耗2400點理智",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "2400"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_4",
+      "sortId": 4,
+      "description": "累計提升50000點幹員經驗值",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "2",
+      "param": [
+        "2",
+        "50000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_5",
+      "sortId": 5,
+      "description": "累計提升100000點幹員經驗值",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "2",
+      "param": [
+        "2",
+        "100000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_6",
+      "sortId": 6,
+      "description": "累計提升150000點幹員經驗值",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "2",
+      "param": [
+        "2",
+        "150000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_7",
+      "sortId": 7,
+      "description": "在幹員升級和晉升中累計消耗80000龍門幣",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostGoldPlus",
+      "templateType": "0",
+      "param": [
+        "0",
+        "80000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_8",
+      "sortId": 8,
+      "description": "在幹員升級和晉升中累計消耗150000龍門幣",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostGoldPlus",
+      "templateType": "0",
+      "param": [
+        "0",
+        "150000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_9",
+      "sortId": 9,
+      "description": "在幹員升級和晉升中累計消耗250000龍門幣",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CostGoldPlus",
+      "templateType": "0",
+      "param": [
+        "0",
+        "250000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_10",
+      "sortId": 10,
+      "description": "在信用商店中累計消費1000點信用點",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "1000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_11",
+      "sortId": 11,
+      "description": "在信用商店中累計消費2000點信用點",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "2000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_12",
+      "sortId": 12,
+      "description": "在信用商店中累計消費3000點信用點",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "3",
+      "param": [
+        "3",
+        "3000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_13",
+      "sortId": 13,
+      "description": "向好友贈送6份線索",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "SendClue",
+      "templateType": "0",
+      "param": [
+        "0",
+        "6"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_14",
+      "sortId": 14,
+      "description": "向好友贈送12份線索",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "SendClue",
+      "templateType": "0",
+      "param": [
+        "0",
+        "12"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_15",
+      "sortId": 15,
+      "description": "向好友贈送18份線索",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "SendClue",
+      "templateType": "0",
+      "param": [
+        "0",
+        "18"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_16",
+      "sortId": 16,
+      "description": "任務期間累計在剿滅作戰中擊殺1000個敵人",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteCampaign",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_17",
+      "sortId": 17,
+      "description": "任務期間累計在剿滅作戰中擊殺2000個敵人",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteCampaign",
+      "templateType": "1",
+      "param": [
+        "1",
+        "2000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_18",
+      "sortId": 18,
+      "description": "任務期間累計在剿滅作戰中擊殺3000個敵人",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteCampaign",
+      "templateType": "1",
+      "param": [
+        "1",
+        "3000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_19",
+      "sortId": 19,
+      "description": "通關任意關卡40次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_20",
+      "sortId": 20,
+      "description": "通關任意關卡80次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "80"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_21",
+      "sortId": 21,
+      "description": "通關任意關卡120次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "120"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_22",
+      "sortId": 22,
+      "description": "累計擊敗任意3000名敵兵",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "1",
+      "param": [
+        "1",
+        "3000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_23",
+      "sortId": 23,
+      "description": "累計擊敗任意6000名敵兵",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "1",
+      "param": [
+        "1",
+        "6000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_24",
+      "sortId": 24,
+      "description": "累計擊敗任意10000名敵兵",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "1",
+      "param": [
+        "1",
+        "10000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_25",
+      "sortId": 25,
+      "description": "累計公開招募10次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_26",
+      "sortId": 26,
+      "description": "累計公開招募25次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "25"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_27",
+      "sortId": 27,
+      "description": "累計公開招募40次",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_28",
+      "sortId": 28,
+      "description": "讓100名幹員在宿舍中恢復心情",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "100"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_29",
+      "sortId": 29,
+      "description": "讓200名幹員在宿舍中恢復心情",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "200"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_30",
+      "sortId": 30,
+      "description": "讓300名幹員在宿舍中恢復心情",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "300"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_31",
+      "sortId": 31,
+      "description": "完成50筆訂單",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "50"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_32",
+      "sortId": 32,
+      "description": "完成100筆訂單",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "100"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_33",
+      "sortId": 33,
+      "description": "完成150筆訂單",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "150"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_34",
+      "sortId": 34,
+      "description": "在製造站生產100件赤金",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "0",
+      "param": [
+        "0",
+        "100",
+        "3003"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_35",
+      "sortId": 35,
+      "description": "在製造站生產200件赤金",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "0",
+      "param": [
+        "0",
+        "200",
+        "3003"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_36",
+      "sortId": 36,
+      "description": "在製造站生產300件赤金",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "0",
+      "param": [
+        "0",
+        "300",
+        "3003"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_37",
+      "sortId": 37,
+      "description": "任務期間累積舉行1次線索交流",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StartInfoShare",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_38",
+      "sortId": 38,
+      "description": "任務期間累積舉行2次線索交流",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StartInfoShare",
+      "templateType": "1",
+      "param": [
+        "1",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    {
+      "id": "3D5Activity_39",
+      "sortId": 39,
+      "description": "任務期間累積舉行3次線索交流",
+      "type": "ACTIVITY",
+      "preMissionIds": null,
+      "template": "StartInfoShare",
+      "templateType": "1",
+      "param": [
+        "1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act3d5",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "token_Wristband",
+          "count": 150
+        }
+      ],
+      "backImagePath": null
     }
   ],
   "missionGroup": [
@@ -973,6 +2005,57 @@
       ],
       "startTs": 1594238400,
       "endTs": 1595447999
+    },
+    {
+      "id": "act3d5",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "3D5Activity_1",
+        "3D5Activity_2",
+        "3D5Activity_3",
+        "3D5Activity_4",
+        "3D5Activity_5",
+        "3D5Activity_6",
+        "3D5Activity_7",
+        "3D5Activity_8",
+        "3D5Activity_9",
+        "3D5Activity_10",
+        "3D5Activity_11",
+        "3D5Activity_12",
+        "3D5Activity_13",
+        "3D5Activity_14",
+        "3D5Activity_15",
+        "3D5Activity_16",
+        "3D5Activity_17",
+        "3D5Activity_18",
+        "3D5Activity_19",
+        "3D5Activity_20",
+        "3D5Activity_21",
+        "3D5Activity_22",
+        "3D5Activity_23",
+        "3D5Activity_24",
+        "3D5Activity_25",
+        "3D5Activity_26",
+        "3D5Activity_27",
+        "3D5Activity_28",
+        "3D5Activity_29",
+        "3D5Activity_30",
+        "3D5Activity_31",
+        "3D5Activity_32",
+        "3D5Activity_33",
+        "3D5Activity_34",
+        "3D5Activity_35",
+        "3D5Activity_36",
+        "3D5Activity_37",
+        "3D5Activity_38",
+        "3D5Activity_39"
+      ],
+      "startTs": 1601409600,
+      "endTs": 1602619199
     }
   ],
   "activity": {
@@ -1883,9 +2966,230 @@
         ]
       }
     },
-    "COLLECTION": {}
+    "COLLECTION": {
+      "act3d5": {
+        "collections": [
+          {
+            "id": 1,
+            "itemType": "MATERIAL",
+            "itemId": "30063",
+            "itemCnt": 5,
+            "pointId": "token_Wristband",
+            "pointCnt": 300,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 2,
+            "itemType": "MATERIAL",
+            "itemId": "30053",
+            "itemCnt": 5,
+            "pointId": "token_Wristband",
+            "pointCnt": 600,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 3,
+            "itemType": "MATERIAL",
+            "itemId": "3003",
+            "itemCnt": 40,
+            "pointId": "token_Wristband",
+            "pointCnt": 900,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 4,
+            "itemType": "CHAR_SKIN",
+            "itemId": "char_286_cast3@summer#1",
+            "itemCnt": 1,
+            "pointId": "token_Wristband",
+            "pointCnt": 1200,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true
+          },
+          {
+            "id": 5,
+            "itemType": "MATERIAL",
+            "itemId": "3401",
+            "itemCnt": 200,
+            "pointId": "token_Wristband",
+            "pointCnt": 1500,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 6,
+            "itemType": "MATERIAL",
+            "itemId": "tier5_supporter",
+            "itemCnt": 2,
+            "pointId": "token_Wristband",
+            "pointCnt": 1800,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 7,
+            "itemType": "MATERIAL",
+            "itemId": "3302",
+            "itemCnt": 30,
+            "pointId": "token_Wristband",
+            "pointCnt": 2100,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 8,
+            "itemType": "CARD_EXP",
+            "itemId": "2004",
+            "itemCnt": 25,
+            "pointId": "token_Wristband",
+            "pointCnt": 2400,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 9,
+            "itemType": "TKT_RECRUIT",
+            "itemId": "7001",
+            "itemCnt": 5,
+            "pointId": "token_Wristband",
+            "pointCnt": 2700,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 10,
+            "itemType": "MATERIAL",
+            "itemId": "tier5_supporter",
+            "itemCnt": 2,
+            "pointId": "token_Wristband",
+            "pointCnt": 3000,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 11,
+            "itemType": "CHAR_SKIN",
+            "itemId": "char_199_yak@summer#1",
+            "itemCnt": 1,
+            "pointId": "token_Wristband",
+            "pointCnt": 3300,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": true,
+            "showIconBG": true
+          },
+          {
+            "id": 12,
+            "itemType": "GOLD",
+            "itemId": "4001",
+            "itemCnt": 30000,
+            "pointId": "token_Wristband",
+            "pointCnt": 3600,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 13,
+            "itemType": "AP_SUPPLY",
+            "itemId": "ap_supply_lt_100",
+            "itemCnt": 1,
+            "pointId": "token_Wristband",
+            "pointCnt": 3900,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 14,
+            "itemType": "MATERIAL",
+            "itemId": "32001",
+            "itemCnt": 1,
+            "pointId": "token_Wristband",
+            "pointCnt": 4200,
+            "isBonus": false,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": false
+          },
+          {
+            "id": 15,
+            "itemType": "FURN",
+            "itemId": "furni_dropS004_daftPunk_01",
+            "itemCnt": 1,
+            "pointId": "token_Wristband",
+            "pointCnt": 4500,
+            "isBonus": true,
+            "pngName": null,
+            "pngSort": 0,
+            "isShow": false,
+            "showInList": false,
+            "showIconBG": true
+          }
+        ],
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_100": 1603655999
+        }
+      }
+    }
   },
   "activityItems": {
+    "act3d5": [
+      "token_Wristband"
+    ],
     "act4d0": [
       "act4d0_intelligencepoint"
     ]

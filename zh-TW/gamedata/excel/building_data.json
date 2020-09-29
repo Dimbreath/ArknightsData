@@ -5316,6 +5316,103 @@
         }
       ]
     },
+    "char_188_helage": {
+      "charId": "char_188_helage",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_all&oneself[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "dorm_rec_all&oneself[011]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "dorm_rec_all&oneself[012]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "workshop_formula_probability[010]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_151_myrtle": {
+      "charId": "char_151_myrtle",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "trade_ord_limit&cost[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": [
+            {
+              "buffId": "dorm_rec_all[030]",
+              "cond": {
+                "phase": 1,
+                "level": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "char_274_astesi": {
+      "charId": "char_274_astesi",
+      "maxManpower": 8640000,
+      "buffChar": [
+        {
+          "buffData": [
+            {
+              "buffId": "meet_spd&team[000]",
+              "cond": {
+                "phase": 0,
+                "level": 1
+              }
+            },
+            {
+              "buffId": "meet_spd&team[110]",
+              "cond": {
+                "phase": 2,
+                "level": 1
+              }
+            }
+          ]
+        },
+        {
+          "buffData": []
+        }
+      ]
+    },
     "char_248_mgllan": {
       "charId": "char_248_mgllan",
       "maxManpower": 8640000,
@@ -6089,6 +6186,17 @@
       "roomType": "WORKSHOP",
       "description": "進駐加工站加工<@cc.kw>技巧概要</>時，副產品的產出機率提升<@cc.vup>70%</>"
     },
+    "workshop_formula_probability[010]": {
+      "buffId": "workshop_formula_probability[010]",
+      "buffName": "兵者詭道",
+      "buffIcon": "workshop",
+      "skillIcon": "bskill_ws_skill",
+      "buffColor": "#e3eb00",
+      "textColor": "#333333",
+      "buffCategory": "FUNCTION",
+      "roomType": "WORKSHOP",
+      "description": "進駐加工站加工<@cc.kw>技巧概要</>時，副產品的產出機率提升<@cc.vup>80%</>"
+    },
     "workshop_formula_probability[020]": {
       "buffId": "workshop_formula_probability[020]",
       "buffName": "登峰造極",
@@ -6628,6 +6736,39 @@
       "roomType": "DORMITORY",
       "description": "進駐宿舍時，自身心情每小時恢復<@cc.vdown>-0.1</>，該宿舍內所有幹員的心情每小時恢復<@cc.vup>+0.25</>（同種效果取最高）"
     },
+    "dorm_rec_all&oneself[010]": {
+      "buffId": "dorm_rec_all&oneself[010]",
+      "buffName": "超脫",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_one",
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "進駐宿舍時，自身心情每小時恢復<@cc.vup>+0.55</>"
+    },
+    "dorm_rec_all&oneself[011]": {
+      "buffId": "dorm_rec_all&oneself[011]",
+      "buffName": "掙脫",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all",
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "進駐宿舍時，該宿舍內所有幹員的心情每小時恢復<@cc.vup>+0.1</>（同種效果取最高）"
+    },
+    "dorm_rec_all&oneself[012]": {
+      "buffId": "dorm_rec_all&oneself[012]",
+      "buffName": "解脫",
+      "buffIcon": "dormitory",
+      "skillIcon": "bskill_dorm_all&one",
+      "buffColor": "#21cdcb",
+      "textColor": "#ffffff",
+      "buffCategory": "RECOVERY",
+      "roomType": "DORMITORY",
+      "description": "進駐宿舍時，自身心情每小時恢復<@cc.vup>+0.55</>，該宿舍內所有幹員的心情每小時恢復<@cc.vup>+0.1</>（同種效果取最高）"
+    },
     "hire_spd[000]": {
       "buffId": "hire_spd[000]",
       "buffName": "人事管理·α",
@@ -6796,6 +6937,17 @@
     "meet_spd&team[100]": {
       "buffId": "meet_spd&team[100]",
       "buffName": "警司",
+      "buffIcon": "meeting",
+      "skillIcon": "bskill_meet_spd",
+      "buffColor": "#dd653f",
+      "textColor": "#ffffff",
+      "buffCategory": "FUNCTION",
+      "roomType": "MEETING",
+      "description": "進駐會客室時，線索蒐集速度提升<@cc.vup>25%</>"
+    },
+    "meet_spd&team[110]": {
+      "buffId": "meet_spd&team[110]",
+      "buffName": "星象學",
       "buffIcon": "meeting",
       "skillIcon": "bskill_meet_spd",
       "buffColor": "#dd653f",
@@ -10943,6 +11095,402 @@
         "processedByProductGroup": [],
         "canBeDestroy": true
       },
+      "furni_beach_cabinet_01": {
+        "id": "furni_beach_cabinet_01",
+        "name": "夏日小船櫃",
+        "iconId": "furni_beach_cabinet_01",
+        "type": "CABINET",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 3,
+        "height": 8,
+        "comfort": 295,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "用小船改造成的木櫃。裝飾物充滿熱帶氣息，卻沒什麼人認識。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 200,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_tableChairSets_01": {
+        "id": "furni_beach_tableChairSets_01",
+        "name": "夏日收藏櫃",
+        "iconId": "furni_beach_tableChairSets_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 5,
+        "height": 6,
+        "comfort": 460,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "簡單的木質雙層櫃，附送兩個小板凳。櫃子上堆滿了幹員們對夏日的回憶，看著看著，思緒便回到了那狂歡的日夜。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 313,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_calendar_01": {
+        "id": "furni_beach_calendar_01",
+        "name": "羅德島夏日掛曆",
+        "iconId": "furni_beach_calendar_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 1,
+        "height": 4,
+        "comfort": 85,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "去療養的幹員帶回來的掛曆。一些人的掛曆只有在最重要的時刻才會翻頁。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 73,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_floorLamp_01": {
+        "id": "furni_beach_floorLamp_01",
+        "name": "沙灘小屋落地燈",
+        "iconId": "furni_beach_floorLamp_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 3,
+        "depth": 3,
+        "height": 4,
+        "comfort": 190,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "沙灘小屋常用的落地燈，上面放著未投出的漂流瓶。到底是誰做好漂流瓶就跑去燒烤，忘記投送出去了？",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 143,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_anchor_01": {
+        "id": "furni_beach_anchor_01",
+        "name": "汐斯塔市徽紀念品",
+        "iconId": "furni_beach_anchor_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 6,
+        "comfort": 165,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔市官方販賣的大號市徽紀念品，掛牆上正合適。這座城市只需兩個單詞就能完美概括。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 138,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_sail_01": {
+        "id": "furni_beach_sail_01",
+        "name": "航海印象兒童畫",
+        "iconId": "furni_beach_sail_01",
+        "type": "WALLDECO",
+        "location": "POSTER",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 3,
+        "comfort": 105,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "某位小幹員從汐斯塔回來後繪製的兒童畫。稚嫩畫技正是無限夢想的最佳載體。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 88,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_chair_01": {
+        "id": "furni_beach_chair_01",
+        "name": "懶懶™雙人休息椅",
+        "iconId": "furni_beach_chair_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 3,
+        "height": 4,
+        "comfort": 150,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔銷量第一的雙人椅現正登陸羅德島！簡單的浪漫從這裡開始！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 113,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_coffeeTable_01": {
+        "id": "furni_beach_coffeeTable_01",
+        "name": "懶懶™茶几",
+        "iconId": "furni_beach_coffeeTable_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 2,
+        "height": 3,
+        "comfort": 150,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔人均保有量第一的茶几就在你面前！懶懶™茶几，享受生活的最佳選擇！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_drinkTable_01": {
+        "id": "furni_beach_drinkTable_01",
+        "name": "懶懶™高腳茶几",
+        "iconId": "furni_beach_drinkTable_01",
+        "type": "TABLE",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 2,
+        "height": 3,
+        "comfort": 80,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔折扣力度最強的高腳茶几已經安置在你的房間裡了！還不快來享受生活！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 68,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_surfboard_01": {
+        "id": "furni_beach_surfboard_01",
+        "name": "衝浪達人的板架",
+        "iconId": "furni_beach_surfboard_01",
+        "type": "DECORATION",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 8,
+        "depth": 2,
+        "height": 5,
+        "comfort": 195,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "四塊冠軍衝浪板，整整齊齊排在架子上。阿戈爾幹員根本不能理解的行為。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 148,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_deckChair_01": {
+        "id": "furni_beach_deckChair_01",
+        "name": "懶懶™躺椅",
+        "iconId": "furni_beach_deckChair_01",
+        "type": "SEATING",
+        "location": "FLOOR",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 4,
+        "height": 4,
+        "comfort": 160,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔最受歡迎的躺椅正式登陸羅德島！享受生活，只需一步：躺下！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 133,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_curtain_L_01": {
+        "id": "furni_beach_curtain_L_01",
+        "name": "藍白帆布窗簾（左）",
+        "iconId": "furni_beach_curtain_L_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 1,
+        "height": 8,
+        "comfort": 185,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔經典款窗簾。從這裡拉開，哇哦，居然能看到大海！少數阿戈爾幹員對商品真實性提出了異議。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_curtain_R_01": {
+        "id": "furni_beach_curtain_R_01",
+        "name": "藍白帆布窗簾（右）",
+        "iconId": "furni_beach_curtain_R_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 6,
+        "depth": 1,
+        "height": 8,
+        "comfort": 185,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔經典款窗簾。從這裡拉開，哇噻，居然能看到火山！少數地質學家對城市本身產生了興趣。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_carpet_01": {
+        "id": "furni_beach_carpet_01",
+        "name": "汐斯塔船舵地毯",
+        "iconId": "furni_beach_carpet_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 12,
+        "depth": 10,
+        "height": 1,
+        "comfort": 165,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔居家設計中常用的地毯。出於對舵手的感激與敬仰，船舵逐漸成為了汐斯塔人最為鍾愛的圖案。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 125,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_doorMat_01": {
+        "id": "furni_beach_doorMat_01",
+        "name": "汐斯塔特製門墊",
+        "iconId": "furni_beach_doorMat_01",
+        "type": "CARPET",
+        "location": "CARPET",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 2,
+        "depth": 5,
+        "height": 1,
+        "comfort": 40,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "汐斯塔居家設計中常用的門墊。吸水，防潮，清洗便捷。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 35,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_slopedCeiling_01": {
+        "id": "furni_beach_slopedCeiling_01",
+        "name": "木製頂梁",
+        "iconId": "furni_beach_slopedCeiling_01",
+        "type": "CEILING",
+        "location": "CEILING",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 7,
+        "height": 2,
+        "comfort": 795,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "沙灘小屋的頂梁，燈泡就像燈泡鏈上長出的果實。等燈泡亮起來，派對就開始啦！",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 538,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_wallpaper_01": {
+        "id": "furni_beach_wallpaper_01",
+        "name": "全景顯示幕（汐斯塔）",
+        "iconId": "furni_beach_wallpaper_01",
+        "type": "WALLPAPER",
+        "location": "NONE",
+        "category": "WALL",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 1,
+        "height": 10,
+        "comfort": 225,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "花大價錢定製的，覆蓋牆面的4k全景顯示幕。汐斯塔沙灘實況轉播，環繞整座內海，完美展現當地風貌。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 153,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
+      "furni_beach_floor_01": {
+        "id": "furni_beach_floor_01",
+        "name": "夏日實木地板",
+        "iconId": "furni_beach_floor_01",
+        "type": "FLOOR",
+        "location": "NONE",
+        "category": "FLOOR",
+        "rarity": 2,
+        "themeId": "",
+        "width": 34,
+        "depth": 10,
+        "height": 1,
+        "comfort": 225,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "用汐斯塔本地原產木材鋪設的地板，至少說明書是這麼說的。請注意防潮。",
+        "obtainApproach": "傢俱商店限時購買",
+        "processedProductId": "3401",
+        "processedProductCount": 153,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": true
+      },
       "furni_safetyZone_gate_01": {
         "id": "furni_safetyZone_gate_01",
         "name": "安全艙消毒間",
@@ -11795,6 +12343,28 @@
         "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
         "description": "“也許有一種語言會以我們完全不能理解的姿態出現，但那只會驗證我們的淺薄。”",
         "obtainApproach": "H5-4首次通關掉落",
+        "processedProductId": "3401",
+        "processedProductCount": 0,
+        "processedByProductPercentage": 0,
+        "processedByProductGroup": [],
+        "canBeDestroy": false
+      },
+      "furni_dropS004_daftPunk_01": {
+        "id": "furni_dropS004_daftPunk_01",
+        "name": "飾牌《整日》",
+        "iconId": "furni_dropS003_zero_01",
+        "type": "WALLDECO",
+        "location": "WALL",
+        "category": "FURNITURE",
+        "rarity": 2,
+        "themeId": "",
+        "width": 4,
+        "depth": 1,
+        "height": 2,
+        "comfort": 75,
+        "usage": "能夠用來裝扮宿舍，提高宿舍的氛圍",
+        "description": "“我們整日不起，就是為了成為彼此的幸運獨角獸。”",
+        "obtainApproach": "活動獲得",
         "processedProductId": "3401",
         "processedProductCount": 0,
         "processedByProductPercentage": 0,
@@ -13838,6 +14408,108 @@
           }
         ]
       },
+      "furni_set_beach": {
+        "id": "furni_set_beach",
+        "name": "汐斯塔沙灘小屋",
+        "desc": "再現了內海城市汐斯塔假日風情的概念房間。派對還沒開始嗎？",
+        "quickSetup": [
+          {
+            "furnitureId": "furni_beach_cabinet_01",
+            "pos0": 0,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_beach_tableChairSets_01",
+            "pos0": 4,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_beach_calendar_01",
+            "pos0": 10,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beach_floorLamp_01",
+            "pos0": 11,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_beach_anchor_01",
+            "pos0": 15,
+            "pos1": 2
+          },
+          {
+            "furnitureId": "furni_beach_sail_01",
+            "pos0": 23,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_beach_chair_01",
+            "pos0": 20,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_coffeeTable_01",
+            "pos0": 20,
+            "pos1": 4
+          },
+          {
+            "furnitureId": "furni_beach_drinkTable_01",
+            "pos0": 26,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beach_surfboard_01",
+            "pos0": 26,
+            "pos1": 1
+          },
+          {
+            "furnitureId": "furni_beach_deckChair_01",
+            "pos0": 28,
+            "pos1": 3
+          },
+          {
+            "furnitureId": "furni_beach_curtain_L_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_curtain_R_01",
+            "pos0": 28,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_carpet_01",
+            "pos0": 11,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_doorMat_01",
+            "pos0": 0,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_beach_doorMat_01",
+            "pos0": 32,
+            "pos1": 5
+          },
+          {
+            "furnitureId": "furni_beach_slopedCeiling_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_wallpaper_01",
+            "pos0": 0,
+            "pos1": 0
+          },
+          {
+            "furnitureId": "furni_beach_floor_01",
+            "pos0": 0,
+            "pos1": 0
+          }
+        ]
+      },
       "furni_set_safetyZone": {
         "id": "furni_set_safetyZone",
         "name": "氣密防化安全艙",
@@ -14579,6 +15251,60 @@
           "furni_chen_floor_01",
           "furni_chen_ceilingLight_R_01",
           "furni_chen_ceilingLight_C_01"
+        ]
+      },
+      "furni_set_beach_1": {
+        "id": "furni_set_beach_1",
+        "name": "盛夏回憶組合",
+        "themeId": "furni_set_beach",
+        "comfort": 255,
+        "count": 4,
+        "furniture": [
+          "furni_beach_cabinet_01",
+          "furni_beach_tableChairSets_01",
+          "furni_beach_floorLamp_01",
+          "furni_beach_calendar_01"
+        ]
+      },
+      "furni_set_beach_2": {
+        "id": "furni_set_beach_2",
+        "name": "清涼一夏套組",
+        "themeId": "furni_set_beach",
+        "comfort": 150,
+        "count": 5,
+        "furniture": [
+          "furni_beach_coffeeTable_01",
+          "furni_beach_chair_01",
+          "furni_beach_drinkTable_01",
+          "furni_beach_deckChair_01",
+          "furni_beach_surfboard_01"
+        ]
+      },
+      "furni_set_beach_3": {
+        "id": "furni_set_beach_3",
+        "name": "沙灘壁飾集錦",
+        "themeId": "furni_set_beach",
+        "comfort": 145,
+        "count": 4,
+        "furniture": [
+          "furni_beach_anchor_01",
+          "furni_beach_sail_01",
+          "furni_beach_curtain_L_01",
+          "furni_beach_curtain_R_01"
+        ]
+      },
+      "furni_set_beach_4": {
+        "id": "furni_set_beach_4",
+        "name": "汐斯塔自然風光",
+        "themeId": "furni_set_beach",
+        "comfort": 355,
+        "count": 5,
+        "furniture": [
+          "furni_beach_wallpaper_01",
+          "furni_beach_floor_01",
+          "furni_beach_slopedCeiling_01",
+          "furni_beach_carpet_01",
+          "furni_beach_doorMat_01"
         ]
       },
       "furni_set_safetyZone_1": {

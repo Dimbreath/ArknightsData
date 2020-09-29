@@ -1554,6 +1554,80 @@
         "obtainApproach": null
       }
     },
+    "char_151_myrtle#1": {
+      "skinId": "char_151_myrtle#1",
+      "charId": "char_151_myrtle",
+      "tokenSkinId": null,
+      "illustId": "illust_char_151_myrtle_1",
+      "avatarId": "char_151_myrtle",
+      "portraitId": "char_151_myrtle_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Myrtle",
+        "drawerName": "咩煲",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
+    "char_151_myrtle#2": {
+      "skinId": "char_151_myrtle#2",
+      "charId": "char_151_myrtle",
+      "tokenSkinId": null,
+      "illustId": "illust_char_151_myrtle_2",
+      "avatarId": "char_151_myrtle_2",
+      "portraitId": "char_151_myrtle_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Myrtle",
+        "drawerName": "咩煲",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
     "char_130_doberm#1": {
       "skinId": "char_130_doberm#1",
       "charId": "char_130_doberm",
@@ -3394,6 +3468,80 @@
         "titleList": [],
         "modelName": "Specter",
         "drawerName": "Skade",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
+    "char_274_astesi#1": {
+      "skinId": "char_274_astesi#1",
+      "charId": "char_274_astesi",
+      "tokenSkinId": null,
+      "illustId": "illust_char_274_astesi_1",
+      "avatarId": "char_274_astesi",
+      "portraitId": "char_274_astesi_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Astesia",
+        "drawerName": "YUJI",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
+    "char_274_astesi#2": {
+      "skinId": "char_274_astesi#2",
+      "charId": "char_274_astesi",
+      "tokenSkinId": null,
+      "illustId": "illust_char_274_astesi_2",
+      "avatarId": "char_274_astesi_2",
+      "portraitId": "char_274_astesi_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Astesia",
+        "drawerName": "YUJI",
         "skinGroupId": "ILLUST_2",
         "skinGroupName": "默認服裝",
         "skinGroupSortIndex": -10,
@@ -5957,6 +6105,80 @@
         "obtainApproach": null
       }
     },
+    "char_188_helage#1": {
+      "skinId": "char_188_helage#1",
+      "charId": "char_188_helage",
+      "tokenSkinId": null,
+      "illustId": "illust_char_188_helage_1",
+      "avatarId": "char_188_helage",
+      "portraitId": "char_188_helage_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Hellagur",
+        "drawerName": "Liduke",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
+    "char_188_helage#2": {
+      "skinId": "char_188_helage#2",
+      "charId": "char_188_helage",
+      "tokenSkinId": null,
+      "illustId": "illust_char_188_helage_2",
+      "avatarId": "char_188_helage_2",
+      "portraitId": "char_188_helage_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Hellagur",
+        "drawerName": "Liduke",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null
+      }
+    },
     "token_10000_silent_healrb#1": {
       "skinId": "token_10000_silent_healrb#1",
       "charId": "token_10000_silent_healrb",
@@ -7196,6 +7418,196 @@
         "obtainApproach": "採購中心"
       }
     },
+    "char_134_ifrit@summer#1": {
+      "skinId": "char_134_ifrit@summer#1",
+      "charId": "char_134_ifrit",
+      "tokenSkinId": null,
+      "illustId": "illust_char_134_ifrit_summer#1",
+      "avatarId": "char_134_ifrit_summer#1",
+      "portraitId": "char_134_ifrit_summer#1",
+      "buildingId": "char_134_ifrit_summer#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_134_ifrit_summer#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "日曬 SS.SP",
+        "colorList": [
+          "#ff4702",
+          "#e75b32",
+          "#e3ff4a",
+          "#ff4702",
+          "#313131"
+        ],
+        "titleList": [
+          "MARTHE",
+          "珊瑚海岸"
+        ],
+        "modelName": "Ifrit",
+        "drawerName": "NoriZC",
+        "skinGroupId": "2019#summer",
+        "skinGroupName": "珊瑚海岸",
+        "skinGroupSortIndex": 6,
+        "content": "<color name=#ffffff>MARTHE™ [珊瑚海岸/CoralCoast]日曬系列泳衣SP款。萊茵生命特殊合作款。滿足萊茵生命研究所的基礎用途，在採用新型耐熱材料的同時保證了舒適度。</color>",
+        "dialog": "MARTHE™ [珊瑚海岸/CoralCoast]日曬系列泳衣SP款。萊茵生命特殊合作款。滿足萊茵生命研究所的基礎用途，在採用新型耐熱材料的同時保證了舒適度。",
+        "usage": "伊芙利特的特殊海邊裝扮。",
+        "description": "糊了!",
+        "obtainApproach": "採購中心"
+      }
+    },
+    "char_101_sora@summer#1": {
+      "skinId": "char_101_sora@summer#1",
+      "charId": "char_101_sora",
+      "tokenSkinId": null,
+      "illustId": "illust_char_101_sora_summer#1",
+      "avatarId": "char_101_sora_summer#1",
+      "portraitId": "char_101_sora_summer#1",
+      "buildingId": "char_101_sora_summer#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_101_sora_summer#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "夏卉 FA361",
+        "colorList": [
+          "#f09a00",
+          "#e75b32",
+          "#7c707f",
+          "#f09a00",
+          "#313131"
+        ],
+        "titleList": [
+          "MARTHE",
+          "珊瑚海岸"
+        ],
+        "modelName": "Sora",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "2019#summer",
+        "skinGroupName": "珊瑚海岸",
+        "skinGroupSortIndex": 6,
+        "content": "MARTHE™ [珊瑚海岸/CoralCoast]夏卉系列泳衣361款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "dialog": "MARTHE™ [珊瑚海岸/CoralCoast]夏卉系列泳衣361款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "usage": "空的海邊裝扮之一。",
+        "description": "走過之處皆是LIVE現場。",
+        "obtainApproach": "採購中心"
+      }
+    },
+    "char_196_sunbr@summer#1": {
+      "skinId": "char_196_sunbr@summer#1",
+      "charId": "char_196_sunbr",
+      "tokenSkinId": null,
+      "illustId": "illust_char_196_sunbr_summer#1",
+      "avatarId": "char_196_sunbr_summer#1",
+      "portraitId": "char_196_sunbr_summer#1",
+      "buildingId": "char_196_sunbr_summer#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_196_sunbr_summer#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "夏卉 FA011",
+        "colorList": [
+          "#6cefc7",
+          "#e75b32",
+          "#4d3c59",
+          "#6cefc7",
+          "#313131"
+        ],
+        "titleList": [
+          "MARTHE",
+          "珊瑚海岸"
+        ],
+        "modelName": "Гум",
+        "drawerName": "Skade",
+        "skinGroupId": "2019#summer",
+        "skinGroupName": "珊瑚海岸",
+        "skinGroupSortIndex": 6,
+        "content": "MARTHE™ [珊瑚海岸/CoralCoast]夏卉系列泳衣011款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "dialog": "MARTHE™ [珊瑚海岸/CoralCoast]夏卉系列泳衣011款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
+        "usage": "古米的海邊裝扮之一。",
+        "description": "並不會贈送外套和冷飲小車。",
+        "obtainApproach": "採購中心"
+      }
+    },
+    "char_199_yak@summer#1": {
+      "skinId": "char_199_yak@summer#1",
+      "charId": "char_199_yak",
+      "tokenSkinId": null,
+      "illustId": "illust_char_199_yak_summer#1",
+      "avatarId": "char_199_yak_summer#1",
+      "portraitId": "char_199_yak_summer#1",
+      "buildingId": "char_199_yak_summer#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_199_yak_summer#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "沙灘護衛 GT.001",
+        "colorList": [
+          "#007ba4",
+          "#136aff",
+          "#136aff",
+          "#97918e",
+          "#313131"
+        ],
+        "titleList": [
+          "MARTHE",
+          "珊瑚海岸"
+        ],
+        "modelName": "Matterhorn",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "2019#summer",
+        "skinGroupName": "珊瑚海岸",
+        "skinGroupSortIndex": 6,
+        "content": "<color name=#ffffff>MARTHE™ [珊瑚海岸/CoralCoast]沙灘護衛系列泳衣首發001款。採用耐磨材質，寬鬆舒適而又貼身透氣。貼合人體，確保觀賞性同時便於各種戶外運動。</color>",
+        "dialog": "MARTHE™ [珊瑚海岸/CoralCoast]沙灘護衛系列泳衣首發001款。採用耐磨材質，寬鬆舒適而又貼身透氣。貼合人體，確保觀賞性同時便於各種戶外運動。",
+        "usage": "角峰新買的海邊裝扮。",
+        "description": "沙灘變得可靠而安全，多虧了他的付出。",
+        "obtainApproach": "活動獲得"
+      }
+    },
+    "char_286_cast3@summer#1": {
+      "skinId": "char_286_cast3@summer#1",
+      "charId": "char_286_cast3",
+      "tokenSkinId": null,
+      "illustId": "illust_char_286_cast3_summer#1",
+      "avatarId": "char_286_cast3_summer#1",
+      "portraitId": "char_286_cast3_summer#1",
+      "buildingId": "char_286_cast3_summer#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_286_cast3_summer#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "SUM019.ver",
+        "colorList": [
+          "#525d72",
+          "#525d72",
+          "#e3ff4a",
+          "#525d72",
+          "#313131"
+        ],
+        "titleList": [
+          "MARTHE",
+          "珊瑚海岸"
+        ],
+        "modelName": "Castle-3",
+        "drawerName": "TOKI",
+        "skinGroupId": "2019#summer",
+        "skinGroupName": "珊瑚海岸",
+        "skinGroupSortIndex": 6,
+        "content": "<color name=#ffffff>MARTHE™ [珊瑚海岸/CoralCoast]雷神工業聯動SUMMER特別塗裝款。採用夏季耐熱塗料，配備最新的沙灘輪胎以及強化引擎，海灘行動特化。</color>",
+        "dialog": "MARTHE™ [珊瑚海岸/CoralCoast]雷神工業聯動SUMMER特別塗裝款。採用夏季耐熱塗料，配備最新的沙灘輪胎以及強化引擎，海灘行動特化。",
+        "usage": "Castle-3夏日特殊塗裝。",
+        "description": "新塗裝讓它變得更容易和醫療用車搞混了。",
+        "obtainApproach": "活動獲得"
+      }
+    },
     "char_208_melan@epoque#1": {
       "skinId": "char_208_melan@epoque#1",
       "charId": "char_208_melan",
@@ -7514,6 +7926,10 @@
       "0": "char_290_vigna#1",
       "2": "char_290_vigna#2"
     },
+    "char_151_myrtle": {
+      "0": "char_151_myrtle#1",
+      "2": "char_151_myrtle#2"
+    },
     "char_130_doberm": {
       "0": "char_130_doberm#1",
       "2": "char_130_doberm#2"
@@ -7613,6 +8029,10 @@
     "char_143_ghost": {
       "0": "char_143_ghost#1",
       "2": "char_143_ghost#2"
+    },
+    "char_274_astesi": {
+      "0": "char_274_astesi#1",
+      "2": "char_274_astesi#2"
     },
     "char_129_bluep": {
       "0": "char_129_bluep#1",
@@ -7750,6 +8170,10 @@
     "char_010_chen": {
       "0": "char_010_chen#1",
       "2": "char_010_chen#2"
+    },
+    "char_188_helage": {
+      "0": "char_188_helage#1",
+      "2": "char_188_helage#2"
     },
     "token_10000_silent_healrb": {
       "0": "token_10000_silent_healrb#1"
