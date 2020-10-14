@@ -502,6 +502,66 @@
         "id": "tag_13",
         "text": "新系列的宿舍傢俱套件剛剛到庫，用它好好再佈置一下宿舍吧！"
       }
+    },
+    {
+      "tagId": "tag_11",
+      "displayType": "block_1",
+      "tagName": "珊瑚海岸/1",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1602660600,
+      "endDatetime": 1603828799,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag11_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_11",
+        "text": "幹員的新服裝限時上架，千萬別錯過！"
+      }
+    },
+    {
+      "tagId": "tag_15",
+      "displayType": "block_1",
+      "tagName": "限時傢俱/1",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1602660600,
+      "endDatetime": 1604433599,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag15_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_15",
+        "text": "博士？要不要給音樂節準備些什麼呢？幹員們會很開心的哦？"
+      }
     }
   ],
   "creditUnlockGroup": {
@@ -820,12 +880,52 @@
     {
       "items": [
         {
+          "spriteId": "shop_shining_summer#1",
+          "startTime": 1602660600,
+          "endTime": 1603828799,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_147_shining@summer#1",
+          "skinId": "char_147_shining@summer#1"
+        },
+        {
+          "spriteId": "shop_skfire_summer#1",
+          "startTime": 1602660600,
+          "endTime": 1603828799,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_166_skfire@summer#1",
+          "skinId": "char_166_skfire@summer#1"
+        },
+        {
+          "spriteId": "shop_vigna_summer#1",
+          "startTime": 1602660600,
+          "endTime": 1603828799,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_290_vigna@summer#1",
+          "skinId": "char_290_vigna@summer#1"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_kroos_witch#1",
           "startTime": 1603915200,
           "endTime": 1605124799,
           "cmd": "SKINSHOP",
           "param1": "SS_char_124_kroos@witch#1",
           "skinId": "char_124_kroos@witch#1"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_guitar_2020",
+          "startTime": 1602660600,
+          "endTime": 1604433599,
+          "cmd": "FURNSHOP",
+          "param1": null,
+          "skinId": ""
         }
       ]
     },
