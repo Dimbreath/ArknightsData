@@ -5,7 +5,7 @@
       "displayType": "block_1",
       "tagName": "新手組合包",
       "itemTag": "NONE",
-      "orderNum": 4,
+      "orderNum": 10,
       "startDatetime": -62135625600,
       "endDatetime": -62135625600,
       "groupList": [
@@ -35,7 +35,7 @@
       "displayType": "block_1",
       "tagName": "月卡",
       "itemTag": "NONE",
-      "orderNum": 5,
+      "orderNum": 11,
       "startDatetime": -62135625600,
       "endDatetime": -62135625600,
       "groupList": [
@@ -65,7 +65,7 @@
       "displayType": "block_1",
       "tagName": "時裝",
       "itemTag": "NONE",
-      "orderNum": 6,
+      "orderNum": 12,
       "startDatetime": -62135625600,
       "endDatetime": -62135625600,
       "groupList": [
@@ -95,7 +95,7 @@
       "displayType": "block_3",
       "tagName": "精選組合",
       "itemTag": "NONE",
-      "orderNum": 7,
+      "orderNum": 13,
       "startDatetime": -62135625600,
       "endDatetime": -62135625600,
       "groupList": [
@@ -156,81 +156,6 @@
       "tagWord": {
         "id": "tag_4",
         "text": "這些是特意為博士準備的採購部組合包！快收下吧！雖然說是採購部的組合包，但這也是要動用預算經費的。"
-      }
-    },
-    {
-      "tagId": "tag_5",
-      "displayType": "block_4_1",
-      "tagName": "優質傢俱",
-      "itemTag": "NONE",
-      "orderNum": 8,
-      "startDatetime": -62135625600,
-      "endDatetime": -62135625600,
-      "groupList": [
-        {
-          "recommendGroup": [
-            1
-          ],
-          "dataList": [
-            {
-              "imgId": "tag5_a",
-              "slotIndex": 0,
-              "cmd": "FURNSHOP",
-              "param1": null,
-              "param2": null,
-              "skinId": ""
-            }
-          ]
-        },
-        {
-          "recommendGroup": [
-            2
-          ],
-          "dataList": [
-            {
-              "imgId": "tag5_c1",
-              "slotIndex": 0,
-              "cmd": "FURNSHOP",
-              "param1": "single_3",
-              "param2": null,
-              "skinId": ""
-            }
-          ]
-        },
-        {
-          "recommendGroup": [
-            3
-          ],
-          "dataList": [
-            {
-              "imgId": "tag5_c2",
-              "slotIndex": 0,
-              "cmd": "FURNSHOP",
-              "param1": "single_7",
-              "param2": null,
-              "skinId": ""
-            }
-          ]
-        },
-        {
-          "recommendGroup": [
-            4
-          ],
-          "dataList": [
-            {
-              "imgId": "tag5_c4",
-              "slotIndex": 0,
-              "cmd": "FURNSHOP",
-              "param1": "single_8",
-              "param2": null,
-              "skinId": ""
-            }
-          ]
-        }
-      ],
-      "tagWord": {
-        "id": "tag_5",
-        "text": "對於一名傑出的程式工程師來說，挑選合適的工作椅也是能力的一部分，博士也一樣！"
       }
     },
     {
@@ -622,6 +547,96 @@
         "id": "tag_20",
         "text": "如此強烈的風格真是深得我心！只是不知道膽小的幹員們能不能好好休息......"
       }
+    },
+    {
+      "tagId": "tag_24",
+      "displayType": "block_1",
+      "tagName": "生命之地/2",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1605765600,
+      "endDatetime": 1607543999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag24_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_24",
+        "text": "高山！密林！荒漠！幹員們都已經躍躍欲試了，博士！"
+      }
+    },
+    {
+      "tagId": "tag_23",
+      "displayType": "block_1",
+      "tagName": "企鵝物流安全屋",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1605765600,
+      "endDatetime": 1607543999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag23_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "penguin_2019",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_23",
+        "text": "企鵝物流的幹員們提出了一份宿舍舒適度改造計畫！我特地為博士準備好了清單呢！"
+      }
+    },
+    {
+      "tagId": "tag_21",
+      "displayType": "block_1",
+      "tagName": "薩米鄉野別墅",
+      "itemTag": "NONE",
+      "orderNum": 3,
+      "startDatetime": 1605765600,
+      "endDatetime": 1607543999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag21_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "wooden_2019",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_21",
+        "text": "在羅德島內感受壁爐劈啪作響的別緻魅力！博士，千萬不要錯過這個機會！"
+      }
     }
   ],
   "creditUnlockGroup": {
@@ -769,26 +784,6 @@
     ]
   },
   "carousels": [
-    {
-      "items": [
-        {
-          "spriteId": "shop1",
-          "startTime": 1578168000,
-          "endTime": 1924891199,
-          "cmd": "GIFTPACKAGE",
-          "param1": "GP_Once_1",
-          "skinId": ""
-        },
-        {
-          "spriteId": "shop2",
-          "startTime": 1578168000,
-          "endTime": 1924891199,
-          "cmd": "GIFTPACKAGE",
-          "param1": null,
-          "skinId": ""
-        }
-      ]
-    },
     {
       "items": [
         {
@@ -1008,6 +1003,70 @@
     {
       "items": [
         {
+          "spriteId": "shop_milu_wild#2",
+          "startTime": 1605765600,
+          "endTime": 1607543999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_158_milu@wild#2",
+          "skinId": "char_158_milu@wild#2"
+        },
+        {
+          "spriteId": "shop_jesica_wild#2",
+          "startTime": 1605765600,
+          "endTime": 1607543999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_235_jesica@wild#2",
+          "skinId": "char_235_jesica@wild#2"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_penguin_2019",
+          "startTime": 1605765600,
+          "endTime": 1607543999,
+          "cmd": "FURNSHOP",
+          "param1": "penguin_2019",
+          "skinId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_wooden_2019",
+          "startTime": 1605765600,
+          "endTime": 1607543999,
+          "cmd": "FURNSHOP",
+          "param1": "wooden_2019",
+          "skinId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop1",
+          "startTime": 1578168000,
+          "endTime": 1924891199,
+          "cmd": "GIFTPACKAGE",
+          "param1": "GP_Once_1",
+          "skinId": ""
+        },
+        {
+          "spriteId": "shop2",
+          "startTime": 1578168000,
+          "endTime": 1924891199,
+          "cmd": "GIFTPACKAGE",
+          "param1": null,
+          "skinId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop_guitar_2020",
           "startTime": 1602660600,
           "endTime": 1604433599,
@@ -1030,6 +1089,16 @@
       ]
     }
   ],
+  "chooseShopRelations": [
+    {
+      "goodId": "GP_NpOne_1",
+      "optionList": [
+        "GP_NpOne_1_NpOne_1_v1",
+        "GP_NpOne_1_NpOne_1_v2",
+        "GP_NpOne_1_NpOne_1_v3"
+      ]
+    }
+  ],
   "shopUnlockDict": {
     "GP_gM_1_M_1": "ALWAYS_UNLOCK",
     "GP_gM_2_M_1": "ALWAYS_UNLOCK",
@@ -1039,6 +1108,18 @@
     "GP_gM_6_M_1": "ALWAYS_UNLOCK",
     "GP_gM_7_M_1": "ALWAYS_UNLOCK",
     "GP_gM_8_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_9_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_10_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_11_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_12_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_13_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_14_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_15_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_16_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_17_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_18_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_19_M_1": "ALWAYS_UNLOCK",
+    "GP_gM_20_M_1": "ALWAYS_UNLOCK",
     "GP_gW_1_W_2": "ALWAYS_UNLOCK",
     "GP_gW_2_W_2": "ALWAYS_UNLOCK",
     "GP_gW_3_W_2": "ALWAYS_UNLOCK",
@@ -1074,6 +1155,36 @@
     "GP_gW_33_W_2": "ALWAYS_UNLOCK",
     "GP_gW_34_W_2": "ALWAYS_UNLOCK",
     "GP_gW_35_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_36_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_37_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_38_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_39_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_40_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_41_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_42_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_43_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_44_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_45_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_46_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_47_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_48_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_49_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_50_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_51_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_52_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_53_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_54_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_55_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_56_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_57_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_58_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_59_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_60_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_61_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_62_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_63_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_64_W_2": "ALWAYS_UNLOCK",
+    "GP_gW_65_W_2": "ALWAYS_UNLOCK",
     "GP_freeL_5": "ALWAYS_UNLOCK",
     "GP_freeL_10": "ALWAYS_UNLOCK",
     "GP_freeL_15": "ALWAYS_UNLOCK",
@@ -1103,6 +1214,9 @@
     "GP_Once_1": "ALWAYS_UNLOCK",
     "GP_Once_2": "ALWAYS_UNLOCK",
     "GP_Once_3": "ALWAYS_UNLOCK",
-    "GP_Once_4": "FURN_UNLOCK"
+    "GP_Once_4": "FURN_UNLOCK",
+    "GP_Once_5": "ALWAYS_UNLOCK",
+    "GP_Once_6": "ALWAYS_UNLOCK",
+    "GP_NpOne_1": "ALWAYS_UNLOCK"
   }
 }

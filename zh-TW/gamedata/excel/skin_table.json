@@ -34,7 +34,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_286_cast3#1": {
@@ -71,7 +72,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_502_nblade#1": {
@@ -108,7 +110,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_500_noirc#1": {
@@ -145,7 +148,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_503_rang#1": {
@@ -182,7 +186,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_501_durin#1": {
@@ -219,7 +224,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_009_12fce#1": {
@@ -256,7 +262,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_123_fang#1": {
@@ -293,7 +300,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_240_wyvern#1": {
@@ -330,7 +338,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_192_falco#1": {
@@ -367,7 +376,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_208_melan#1": {
@@ -404,7 +414,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_281_popka#1": {
@@ -441,7 +452,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_209_ardign#1": {
@@ -478,7 +490,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_122_beagle#1": {
@@ -515,7 +528,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_284_spot#1": {
@@ -552,7 +566,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_124_kroos#1": {
@@ -589,7 +604,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_211_adnach#1": {
@@ -626,7 +642,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_121_lava#1": {
@@ -663,7 +680,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_120_hibisc#1": {
@@ -700,7 +718,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_212_ansel#1": {
@@ -737,7 +756,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_210_stward#1": {
@@ -774,7 +794,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_278_orchid#1": {
@@ -811,7 +832,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_141_nights#1": {
@@ -848,7 +870,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_141_nights#2": {
@@ -885,7 +908,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_109_fmout#1": {
@@ -922,7 +946,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_109_fmout#2": {
@@ -959,7 +984,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_253_greyy#1": {
@@ -980,7 +1006,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#bd8936",
           "",
           "",
           "",
@@ -996,7 +1022,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_253_greyy#2": {
@@ -1017,7 +1044,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#bd8936",
           "",
           "",
           "",
@@ -1033,7 +1060,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_235_jesica#1": {
@@ -1070,7 +1098,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_235_jesica#2": {
@@ -1107,7 +1136,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_126_shotst#1": {
@@ -1144,7 +1174,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_126_shotst#2": {
@@ -1181,7 +1212,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_190_clour#1": {
@@ -1202,7 +1234,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#fd7a3f",
           "",
           "",
           "",
@@ -1218,7 +1250,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_190_clour#2": {
@@ -1239,7 +1272,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#fd7a3f",
           "",
           "",
           "",
@@ -1255,7 +1288,84 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_133_mm#1": {
+      "skinId": "char_133_mm#1",
+      "charId": "char_133_mm",
+      "tokenSkinId": null,
+      "illustId": "illust_char_133_mm_1",
+      "avatarId": "char_133_mm",
+      "portraitId": "char_133_mm_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#fd7a3f",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "May",
+        "drawerName": "下野宏銘",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_133_mm#2": {
+      "skinId": "char_133_mm#2",
+      "charId": "char_133_mm",
+      "tokenSkinId": null,
+      "illustId": "illust_char_133_mm_2",
+      "avatarId": "char_133_mm_2",
+      "portraitId": "char_133_mm_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#fd7a3f",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "May",
+        "drawerName": "下野宏銘",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_118_yuki#1": {
@@ -1292,7 +1402,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_118_yuki#2": {
@@ -1329,7 +1440,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_198_blackd#1": {
@@ -1366,7 +1478,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_198_blackd#2": {
@@ -1403,7 +1516,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_149_scave#1": {
@@ -1440,7 +1554,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_149_scave#2": {
@@ -1477,7 +1592,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_290_vigna#1": {
@@ -1514,7 +1630,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_290_vigna#2": {
@@ -1551,7 +1668,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_151_myrtle#1": {
@@ -1572,7 +1690,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#ffe400",
           "",
           "",
           "",
@@ -1588,7 +1706,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_151_myrtle#2": {
@@ -1609,7 +1728,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#ffe400",
           "",
           "",
           "",
@@ -1625,7 +1744,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_130_doberm#1": {
@@ -1662,7 +1782,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_130_doberm#2": {
@@ -1699,7 +1820,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_289_gyuki#1": {
@@ -1736,7 +1858,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_289_gyuki#2": {
@@ -1773,7 +1896,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_193_frostl#1": {
@@ -1810,7 +1934,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_193_frostl#2": {
@@ -1847,7 +1972,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_127_estell#1": {
@@ -1884,7 +2010,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_127_estell#2": {
@@ -1921,7 +2048,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_185_frncat#1": {
@@ -1958,7 +2086,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_185_frncat#2": {
@@ -1995,7 +2124,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_237_gravel#1": {
@@ -2032,7 +2162,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_237_gravel#2": {
@@ -2069,7 +2200,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_236_rope#1": {
@@ -2106,7 +2238,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_236_rope#2": {
@@ -2143,7 +2276,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_117_myrrh#1": {
@@ -2180,7 +2314,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_117_myrrh#2": {
@@ -2217,7 +2352,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_187_ccheal#1": {
@@ -2254,7 +2390,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_187_ccheal#2": {
@@ -2291,7 +2428,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_298_susuro#1": {
@@ -2312,7 +2450,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#f4b5a8",
           "",
           "",
           "",
@@ -2328,7 +2466,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_298_susuro#2": {
@@ -2349,7 +2488,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#f4b5a8",
           "",
           "",
           "",
@@ -2365,7 +2504,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_181_flower#1": {
@@ -2402,7 +2542,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_181_flower#2": {
@@ -2439,7 +2580,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_199_yak#1": {
@@ -2476,7 +2618,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_199_yak#2": {
@@ -2513,7 +2656,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_150_snakek#1": {
@@ -2550,7 +2694,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_150_snakek#2": {
@@ -2587,7 +2732,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_196_sunbr#1": {
@@ -2624,7 +2770,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_196_sunbr#2": {
@@ -2661,7 +2808,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_260_durnar#1": {
@@ -2682,7 +2830,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#692a84",
           "",
           "",
           "",
@@ -2698,7 +2846,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_260_durnar#2": {
@@ -2719,7 +2868,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#692a84",
           "",
           "",
           "",
@@ -2735,7 +2884,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_110_deepcl#1": {
@@ -2772,7 +2922,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_110_deepcl#2": {
@@ -2809,7 +2960,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_183_skgoat#1": {
@@ -2846,7 +2998,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_183_skgoat#2": {
@@ -2883,7 +3036,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_355_ethan#1": {
@@ -2904,7 +3058,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#6fddcb",
           "",
           "",
           "",
@@ -2920,7 +3074,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_355_ethan#2": {
@@ -2941,7 +3096,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#6fddcb",
           "",
           "",
           "",
@@ -2957,7 +3112,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_277_sqrrel#1": {
@@ -2994,7 +3150,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_277_sqrrel#2": {
@@ -3031,7 +3188,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_128_plosis#1": {
@@ -3068,7 +3226,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_128_plosis#2": {
@@ -3105,7 +3264,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_275_breeze#1": {
@@ -3142,7 +3302,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_275_breeze#2": {
@@ -3179,7 +3340,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_115_headbr#1": {
@@ -3216,7 +3378,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_115_headbr#2": {
@@ -3253,7 +3416,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_102_texas#1": {
@@ -3290,7 +3454,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_102_texas#2": {
@@ -3327,7 +3492,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_308_swire#1": {
@@ -3348,7 +3514,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#f77b36",
           "",
           "",
           "",
@@ -3364,7 +3530,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_308_swire#2": {
@@ -3385,7 +3552,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#f77b36",
           "",
           "",
           "",
@@ -3401,7 +3568,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_106_franka#1": {
@@ -3438,7 +3606,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_106_franka#2": {
@@ -3475,7 +3644,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_131_flameb#1": {
@@ -3512,7 +3682,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_131_flameb#2": {
@@ -3549,7 +3720,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_155_tiger#1": {
@@ -3586,7 +3758,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_155_tiger#2": {
@@ -3623,7 +3796,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_140_whitew#1": {
@@ -3660,7 +3834,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_140_whitew#2": {
@@ -3697,7 +3872,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_143_ghost#1": {
@@ -3734,7 +3910,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_143_ghost#2": {
@@ -3771,7 +3948,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_274_astesi#1": {
@@ -3792,7 +3970,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#033f8f",
           "",
           "",
           "",
@@ -3808,7 +3986,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_274_astesi#2": {
@@ -3829,7 +4008,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#033f8f",
           "",
           "",
           "",
@@ -3845,7 +4024,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_129_bluep#1": {
@@ -3882,7 +4062,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_129_bluep#2": {
@@ -3919,7 +4100,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_204_platnm#1": {
@@ -3956,7 +4138,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_204_platnm#2": {
@@ -3993,7 +4176,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_219_meteo#1": {
@@ -4030,7 +4214,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_219_meteo#2": {
@@ -4067,7 +4252,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_279_excu#1": {
@@ -4104,7 +4290,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_279_excu#2": {
@@ -4141,7 +4328,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_002_amiya#1": {
@@ -4178,7 +4366,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_002_amiya#1+": {
@@ -4215,7 +4404,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_002_amiya#2": {
@@ -4252,7 +4442,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_166_skfire#1": {
@@ -4289,7 +4480,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_166_skfire#2": {
@@ -4326,7 +4518,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_242_otter#1": {
@@ -4363,7 +4556,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_242_otter#2": {
@@ -4400,7 +4594,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_108_silent#1": {
@@ -4437,7 +4632,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_108_silent#2": {
@@ -4474,7 +4670,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_171_bldsk#1": {
@@ -4511,7 +4708,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_171_bldsk#2": {
@@ -4548,7 +4746,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_348_ceylon#1": {
@@ -4569,7 +4768,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#0075a9",
           "",
           "",
           "",
@@ -4585,7 +4784,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_348_ceylon#2": {
@@ -4606,7 +4806,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#0075a9",
           "",
           "",
           "",
@@ -4622,7 +4822,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_148_nearl#1": {
@@ -4659,7 +4860,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_148_nearl#2": {
@@ -4696,7 +4898,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_144_red#1": {
@@ -4733,7 +4936,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_144_red#2": {
@@ -4770,7 +4974,84 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_243_waaifu#1": {
+      "skinId": "char_243_waaifu#1",
+      "charId": "char_243_waaifu",
+      "tokenSkinId": null,
+      "illustId": "illust_char_243_waaifu_1",
+      "avatarId": "char_243_waaifu",
+      "portraitId": "char_243_waaifu_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Waai Fu",
+        "drawerName": "KuroBlood",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_243_waaifu#2": {
+      "skinId": "char_243_waaifu#2",
+      "charId": "char_243_waaifu",
+      "tokenSkinId": null,
+      "illustId": "illust_char_243_waaifu_2",
+      "avatarId": "char_243_waaifu_2",
+      "portraitId": "char_243_waaifu_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Waai Fu",
+        "drawerName": "KuroBlood",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_107_liskam#1": {
@@ -4807,7 +5088,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_107_liskam#2": {
@@ -4844,7 +5126,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_201_moeshd#1": {
@@ -4881,7 +5164,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_201_moeshd#2": {
@@ -4918,7 +5202,84 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_325_bison#1": {
+      "skinId": "char_325_bison#1",
+      "charId": "char_325_bison",
+      "tokenSkinId": null,
+      "illustId": "illust_char_325_bison_1",
+      "avatarId": "char_325_bison",
+      "portraitId": "char_325_bison_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Bison",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_325_bison#2": {
+      "skinId": "char_325_bison#2",
+      "charId": "char_325_bison",
+      "tokenSkinId": null,
+      "illustId": "illust_char_325_bison_2",
+      "avatarId": "char_325_bison_2",
+      "portraitId": "char_325_bison_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Bison",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_163_hpsts#1": {
@@ -4955,7 +5316,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_163_hpsts#2": {
@@ -4992,7 +5354,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_145_prove#1": {
@@ -5029,7 +5392,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_145_prove#2": {
@@ -5066,7 +5430,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_158_milu#1": {
@@ -5103,7 +5468,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_158_milu#2": {
@@ -5140,7 +5506,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_173_slchan#1": {
@@ -5177,7 +5544,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_173_slchan#2": {
@@ -5214,7 +5582,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_174_slbell#1": {
@@ -5251,7 +5620,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_174_slbell#2": {
@@ -5288,7 +5658,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_195_glassb#1": {
@@ -5325,7 +5696,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_195_glassb#2": {
@@ -5362,7 +5734,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_326_glacus#1": {
@@ -5383,7 +5756,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#001bc5",
           "",
           "",
           "",
@@ -5399,7 +5772,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_326_glacus#2": {
@@ -5420,7 +5794,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#001bc5",
           "",
           "",
           "",
@@ -5436,7 +5810,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_101_sora#1": {
@@ -5473,7 +5848,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_101_sora#2": {
@@ -5510,7 +5886,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_215_mantic#1": {
@@ -5547,7 +5924,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_215_mantic#2": {
@@ -5584,7 +5962,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_241_panda#1": {
@@ -5621,7 +6000,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_241_panda#2": {
@@ -5658,7 +6038,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_103_angel#1": {
@@ -5695,7 +6076,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_103_angel#2": {
@@ -5732,7 +6114,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_340_shwaz#1": {
@@ -5769,7 +6152,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_340_shwaz#2": {
@@ -5806,7 +6190,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_112_siege#1": {
@@ -5843,7 +6228,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_112_siege#2": {
@@ -5880,7 +6266,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_134_ifrit#1": {
@@ -5917,7 +6304,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_134_ifrit#2": {
@@ -5954,7 +6342,84 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_213_mostma#1": {
+      "skinId": "char_213_mostma#1",
+      "charId": "char_213_mostma",
+      "tokenSkinId": null,
+      "illustId": "illust_char_213_mostma_1",
+      "avatarId": "char_213_mostma",
+      "portraitId": "char_213_mostma_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#004986",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Mostima",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": "幹員平時最常穿著的服裝。\n雖然不一定比制服更實用，但是一定是幹員最舒適的搭配之一。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_213_mostma#2": {
+      "skinId": "char_213_mostma#2",
+      "charId": "char_213_mostma",
+      "tokenSkinId": null,
+      "illustId": "illust_char_213_mostma_2",
+      "avatarId": "char_213_mostma_2",
+      "portraitId": "char_213_mostma_2",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": [
+          "",
+          "",
+          "#004986",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "titleList": [],
+        "modelName": "Mostima",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "ILLUST_2",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -10,
+        "content": "晉升後，經過調整的服裝。\n根據幹員的經驗，對服裝細節進行改進，針對一些作戰環境進行了特化處理。在滿足戰鬥需求的同時，最大程度還原各位幹員熟悉的舒適穿著體驗。",
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_180_amgoat#1": {
@@ -5991,7 +6456,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_180_amgoat#2": {
@@ -6028,7 +6494,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_291_aglina#1": {
@@ -6065,7 +6532,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_291_aglina#2": {
@@ -6102,7 +6570,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_248_mgllan#1": {
@@ -6123,7 +6592,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#ffd800",
           "",
           "",
           "",
@@ -6139,7 +6608,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_248_mgllan#2": {
@@ -6160,7 +6630,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#ffd800",
           "",
           "",
           "",
@@ -6176,7 +6646,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_147_shining#1": {
@@ -6213,7 +6684,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_147_shining#2": {
@@ -6250,7 +6722,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_179_cgbird#1": {
@@ -6287,7 +6760,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_179_cgbird#2": {
@@ -6324,7 +6798,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_136_hsguma#1": {
@@ -6361,7 +6836,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_136_hsguma#2": {
@@ -6398,7 +6874,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_202_demkni#1": {
@@ -6435,7 +6912,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_202_demkni#2": {
@@ -6472,7 +6950,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_172_svrash#1": {
@@ -6509,7 +6988,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_172_svrash#2": {
@@ -6546,7 +7026,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_010_chen#1": {
@@ -6583,7 +7064,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_010_chen#2": {
@@ -6620,7 +7102,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_188_helage#1": {
@@ -6641,7 +7124,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#a5a5a5",
           "",
           "",
           "",
@@ -6657,7 +7140,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_188_helage#2": {
@@ -6678,7 +7162,7 @@
         "colorList": [
           "",
           "",
-          "",
+          "#a5a5a5",
           "",
           "",
           "",
@@ -6694,7 +7178,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10000_silent_healrb#1": {
@@ -6723,7 +7208,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10001_deepcl_tentac#1": {
@@ -6752,7 +7238,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10003_cgbird_bird#1": {
@@ -6781,7 +7268,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10004_otter_motter#1": {
@@ -6810,7 +7298,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10005_mgllan_drone1#1": {
@@ -6839,7 +7328,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10005_mgllan_drone2#1": {
@@ -6868,7 +7358,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "token_10005_mgllan_drone3#1": {
@@ -6897,7 +7388,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_001_crate#1": {
@@ -6926,7 +7418,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_002_emp#1": {
@@ -6955,7 +7448,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_003_gate#1": {
@@ -6984,7 +7478,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_005_sensor#1": {
@@ -7013,7 +7508,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_006_antidr#1": {
@@ -7042,7 +7538,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "trap_007_ballis#1": {
@@ -7071,7 +7568,68 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "trap_008_farm#1": {
+      "skinId": "trap_008_farm#1",
+      "charId": "trap_008_farm",
+      "tokenSkinId": null,
+      "illustId": "illust_trap_008_farm_1",
+      "avatarId": "trap_008_farm",
+      "portraitId": "trap_008_farm_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "trap_009_battery#1": {
+      "skinId": "trap_009_battery#1",
+      "charId": "trap_009_battery",
+      "tokenSkinId": null,
+      "illustId": "illust_trap_009_battery_1",
+      "avatarId": "trap_009_battery",
+      "portraitId": "trap_009_battery_1",
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": null
+      },
+      "isBuySkin": false,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": "ILLUST_0",
+        "skinGroupName": "默認服裝",
+        "skinGroupSortIndex": -50,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_230_savage#1": {
@@ -7108,7 +7666,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_230_savage#2": {
@@ -7145,7 +7704,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_282_catap#1": {
@@ -7182,7 +7742,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_283_midn#1": {
@@ -7219,7 +7780,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_137_brownb#1": {
@@ -7256,7 +7818,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_137_brownb#2": {
@@ -7293,7 +7856,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_164_nightm#1": {
@@ -7330,7 +7894,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_164_nightm#2": {
@@ -7367,7 +7932,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_220_grani#1": {
@@ -7404,7 +7970,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_220_grani#2": {
@@ -7441,7 +8008,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_263_skadi#1": {
@@ -7478,7 +8046,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_263_skadi#2": {
@@ -7515,159 +8084,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
-      }
-    },
-    "char_102_texas@winter#1": {
-      "skinId": "char_102_texas@winter#1",
-      "charId": "char_102_texas",
-      "tokenSkinId": null,
-      "illustId": "illust_char_102_texas_winter#1",
-      "avatarId": "char_102_texas_winter#1",
-      "portraitId": "char_102_texas_winter#1",
-      "buildingId": "char_102_texas_winter#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_102_texas_winter#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "寒冬信使",
-        "colorList": [
-          "#c82a36",
-          "#ffffff",
-          "#c82a36",
-          "#ffffff",
-          "#c82a36"
-        ],
-        "titleList": [
-          "2018·冬",
-          "寒武纪"
-        ],
-        "modelName": "Texas",
-        "drawerName": "幻象黑兔",
-        "skinGroupId": "2018#winter",
-        "skinGroupName": "寒武紀系列",
-        "skinGroupSortIndex": 1,
-        "content": "LIMITED EDITION\n寒武紀1096冬季新款/寒冬信使。特別手工細節填充，舒適貼身。完美融入日常裝束，持久耐穿。高效天然保暖，防風雨透氣材料提供全面防護。",
-        "dialog": "寒武紀1096冬季新款/寒冬信使。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
-        "usage": "德克薩斯的常服之一。",
-        "description": "生活，就是隨心所欲。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "char_143_ghost@winter#1": {
-      "skinId": "char_143_ghost@winter#1",
-      "charId": "char_143_ghost",
-      "tokenSkinId": null,
-      "illustId": "illust_char_143_ghost_winter#1",
-      "avatarId": "char_143_ghost_winter#1",
-      "portraitId": "char_143_ghost_winter#1",
-      "buildingId": "char_143_ghost_winter#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_143_ghost_winter#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "暗流",
-        "colorList": [
-          "#002dff",
-          "#002dff",
-          "#ffffff",
-          "#002dff",
-          "#000000"
-        ],
-        "titleList": [
-          "2018·冬",
-          "寒武纪"
-        ],
-        "modelName": "Specter",
-        "drawerName": "Skade",
-        "skinGroupId": "2018#winter",
-        "skinGroupName": "寒武紀系列",
-        "skinGroupSortIndex": 1,
-        "content": "<color name=#ffffff>LIMITED EDITION\n寒武紀1096冬季新款/暗流。特別手工細節填充，舒適貼身。完美融入日常裝束，持久耐穿。材質輕量耐磨。多層設計高效保暖。</color>",
-        "dialog": "寒武紀1096冬季新款/暗流。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
-        "usage": "幽靈鯊的常服之一。",
-        "description": "她很在意這套服飾，即使已經忘記了理由。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "char_198_blackd@winter#1": {
-      "skinId": "char_198_blackd@winter#1",
-      "charId": "char_198_blackd",
-      "tokenSkinId": null,
-      "illustId": "illust_char_198_blackd_winter#1",
-      "avatarId": "char_198_blackd_winter#1",
-      "portraitId": "char_198_blackd_winter#1",
-      "buildingId": "char_198_blackd_winter#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_198_blackd_winter#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "新航線",
-        "colorList": [
-          "#ffd800",
-          "#ffd800",
-          "#000000",
-          "#ffd800",
-          "#313131"
-        ],
-        "titleList": [
-          "2018·冬",
-          "寒武纪"
-        ],
-        "modelName": "Courier",
-        "drawerName": "竜崎いち",
-        "skinGroupId": "2018#winter",
-        "skinGroupName": "寒武紀系列",
-        "skinGroupSortIndex": 1,
-        "content": "LIMITED EDITION\n寒武紀1096冬季新款/新航線。輕盈簡約為攀岩與登山而設計，使用耐磨和防水材質，保暖性能優越，為所有冒險家提供細心呵護",
-        "dialog": "寒武紀1096冬季新款/新航線。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
-        "usage": "訊使的常服之一。",
-        "description": "自由自在的旅行，從邁出下一步開始。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "char_123_fang@winter#1": {
-      "skinId": "char_123_fang@winter#1",
-      "charId": "char_123_fang",
-      "tokenSkinId": null,
-      "illustId": "illust_char_123_fang_winter#1",
-      "avatarId": "char_123_fang_winter#1",
-      "portraitId": "char_123_fang_winter#1",
-      "buildingId": "char_123_fang_winter#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_123_fang_winter#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "十字郡",
-        "colorList": [
-          "#351dc4",
-          "#000000",
-          "#351dc4",
-          "#351dc4",
-          "#000000"
-        ],
-        "titleList": [
-          "2018·冬",
-          "寒武纪"
-        ],
-        "modelName": "Fang",
-        "drawerName": "下野宏銘",
-        "skinGroupId": "2018#winter",
-        "skinGroupName": "寒武紀系列",
-        "skinGroupSortIndex": 1,
-        "content": "<color name=#ffffff>LIMITED EDITION\n寒武紀1096冬季新款/十字郡。特別手工細節填充，使用防水材質，含袖口部特殊設計、可拆卸部件與拉鍊口袋。</color>",
-        "dialog": "寒武紀1096冬季新款/十字郡。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
-        "usage": "芬的常服之一。",
-        "description": "想要平穩度過的每一天。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_002_amiya@winter#1": {
@@ -7705,45 +8123,8 @@
         "dialog": "忒斯特收藏系列/報童。限定區域供應。經典款式復刻，採用絕佳材質，附加特別縫紉細節。附帶特別設計的開信刀。",
         "usage": "阿米婭喜歡的打扮之一。",
         "description": "倫蒂尼姆的天空總是灰色的。",
-        "obtainApproach": "任務獎勵"
-      }
-    },
-    "char_120_hibisc@nian#1": {
-      "skinId": "char_120_hibisc@nian#1",
-      "charId": "char_120_hibisc",
-      "tokenSkinId": null,
-      "illustId": "illust_char_120_hibisc_nian#1",
-      "avatarId": "char_120_hibisc_nian#1",
-      "portraitId": "char_120_hibisc_nian#1",
-      "buildingId": "char_120_hibisc_nian#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_120_hibisc_nian#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "守歲人",
-        "colorList": [
-          "#7d0022",
-          "#7d0022",
-          "#440062",
-          "#7d0022",
-          "#000000"
-        ],
-        "titleList": [
-          "2019-春",
-          "0011"
-        ],
-        "modelName": "Hibiscus",
-        "drawerName": "下野宏銘",
-        "skinGroupId": "2019#nian",
-        "skinGroupName": "0011製造",
-        "skinGroupSortIndex": 3,
-        "content": "<color name=#ffffff>0011新款/守歲人。龍門手工匠製，全手工製作。高效保暖，輕盈舒適。各種可拆卸設計可以靈活應對換季的氣候變化。</color>",
-        "dialog": "0011新款/守歲人。龍門匠製，尖端科技和傳統工藝的完美結合。提供個人定製服務。防火。",
-        "usage": "芙蓉喜歡的新衣服。",
-        "description": "給一年中的最後一個無眠之夜最美的笑容。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "任務獎勵",
+        "sortId": 2
       }
     },
     "char_181_flower@daily#1": {
@@ -7781,159 +8162,86 @@
         "dialog": "忒斯特收藏系列/植物種志。限定區域供應。經典款式復刻，採用絕佳材質，附加特別縫紉細節。附特別設計的多用工具袋。",
         "usage": "調香師的工作服之一。",
         "description": "沾染了無數鮮花的香味。",
-        "obtainApproach": "活動獲得"
+        "obtainApproach": "活動獲得",
+        "sortId": 3
       }
     },
-    "char_103_angel@wild#1": {
-      "skinId": "char_103_angel@wild#1",
-      "charId": "char_103_angel",
+    "char_208_melan@epoque#1": {
+      "skinId": "char_208_melan@epoque#1",
+      "charId": "char_208_melan",
       "tokenSkinId": null,
-      "illustId": "illust_char_103_angel_wild#1",
-      "avatarId": "char_103_angel_wild#1",
-      "portraitId": "char_103_angel_wild#1",
-      "buildingId": "char_103_angel_wild#1",
+      "illustId": "illust_char_208_melan_epoque#1",
+      "avatarId": "char_208_melan_epoque#1",
+      "portraitId": "char_208_melan_epoque#1",
+      "buildingId": "char_208_melan_epoque#1",
       "battleSkin": {
         "overwritePrefab": false,
-        "skinOrPrefabId": "char_103_angel_wild#1"
+        "skinOrPrefabId": "char_208_melan_epoque#1"
       },
       "isBuySkin": true,
       "displaySkin": {
-        "skinName": "野地秘行",
+        "skinName": "威塞克斯的信件",
         "colorList": [
-          "#b11e19",
-          "#b11e19",
-          "#615327",
-          "#b11e19",
+          "#65394f",
+          "#65394f",
+          "#231616",
+          "#65394f",
           "#313131"
         ],
         "titleList": [
-          "2019-春",
-          "生命之地"
+          "EPOQUE",
+          "时代"
         ],
-        "modelName": "Exusiai",
-        "drawerName": "幻象黑兔",
-        "skinGroupId": "2019#wild",
-        "skinGroupName": "生命之地",
-        "skinGroupSortIndex": 4,
-        "content": "生命之地 [識荒者/Rewilder]系列經典款/野地秘行。防風，防塵，防割裂，保暖。",
-        "dialog": "生命之地[識荒者/Rewilder]系列經典款/野地秘行。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
-        "usage": "能天使的特殊工作服之一。",
-        "description": "整裝待發。",
-        "obtainApproach": "採購中心"
+        "modelName": "Melantha",
+        "drawerName": "一立里子",
+        "skinGroupId": "2019#epoque",
+        "skinGroupName": "時代/I",
+        "skinGroupSortIndex": 3,
+        "content": "<color name=#ffffff>來自維多利亞威塞克斯中學。由維多利亞傳統設計師個性化定製，威塞克斯學生裝。採用百年傳承手藝，做工精良，輕便舒適。</color>",
+        "dialog": "來自維多利亞威塞克斯中學。由維多利亞傳統設計師個性化定製，威塞克斯學生裝。採用百年傳承手藝，做工精良，輕便舒適。",
+        "usage": "玫蘭莎的制服之一。",
+        "description": "來自中學時代的留言。",
+        "obtainApproach": "活動獲得",
+        "sortId": 4
       }
     },
-    "char_173_slchan@wild#1": {
-      "skinId": "char_173_slchan@wild#1",
-      "charId": "char_173_slchan",
+    "char_120_hibisc@nian#1": {
+      "skinId": "char_120_hibisc@nian#1",
+      "charId": "char_120_hibisc",
       "tokenSkinId": null,
-      "illustId": "illust_char_173_slchan_wild#1",
-      "avatarId": "char_173_slchan_wild#1",
-      "portraitId": "char_173_slchan_wild#1",
-      "buildingId": "char_173_slchan_wild#1",
+      "illustId": "illust_char_120_hibisc_nian#1",
+      "avatarId": "char_120_hibisc_nian#1",
+      "portraitId": "char_120_hibisc_nian#1",
+      "buildingId": "char_120_hibisc_nian#1",
       "battleSkin": {
         "overwritePrefab": false,
-        "skinOrPrefabId": "char_173_slchan_wild#1"
+        "skinOrPrefabId": "char_120_hibisc_nian#1"
       },
       "isBuySkin": true,
       "displaySkin": {
-        "skinName": "孤攀客",
+        "skinName": "守歲人",
         "colorList": [
-          "#2c9df6",
-          "#2c9df6",
-          "#c82a36",
-          "#2c9df6",
-          "#313131"
+          "#7d0022",
+          "#7d0022",
+          "#440062",
+          "#7d0022",
+          "#000000"
         ],
         "titleList": [
-          "2019-春",
-          "生命之地"
+          "2019 春节",
+          "0011™制造/I"
         ],
-        "modelName": "Cliffheart",
-        "drawerName": "竜崎いち",
-        "skinGroupId": "2019#wild",
-        "skinGroupName": "生命之地",
-        "skinGroupSortIndex": 4,
-        "content": "生命之地 [識荒者/Rewilder]系列經典款/孤攀客。防風，防寒，保暖，耐磨。",
-        "dialog": "生命之地[識荒者/Rewilder]系列經典款/孤攀客。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
-        "usage": "崖心的特殊工作服之一。",
-        "description": "每一個動作都很小心，每一次登頂都很可貴。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "char_117_myrrh@wild#1": {
-      "skinId": "char_117_myrrh@wild#1",
-      "charId": "char_117_myrrh",
-      "tokenSkinId": null,
-      "illustId": "illust_char_117_myrrh_wild#1",
-      "avatarId": "char_117_myrrh_wild#1",
-      "portraitId": "char_117_myrrh_wild#1",
-      "buildingId": "char_117_myrrh_wild#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_117_myrrh_wild#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "辛味",
-        "colorList": [
-          "#ae3649",
-          "#ae3649",
-          "#ffe77e",
-          "#ae3649",
-          "#313131"
-        ],
-        "titleList": [
-          "2019-春",
-          "生命之地"
-        ],
-        "modelName": "Myrrh",
+        "modelName": "Hibiscus",
         "drawerName": "下野宏銘",
-        "skinGroupId": "2019#wild",
-        "skinGroupName": "生命之地",
-        "skinGroupSortIndex": 4,
-        "content": "生命之地 [識荒者/Rewilder]系列經典款/辛味。防汙，耐磨，輕便。",
-        "dialog": "生命之地[識荒者/Rewilder]系列經典款/辛味。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
-        "usage": "末藥的特殊工作服之一。",
-        "description": "有所付出有所得。",
-        "obtainApproach": "活動獲得"
-      }
-    },
-    "char_150_snakek@wild#1": {
-      "skinId": "char_150_snakek@wild#1",
-      "charId": "char_150_snakek",
-      "tokenSkinId": null,
-      "illustId": "illust_char_150_snakek_wild#1",
-      "avatarId": "char_150_snakek_wild#1",
-      "portraitId": "char_150_snakek_wild#1",
-      "buildingId": "char_150_snakek_wild#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_150_snakek_wild#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "四邊形",
-        "colorList": [
-          "#ff644b",
-          "#ff644b",
-          "#1389c0",
-          "#ff644b",
-          "#313131"
-        ],
-        "titleList": [
-          "2019-春",
-          "生命之地"
-        ],
-        "modelName": "Cuora",
-        "drawerName": "Skade",
-        "skinGroupId": "2019#wild",
-        "skinGroupName": "生命之地",
-        "skinGroupSortIndex": 4,
-        "content": "生命之地 [識荒者/Rewilder]系列經典款/四邊形。防水，防汙，輕便。",
-        "dialog": "生命之地[識荒者/Rewilder]系列經典款/四邊形。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
-        "usage": "蛇屠箱的特殊工作服之一。",
-        "description": "也許會忘記來處，但不會忘記目的地。",
-        "obtainApproach": "採購中心"
+        "skinGroupId": "2019#nian",
+        "skinGroupName": "0011製造/I",
+        "skinGroupSortIndex": 6,
+        "content": "<color name=#ffffff>0011新款/守歲人。龍門手工匠製，全手工製作。高效保暖，輕盈舒適。各種可拆卸設計可以靈活應對換季的氣候變化。</color>",
+        "dialog": "0011新款/守歲人。龍門匠製，尖端科技和傳統工藝的完美結合。提供個人定製服務。防火。",
+        "usage": "芙蓉喜歡的新衣服。",
+        "description": "給一年中的最後一個無眠之夜最美的笑容。",
+        "obtainApproach": "採購中心",
+        "sortId": 8
       }
     },
     "char_147_shining@summer#1": {
@@ -7966,12 +8274,13 @@
         "drawerName": "竜崎いち",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]靜謐午夜系列泳衣02款。材質輕便透氣，舒適耐磨。採用尖端設計，神秘典雅，高貴。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]靜謐午夜系列泳衣02款。材質輕便透氣，舒適耐磨。採用尖端設計，神秘典雅，高貴。",
         "usage": "閃靈的海邊裝扮之一。",
         "description": "夜色也遮掩不住她的光采。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 14
       }
     },
     "char_166_skfire@summer#1": {
@@ -8004,12 +8313,13 @@
         "drawerName": "TOKI",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]溫差系列泳衣RX01款。附帶各種實用部件，舒適便捷，採用特殊材質耐火耐寒，適合於各種環境的水域。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]溫差系列泳衣RX01款。附帶各種實用部件，舒適便捷，採用特殊材質耐火耐寒，適合於各種環境的水域。",
         "usage": "天火的海邊裝扮之一。",
         "description": "請不要將泳衣靠近明火。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 15
       }
     },
     "char_290_vigna@summer#1": {
@@ -8042,12 +8352,13 @@
         "drawerName": "下野宏銘",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣01款。舒適放鬆，透氣輕盈。讓您可以在閒適的環境中享受最完美的沙灘體驗。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣01款。舒適放鬆，透氣輕盈。讓您可以在閒適的環境中享受最完美的沙灘體驗。",
         "usage": "紅豆的眾多海邊裝扮之一。",
         "description": "可以曬出漂亮的泳衣痕跡。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 16
       }
     },
     "char_212_ansel@summer#1": {
@@ -8080,12 +8391,13 @@
         "drawerName": "一立里子",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣06男款。舒適放鬆，透氣輕盈。讓您可以在閒適的環境中享受最完美的沙灘體驗。男款大受好評發售中。",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]悠然假日系列泳衣06男款。舒適放鬆，透氣輕盈。讓您可以在閒適的環境中享受最完美的沙灘體驗。男款大受好評發售中。",
         "usage": "安賽爾的海邊裝扮之一。",
         "description": "接下來去哪裡安置好沙灘據點呢？",
-        "obtainApproach": "活動獲得"
+        "obtainApproach": "活動獲得",
+        "sortId": 17
       }
     },
     "char_134_ifrit@summer#1": {
@@ -8118,12 +8430,13 @@
         "drawerName": "NoriZC",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]日曬系列泳衣SP款。萊茵生命特殊合作款。滿足萊茵生命研究所的基礎用途，在採用新型耐熱材料的同時保證了舒適度。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]日曬系列泳衣SP款。萊茵生命特殊合作款。滿足萊茵生命研究所的基礎用途，在採用新型耐熱材料的同時保證了舒適度。",
         "usage": "伊芙利特的特殊海邊裝扮。",
         "description": "糊了!",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 18
       }
     },
     "char_101_sora@summer#1": {
@@ -8156,12 +8469,13 @@
         "drawerName": "幻象黑兔",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣361款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣361款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
         "usage": "空的海邊裝扮之一。",
         "description": "走過之處皆是LIVE現場。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 19
       }
     },
     "char_196_sunbr@summer#1": {
@@ -8194,12 +8508,13 @@
         "drawerName": "Skade",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣011款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]夏卉系列泳衣011款。參考少女的身材和體質，採用天然材質製成。追求今夏最領先的設計潮流。",
         "usage": "古米的海邊裝扮之一。",
         "description": "並不會贈送外套和冷飲小車。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 20
       }
     },
     "char_199_yak@summer#1": {
@@ -8232,12 +8547,13 @@
         "drawerName": "竜崎いち",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]沙灘護衛系列泳衣首發001款。採用耐磨材質，寬鬆舒適而又貼身透氣。貼合人體，確保觀賞性同時便於各種戶外運動。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]沙灘護衛系列泳衣首發001款。採用耐磨材質，寬鬆舒適而又貼身透氣。貼合人體，確保觀賞性同時便於各種戶外運動。",
         "usage": "角峰新買的海邊裝扮。",
         "description": "沙灘變得可靠而安全，多虧了他的付出。",
-        "obtainApproach": "活動獲得"
+        "obtainApproach": "活動獲得",
+        "sortId": 21
       }
     },
     "char_286_cast3@summer#1": {
@@ -8270,193 +8586,13 @@
         "drawerName": "TOKI",
         "skinGroupId": "2019#summer",
         "skinGroupName": "珊瑚海岸",
-        "skinGroupSortIndex": 6,
+        "skinGroupSortIndex": 9,
         "content": "<color name=#ffffff>MARTHE [珊瑚海岸/CoralCoast]雷神工業聯動SUMMER特別塗裝款。採用夏季耐熱塗料，配備最新的沙灘輪胎以及強化引擎，海灘行動特化。</color>",
         "dialog": "MARTHE [珊瑚海岸/CoralCoast]雷神工業聯動SUMMER特別塗裝款。採用夏季耐熱塗料，配備最新的沙灘輪胎以及強化引擎，海灘行動特化。",
         "usage": "Castle-3夏日特殊塗裝。",
         "description": "新塗裝讓它變得更容易和醫療用車搞混了。",
-        "obtainApproach": "活動獲得"
-      }
-    },
-    "char_208_melan@epoque#1": {
-      "skinId": "char_208_melan@epoque#1",
-      "charId": "char_208_melan",
-      "tokenSkinId": null,
-      "illustId": "illust_char_208_melan_epoque#1",
-      "avatarId": "char_208_melan_epoque#1",
-      "portraitId": "char_208_melan_epoque#1",
-      "buildingId": "char_208_melan_epoque#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_208_melan_epoque#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "威塞克斯的信件",
-        "colorList": [
-          "#65394f",
-          "#65394f",
-          "#231616",
-          "#65394f",
-          "#313131"
-        ],
-        "titleList": [
-          "EPOQUE",
-          "时代"
-        ],
-        "modelName": "Melantha",
-        "drawerName": "一立里子",
-        "skinGroupId": "2019#epoque",
-        "skinGroupName": "時代",
-        "skinGroupSortIndex": 7,
-        "content": "<color name=#ffffff>來自維多利亞威塞克斯中學。由維多利亞傳統設計師個性化定製，威塞克斯學生裝。採用百年傳承手藝，做工精良，輕便舒適。</color>",
-        "dialog": "來自維多利亞威塞克斯中學。由維多利亞傳統設計師個性化定製，威塞克斯學生裝。採用百年傳承手藝，做工精良，輕便舒適。",
-        "usage": "玫蘭莎的制服之一。",
-        "description": "來自中學時代的留言。",
-        "obtainApproach": "活動獲得"
-      }
-    },
-    "char_219_meteo@sweep#1": {
-      "skinId": "char_219_meteo@sweep#1",
-      "charId": "char_219_meteo",
-      "tokenSkinId": null,
-      "illustId": "illust_char_219_meteo_sweep#1",
-      "avatarId": "char_219_meteo_sweep#1",
-      "portraitId": "char_219_meteo_sweep#1",
-      "buildingId": "char_219_meteo_sweep#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_219_meteo_sweep#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "石墨",
-        "colorList": [
-          "#313131",
-          "#313131",
-          "#eec400",
-          "#eec400",
-          "#313131"
-        ],
-        "titleList": [
-          "Pioneer",
-          "雷神开拓者"
-        ],
-        "modelName": "Meteorite",
-        "drawerName": "TOKI",
-        "skinGroupId": "2019#sweep",
-        "skinGroupName": "雷神開拓者",
-        "skinGroupSortIndex": 8,
-        "content": "開拓者系列/石墨。雷神工業出品，以常規戰鬥服設計為藍本，採用了全新材料以及更為密封式的方案，強化了對嚴苛環境的適應性。",
-        "dialog": "開拓者系列/石墨。雷神工業出品，以常規戰鬥服設計為藍本，採用了全新材料以及更為密封式的方案，強化了對嚴苛環境的適應性。",
-        "usage": "雷神工業研發的特殊作業服之一。",
-        "description": "她與廢墟和硝煙融為一體。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "char_108_silent@sweep#1": {
-      "skinId": "char_108_silent@sweep#1",
-      "charId": "char_108_silent",
-      "tokenSkinId": "token_10000_silent_healrb_sweep#1",
-      "illustId": "illust_char_108_silent_sweep#1",
-      "avatarId": "char_108_silent_sweep#1",
-      "portraitId": "char_108_silent_sweep#1",
-      "buildingId": "char_108_silent_sweep#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_108_silent_sweep#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "漆匠",
-        "colorList": [
-          "#313131",
-          "#313131",
-          "#eec400",
-          "#eec400",
-          "#313131"
-        ],
-        "titleList": [
-          "Pioneer",
-          "雷神开拓者"
-        ],
-        "modelName": "Silence",
-        "drawerName": "NoriZC",
-        "skinGroupId": "2019#sweep",
-        "skinGroupName": "雷神開拓者",
-        "skinGroupSortIndex": 8,
-        "content": "開拓者系列/漆匠。雷神工業出品，全覆式，採用特製面料，對粉塵等惡劣環境擁有極高抗性，面向需要出入危險區域的研究人員。",
-        "dialog": "開拓者系列/漆匠。雷神工業出品，全覆式，採用特製面料，對粉塵等惡劣環境擁有極高抗性，面向需要出入危險區域的研究人員。",
-        "usage": "雷神工業研發的特殊作業服之一。",
-        "description": "比起日常穿著，她穿工作服的時間更長。",
-        "obtainApproach": "採購中心"
-      }
-    },
-    "token_10000_silent_healrb_sweep#1": {
-      "skinId": "token_10000_silent_healrb_sweep#1",
-      "charId": "token_10000_silent_healrb",
-      "tokenSkinId": null,
-      "illustId": null,
-      "avatarId": "token_10000_silent_healrb_sweep#1",
-      "portraitId": null,
-      "buildingId": null,
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "token_10000_silent_healrb_sweep#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": null,
-        "colorList": null,
-        "titleList": null,
-        "modelName": null,
-        "drawerName": null,
-        "skinGroupId": null,
-        "skinGroupName": null,
-        "skinGroupSortIndex": 0,
-        "content": null,
-        "dialog": null,
-        "usage": null,
-        "description": null,
-        "obtainApproach": null
-      }
-    },
-    "char_235_jesica@sweep#1": {
-      "skinId": "char_235_jesica@sweep#1",
-      "charId": "char_235_jesica",
-      "tokenSkinId": null,
-      "illustId": "illust_char_235_jesica_sweep#1",
-      "avatarId": "char_235_jesica_sweep#1",
-      "portraitId": "char_235_jesica_sweep#1",
-      "buildingId": "char_235_jesica_sweep#1",
-      "battleSkin": {
-        "overwritePrefab": false,
-        "skinOrPrefabId": "char_235_jesica_sweep#1"
-      },
-      "isBuySkin": true,
-      "displaySkin": {
-        "skinName": "鐵塊",
-        "colorList": [
-          "#313131",
-          "#313131",
-          "#eec400",
-          "#eec400",
-          "#313131"
-        ],
-        "titleList": [
-          "Pioneer",
-          "雷神开拓者"
-        ],
-        "modelName": "Jessica",
-        "drawerName": "m9nokuro",
-        "skinGroupId": "2019#sweep",
-        "skinGroupName": "雷神開拓者",
-        "skinGroupSortIndex": 8,
-        "content": "開拓者系列/鐵塊。雷神工業出品，為極端嚴苛環境設計，先端技術與稀有材料的完美結合。以犧牲便捷性為代價，擁有極高的防護能力。",
-        "dialog": "開拓者系列/鐵塊。雷神工業出品，為極端嚴苛環境設計，先端技術與稀有材料的完美結合。以犧牲便捷性為代價，擁有極高的防護能力。",
-        "usage": "雷神工業研發的特殊作業服之一。",
-        "description": "選擇這套裝備的理由是“看起來非常安全。”",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "活動獲得",
+        "sortId": 22
       }
     },
     "char_179_cgbird@witch#1": {
@@ -8489,12 +8625,13 @@
         "drawerName": "Skade",
         "skinGroupId": "2019#witch",
         "skinGroupName": "巫異盛宴",
-        "skinGroupSortIndex": 10,
+        "skinGroupSortIndex": 12,
         "content": "為夜鶯量身定做的狂歡服飾/輓歌。是誰在歌唱？這種語言從何而來？我看到的是誰的夢，又是誰的死？",
         "dialog": "為夜鶯量身定做的狂歡服飾/輓歌。是誰在歌唱？這種語言從何而來？我看到的是誰的夢，又是誰的死？",
         "usage": "夜鶯的狂歡裝扮。",
         "description": "暮色裡傳來了古老的歌謠。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 25
       }
     },
     "token_10003_cgbird_bird_witch#1": {
@@ -8523,7 +8660,8 @@
         "dialog": null,
         "usage": null,
         "description": null,
-        "obtainApproach": null
+        "obtainApproach": null,
+        "sortId": 0
       }
     },
     "char_171_bldsk@witch#1": {
@@ -8556,12 +8694,13 @@
         "drawerName": "時辰",
         "skinGroupId": "2019#witch",
         "skinGroupName": "巫異盛宴",
-        "skinGroupSortIndex": 10,
+        "skinGroupSortIndex": 12,
         "content": "華法琳定製的狂歡服飾/盛宴。在節日元素的基礎上，添加了薩卡茲的服裝風格元素。由設計者本人親手加工，製作了大量額外飾品。",
         "dialog": "華法琳定製的狂歡服飾/盛宴。在節日元素的基礎上，添加了薩卡茲的服裝風格元素。由設計者本人親手加工，製作了大量額外飾品。",
         "usage": "華法琳的狂歡裝扮。",
         "description": "這是她的主場。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 26
       }
     },
     "char_236_rope@witch#1": {
@@ -8594,12 +8733,13 @@
         "drawerName": "m9nokuro",
         "skinGroupId": "2019#witch",
         "skinGroupName": "巫異盛宴",
-        "skinGroupSortIndex": 10,
+        "skinGroupSortIndex": 12,
         "content": "羅德島送給暗索的狂歡禮物/小鬼當家。參考年輕女性體型設計，考慮到本人的日常行動，採用輕薄且透氣性好的布料，簡約而不失美感。",
         "dialog": "羅德島送給暗索的狂歡禮物/小鬼當家。參考年輕女性體型設計，考慮到本人的日常行動，採用輕薄和透氣性好的布料，簡約而不失美感。",
         "usage": "暗索的狂歡裝扮。",
         "description": "噓......有人在敲門！",
-        "obtainApproach": "活動獲得"
+        "obtainApproach": "活動獲得",
+        "sortId": 27
       }
     },
     "char_124_kroos@witch#1": {
@@ -8632,12 +8772,550 @@
         "drawerName": "下野宏銘",
         "skinGroupId": "2019#witch",
         "skinGroupName": "巫異盛宴",
-        "skinGroupSortIndex": 10,
+        "skinGroupSortIndex": 12,
         "content": "克洛絲為自己設計的狂歡服飾/魔術師。採用了較為時尚的設計，並且在服裝各處和裝飾品中都設計了一些小機關，方便她進行魔術表演。",
         "dialog": "克洛絲為自己設計的狂歡服飾/魔術師。採用了較為時尚的設計，並且在服裝各處和裝飾品中都設計了一些小機關，方便她進行魔術表演。",
         "usage": "克洛絲的狂歡裝扮。",
         "description": "節日的價值，就在於這份笑容。",
-        "obtainApproach": "採購中心"
+        "obtainApproach": "採購中心",
+        "sortId": 28
+      }
+    },
+    "char_102_texas@winter#1": {
+      "skinId": "char_102_texas@winter#1",
+      "charId": "char_102_texas",
+      "tokenSkinId": null,
+      "illustId": "illust_char_102_texas_winter#1",
+      "avatarId": "char_102_texas_winter#1",
+      "portraitId": "char_102_texas_winter#1",
+      "buildingId": "char_102_texas_winter#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_102_texas_winter#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "寒冬信使",
+        "colorList": [
+          "#c82a36",
+          "#ffffff",
+          "#c82a36",
+          "#ffffff",
+          "#c82a36"
+        ],
+        "titleList": [
+          "2018·冬",
+          "寒武纪"
+        ],
+        "modelName": "Texas",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "2018#winter",
+        "skinGroupName": "寒武紀系列",
+        "skinGroupSortIndex": 13,
+        "content": "LIMITED EDITION\n寒武紀1096冬季新款/寒冬信使。特別手工細節填充，舒適貼身。完美融入日常裝束，持久耐穿。高效天然保暖，防風雨透氣材料提供全面防護。",
+        "dialog": "寒武紀1096冬季新款/寒冬信使。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
+        "usage": "德克薩斯的常服之一。",
+        "description": "生活，就是隨心所欲。",
+        "obtainApproach": "採購中心",
+        "sortId": 29
+      }
+    },
+    "char_143_ghost@winter#1": {
+      "skinId": "char_143_ghost@winter#1",
+      "charId": "char_143_ghost",
+      "tokenSkinId": null,
+      "illustId": "illust_char_143_ghost_winter#1",
+      "avatarId": "char_143_ghost_winter#1",
+      "portraitId": "char_143_ghost_winter#1",
+      "buildingId": "char_143_ghost_winter#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_143_ghost_winter#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "暗流",
+        "colorList": [
+          "#002dff",
+          "#002dff",
+          "#ffffff",
+          "#002dff",
+          "#000000"
+        ],
+        "titleList": [
+          "2018·冬",
+          "寒武纪"
+        ],
+        "modelName": "Specter",
+        "drawerName": "Skade",
+        "skinGroupId": "2018#winter",
+        "skinGroupName": "寒武紀系列",
+        "skinGroupSortIndex": 13,
+        "content": "<color name=#ffffff>LIMITED EDITION\n寒武紀1096冬季新款/暗流。特別手工細節填充，舒適貼身。完美融入日常裝束，持久耐穿。材質輕量耐磨。多層設計高效保暖。</color>",
+        "dialog": "寒武紀1096冬季新款/暗流。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
+        "usage": "幽靈鯊的常服之一。",
+        "description": "她很在意這套服飾，即使已經忘記了理由。",
+        "obtainApproach": "採購中心",
+        "sortId": 30
+      }
+    },
+    "char_198_blackd@winter#1": {
+      "skinId": "char_198_blackd@winter#1",
+      "charId": "char_198_blackd",
+      "tokenSkinId": null,
+      "illustId": "illust_char_198_blackd_winter#1",
+      "avatarId": "char_198_blackd_winter#1",
+      "portraitId": "char_198_blackd_winter#1",
+      "buildingId": "char_198_blackd_winter#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_198_blackd_winter#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "新航線",
+        "colorList": [
+          "#ffd800",
+          "#ffd800",
+          "#000000",
+          "#ffd800",
+          "#313131"
+        ],
+        "titleList": [
+          "2018·冬",
+          "寒武纪"
+        ],
+        "modelName": "Courier",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "2018#winter",
+        "skinGroupName": "寒武紀系列",
+        "skinGroupSortIndex": 13,
+        "content": "LIMITED EDITION\n寒武紀1096冬季新款/新航線。輕盈簡約為攀岩與登山而設計，使用耐磨和防水材質，保暖性能優越，為所有冒險家提供細心呵護",
+        "dialog": "寒武紀1096冬季新款/新航線。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
+        "usage": "訊使的常服之一。",
+        "description": "自由自在的旅行，從邁出下一步開始。",
+        "obtainApproach": "採購中心",
+        "sortId": 31
+      }
+    },
+    "char_123_fang@winter#1": {
+      "skinId": "char_123_fang@winter#1",
+      "charId": "char_123_fang",
+      "tokenSkinId": null,
+      "illustId": "illust_char_123_fang_winter#1",
+      "avatarId": "char_123_fang_winter#1",
+      "portraitId": "char_123_fang_winter#1",
+      "buildingId": "char_123_fang_winter#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_123_fang_winter#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "十字郡",
+        "colorList": [
+          "#351dc4",
+          "#000000",
+          "#351dc4",
+          "#351dc4",
+          "#000000"
+        ],
+        "titleList": [
+          "2018·冬",
+          "寒武纪"
+        ],
+        "modelName": "Fang",
+        "drawerName": "下野宏銘",
+        "skinGroupId": "2018#winter",
+        "skinGroupName": "寒武紀系列",
+        "skinGroupSortIndex": 13,
+        "content": "<color name=#ffffff>LIMITED EDITION\n寒武紀1096冬季新款/十字郡。特別手工細節填充，使用防水材質，含袖口部特殊設計、可拆卸部件與拉鍊口袋。</color>",
+        "dialog": "寒武紀1096冬季新款/十字郡。特別手工細節填充，使用防水材質，含袖口部拉鍊與可拆卸帽子、拉鍊口袋。",
+        "usage": "芬的常服之一。",
+        "description": "想要平穩度過的每一天。",
+        "obtainApproach": "採購中心",
+        "sortId": 32
+      }
+    },
+    "char_103_angel@wild#1": {
+      "skinId": "char_103_angel@wild#1",
+      "charId": "char_103_angel",
+      "tokenSkinId": null,
+      "illustId": "illust_char_103_angel_wild#1",
+      "avatarId": "char_103_angel_wild#1",
+      "portraitId": "char_103_angel_wild#1",
+      "buildingId": "char_103_angel_wild#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_103_angel_wild#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "野地秘行",
+        "colorList": [
+          "#b11e19",
+          "#b11e19",
+          "#615327",
+          "#b11e19",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-春",
+          "生命之地/I"
+        ],
+        "modelName": "Exusiai",
+        "drawerName": "幻象黑兔",
+        "skinGroupId": "2019#wild",
+        "skinGroupName": "生命之地/I",
+        "skinGroupSortIndex": 15,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/野地秘行。防風，防塵，防割裂，保暖。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/野地秘行。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "能天使的特殊工作服之一。",
+        "description": "整裝待發。",
+        "obtainApproach": "採購中心",
+        "sortId": 37
+      }
+    },
+    "char_173_slchan@wild#1": {
+      "skinId": "char_173_slchan@wild#1",
+      "charId": "char_173_slchan",
+      "tokenSkinId": null,
+      "illustId": "illust_char_173_slchan_wild#1",
+      "avatarId": "char_173_slchan_wild#1",
+      "portraitId": "char_173_slchan_wild#1",
+      "buildingId": "char_173_slchan_wild#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_173_slchan_wild#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "孤攀客",
+        "colorList": [
+          "#2c9df6",
+          "#2c9df6",
+          "#c82a36",
+          "#2c9df6",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-春",
+          "生命之地/I"
+        ],
+        "modelName": "Cliffheart",
+        "drawerName": "竜崎いち",
+        "skinGroupId": "2019#wild",
+        "skinGroupName": "生命之地/I",
+        "skinGroupSortIndex": 15,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/孤攀客。防風，防寒，保暖，耐磨。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/孤攀客。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "崖心的特殊工作服之一。",
+        "description": "每一個動作都很小心，每一次登頂都很可貴。",
+        "obtainApproach": "採購中心",
+        "sortId": 38
+      }
+    },
+    "char_117_myrrh@wild#1": {
+      "skinId": "char_117_myrrh@wild#1",
+      "charId": "char_117_myrrh",
+      "tokenSkinId": null,
+      "illustId": "illust_char_117_myrrh_wild#1",
+      "avatarId": "char_117_myrrh_wild#1",
+      "portraitId": "char_117_myrrh_wild#1",
+      "buildingId": "char_117_myrrh_wild#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_117_myrrh_wild#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "辛味",
+        "colorList": [
+          "#ae3649",
+          "#ae3649",
+          "#ffe77e",
+          "#ae3649",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-春",
+          "生命之地/I"
+        ],
+        "modelName": "Myrrh",
+        "drawerName": "下野宏銘",
+        "skinGroupId": "2019#wild",
+        "skinGroupName": "生命之地/I",
+        "skinGroupSortIndex": 15,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/辛味。防汙，耐磨，輕便。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/辛味。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "末藥的特殊工作服之一。",
+        "description": "有所付出有所得。",
+        "obtainApproach": "活動獲得",
+        "sortId": 39
+      }
+    },
+    "char_150_snakek@wild#1": {
+      "skinId": "char_150_snakek@wild#1",
+      "charId": "char_150_snakek",
+      "tokenSkinId": null,
+      "illustId": "illust_char_150_snakek_wild#1",
+      "avatarId": "char_150_snakek_wild#1",
+      "portraitId": "char_150_snakek_wild#1",
+      "buildingId": "char_150_snakek_wild#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_150_snakek_wild#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "四邊形",
+        "colorList": [
+          "#ff644b",
+          "#ff644b",
+          "#1389c0",
+          "#ff644b",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-春",
+          "生命之地/I"
+        ],
+        "modelName": "Cuora",
+        "drawerName": "Skade",
+        "skinGroupId": "2019#wild",
+        "skinGroupName": "生命之地/I",
+        "skinGroupSortIndex": 15,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/四邊形。防水，防汙，輕便。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/四邊形。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "蛇屠箱的特殊工作服之一。",
+        "description": "也許會忘記來處，但不會忘記目的地。",
+        "obtainApproach": "採購中心",
+        "sortId": 40
+      }
+    },
+    "char_158_milu@wild#2": {
+      "skinId": "char_158_milu@wild#2",
+      "charId": "char_158_milu",
+      "tokenSkinId": null,
+      "illustId": "illust_char_158_milu_wild#2",
+      "avatarId": "char_158_milu_wild#2",
+      "portraitId": "char_158_milu_wild#2",
+      "buildingId": "char_158_milu_wild#2",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_158_milu_wild#2"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "枯柏",
+        "colorList": [
+          "#432586",
+          "#432586",
+          "#262626",
+          "#d5d5d5",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-秋",
+          "生命之地/II"
+        ],
+        "modelName": "Firewatch",
+        "drawerName": "aZLing4",
+        "skinGroupId": "2019#wild#2",
+        "skinGroupName": "生命之地/II",
+        "skinGroupSortIndex": 16,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/枯柏。耐磨，防塵，輕便。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/枯柏。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "守林人的特殊工作服之一。",
+        "description": "枯萎殆盡，剩下的便是生機。",
+        "obtainApproach": "採購中心",
+        "sortId": 42
+      }
+    },
+    "char_235_jesica@wild#2": {
+      "skinId": "char_235_jesica@wild#2",
+      "charId": "char_235_jesica",
+      "tokenSkinId": null,
+      "illustId": "illust_char_235_jesica_wild#2",
+      "avatarId": "char_235_jesica_wild#2",
+      "portraitId": "char_235_jesica_wild#2",
+      "buildingId": "char_235_jesica_wild#2",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_235_jesica_wild#2"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "燃灰",
+        "colorList": [
+          "#1b366e",
+          "#1b366e",
+          "#ffcf00",
+          "#ffcf00",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-秋",
+          "生命之地/II"
+        ],
+        "modelName": "Jessica",
+        "drawerName": "m9nokuro",
+        "skinGroupId": "2019#wild#2",
+        "skinGroupName": "生命之地/II",
+        "skinGroupSortIndex": 16,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/燃灰。防風，防塵，耐溫，耐磨。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/燃灰。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "潔西卡的特殊工作服之一。",
+        "description": "任務很艱難，咬咬牙堅持下去。",
+        "obtainApproach": "採購中心",
+        "sortId": 43
+      }
+    },
+    "char_219_meteo@sweep#1": {
+      "skinId": "char_219_meteo@sweep#1",
+      "charId": "char_219_meteo",
+      "tokenSkinId": null,
+      "illustId": "illust_char_219_meteo_sweep#1",
+      "avatarId": "char_219_meteo_sweep#1",
+      "portraitId": "char_219_meteo_sweep#1",
+      "buildingId": "char_219_meteo_sweep#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_219_meteo_sweep#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "石墨",
+        "colorList": [
+          "#313131",
+          "#313131",
+          "#eec400",
+          "#eec400",
+          "#313131"
+        ],
+        "titleList": [
+          "Pioneer",
+          "雷神开拓者"
+        ],
+        "modelName": "Meteorite",
+        "drawerName": "TOKI",
+        "skinGroupId": "2019#sweep",
+        "skinGroupName": "雷神開拓者",
+        "skinGroupSortIndex": 17,
+        "content": "開拓者系列/石墨。雷神工業出品，以常規戰鬥服設計為藍本，採用了全新材料以及更為密封式的方案，強化了對嚴苛環境的適應性。",
+        "dialog": "開拓者系列/石墨。雷神工業出品，以常規戰鬥服設計為藍本，採用了全新材料以及更為密封式的方案，強化了對嚴苛環境的適應性。",
+        "usage": "雷神工業研發的特殊作業服之一。",
+        "description": "她與廢墟和硝煙融為一體。",
+        "obtainApproach": "採購中心",
+        "sortId": 44
+      }
+    },
+    "char_108_silent@sweep#1": {
+      "skinId": "char_108_silent@sweep#1",
+      "charId": "char_108_silent",
+      "tokenSkinId": "token_10000_silent_healrb_sweep#1",
+      "illustId": "illust_char_108_silent_sweep#1",
+      "avatarId": "char_108_silent_sweep#1",
+      "portraitId": "char_108_silent_sweep#1",
+      "buildingId": "char_108_silent_sweep#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_108_silent_sweep#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "漆匠",
+        "colorList": [
+          "#313131",
+          "#313131",
+          "#eec400",
+          "#eec400",
+          "#313131"
+        ],
+        "titleList": [
+          "Pioneer",
+          "雷神开拓者"
+        ],
+        "modelName": "Silence",
+        "drawerName": "NoriZC",
+        "skinGroupId": "2019#sweep",
+        "skinGroupName": "雷神開拓者",
+        "skinGroupSortIndex": 17,
+        "content": "開拓者系列/漆匠。雷神工業出品，全覆式，採用特製面料，對粉塵等惡劣環境擁有極高抗性，面向需要出入危險區域的研究人員。",
+        "dialog": "開拓者系列/漆匠。雷神工業出品，全覆式，採用特製面料，對粉塵等惡劣環境擁有極高抗性，面向需要出入危險區域的研究人員。",
+        "usage": "雷神工業研發的特殊作業服之一。",
+        "description": "比起日常穿著，她穿工作服的時間更長。",
+        "obtainApproach": "採購中心",
+        "sortId": 45
+      }
+    },
+    "token_10000_silent_healrb_sweep#1": {
+      "skinId": "token_10000_silent_healrb_sweep#1",
+      "charId": "token_10000_silent_healrb",
+      "tokenSkinId": null,
+      "illustId": null,
+      "avatarId": "token_10000_silent_healrb_sweep#1",
+      "portraitId": null,
+      "buildingId": null,
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "token_10000_silent_healrb_sweep#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": null,
+        "colorList": null,
+        "titleList": null,
+        "modelName": null,
+        "drawerName": null,
+        "skinGroupId": null,
+        "skinGroupName": null,
+        "skinGroupSortIndex": 0,
+        "content": null,
+        "dialog": null,
+        "usage": null,
+        "description": null,
+        "obtainApproach": null,
+        "sortId": 0
+      }
+    },
+    "char_235_jesica@sweep#1": {
+      "skinId": "char_235_jesica@sweep#1",
+      "charId": "char_235_jesica",
+      "tokenSkinId": null,
+      "illustId": "illust_char_235_jesica_sweep#1",
+      "avatarId": "char_235_jesica_sweep#1",
+      "portraitId": "char_235_jesica_sweep#1",
+      "buildingId": "char_235_jesica_sweep#1",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_235_jesica_sweep#1"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "鐵塊",
+        "colorList": [
+          "#313131",
+          "#313131",
+          "#eec400",
+          "#eec400",
+          "#313131"
+        ],
+        "titleList": [
+          "Pioneer",
+          "雷神开拓者"
+        ],
+        "modelName": "Jessica",
+        "drawerName": "m9nokuro",
+        "skinGroupId": "2019#sweep",
+        "skinGroupName": "雷神開拓者",
+        "skinGroupSortIndex": 17,
+        "content": "開拓者系列/鐵塊。雷神工業出品，為極端嚴苛環境設計，先端技術與稀有材料的完美結合。以犧牲便捷性為代價，擁有極高的防護能力。",
+        "dialog": "開拓者系列/鐵塊。雷神工業出品，為極端嚴苛環境設計，先端技術與稀有材料的完美結合。以犧牲便捷性為代價，擁有極高的防護能力。",
+        "usage": "雷神工業研發的特殊作業服之一。",
+        "description": "選擇這套裝備的理由是“看起來非常安全。”",
+        "obtainApproach": "採購中心",
+        "sortId": 46
       }
     }
   },
@@ -8731,6 +9409,10 @@
     "char_190_clour": {
       "0": "char_190_clour#1",
       "2": "char_190_clour#2"
+    },
+    "char_133_mm": {
+      "0": "char_133_mm#1",
+      "2": "char_133_mm#2"
     },
     "char_118_yuki": {
       "0": "char_118_yuki#1",
@@ -8921,6 +9603,10 @@
       "0": "char_144_red#1",
       "2": "char_144_red#2"
     },
+    "char_243_waaifu": {
+      "0": "char_243_waaifu#1",
+      "2": "char_243_waaifu#2"
+    },
     "char_107_liskam": {
       "0": "char_107_liskam#1",
       "2": "char_107_liskam#2"
@@ -8928,6 +9614,10 @@
     "char_201_moeshd": {
       "0": "char_201_moeshd#1",
       "2": "char_201_moeshd#2"
+    },
+    "char_325_bison": {
+      "0": "char_325_bison#1",
+      "2": "char_325_bison#2"
     },
     "char_163_hpsts": {
       "0": "char_163_hpsts#1",
@@ -8984,6 +9674,10 @@
     "char_134_ifrit": {
       "0": "char_134_ifrit#1",
       "2": "char_134_ifrit#2"
+    },
+    "char_213_mostma": {
+      "0": "char_213_mostma#1",
+      "2": "char_213_mostma#2"
     },
     "char_180_amgoat": {
       "0": "char_180_amgoat#1",
@@ -9063,6 +9757,12 @@
     },
     "trap_007_ballis": {
       "0": "trap_007_ballis#1"
+    },
+    "trap_008_farm": {
+      "0": "trap_008_farm#1"
+    },
+    "trap_009_battery": {
+      "0": "trap_009_battery#1"
     },
     "char_230_savage": {
       "0": "char_230_savage#1",

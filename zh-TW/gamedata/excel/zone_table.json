@@ -221,6 +221,32 @@
       "lockedText": "",
       "canPreview": false
     },
+    "act5d0_zone1": {
+      "zoneID": "act5d0_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "下城區",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
+    "act5d0_zone2": {
+      "zoneID": "act5d0_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "東部郊區",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false
+    },
     "A003_zone1": {
       "zoneID": "A003_zone1",
       "zoneIndex": 0,
@@ -374,6 +400,14 @@
     }
   },
   "zoneValidInfo": {
+    "act5d0_zone1": {
+      "startTs": 1605765600,
+      "endTs": 1606939199
+    },
+    "act5d0_zone2": {
+      "startTs": 1606377600,
+      "endTs": 1606939199
+    },
     "A003_zone1": {
       "startTs": 1602660600,
       "endTs": 1603828799
