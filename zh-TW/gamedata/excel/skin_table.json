@@ -9093,6 +9093,45 @@
         "sortId": 40
       }
     },
+    "char_112_siege@wild#2": {
+      "skinId": "char_112_siege@wild#2",
+      "charId": "char_112_siege",
+      "tokenSkinId": null,
+      "illustId": "illust_char_112_siege_wild#2",
+      "avatarId": "char_112_siege_wild#2",
+      "portraitId": "char_112_siege_wild#2",
+      "buildingId": "char_112_siege_wild#2",
+      "battleSkin": {
+        "overwritePrefab": false,
+        "skinOrPrefabId": "char_112_siege_wild#2"
+      },
+      "isBuySkin": true,
+      "displaySkin": {
+        "skinName": "遺石",
+        "colorList": [
+          "#007f53",
+          "#007f53",
+          "#ffcf00",
+          "#ffcf00",
+          "#313131"
+        ],
+        "titleList": [
+          "2019-秋",
+          "生命之地/II"
+        ],
+        "modelName": "Siege",
+        "drawerName": "Infukun",
+        "skinGroupId": "2019#wild#2",
+        "skinGroupName": "生命之地/II",
+        "skinGroupSortIndex": 16,
+        "content": "生命之地\n[識荒者/Rewilder]系列經典款/遺石。抗風，防水，耐磨。",
+        "dialog": "生命之地[識荒者/Rewilder]系列經典款/遺石。採用特別材質製作，包含各項功能性設計，足以應對多種自然環境變化，滿足各類需求。",
+        "usage": "推進之王的特殊工作服之一。",
+        "description": "早已熟悉的陌生生活。",
+        "obtainApproach": "活動獲得",
+        "sortId": 41
+      }
+    },
     "char_158_milu@wild#2": {
       "skinId": "char_158_milu@wild#2",
       "charId": "char_158_milu",

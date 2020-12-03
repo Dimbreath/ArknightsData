@@ -29984,6 +29984,22 @@
         "weekly_8",
         "weekly_9"
       ]
+    },
+    "8": {
+      "id": "8",
+      "startTime": 1606980600,
+      "endTime": 1608148799,
+      "forceOpenList": [
+        "weekly_1",
+        "weekly_2",
+        "weekly_3",
+        "weekly_4",
+        "weekly_5",
+        "weekly_6",
+        "weekly_7",
+        "weekly_8",
+        "weekly_9"
+      ]
     }
   },
   "timelyStageDropInfo": {

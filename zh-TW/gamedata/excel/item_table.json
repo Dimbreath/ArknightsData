@@ -5705,6 +5705,38 @@
       "stageDropList": [],
       "buildingProductList": []
     },
+    "act5d1_point_conbounty": {
+      "itemId": "act5d1_point_conbounty",
+      "name": "合約賞金",
+      "description": "冷酷有效的賞金機制，是危機合約系統正常運作的唯一保證。",
+      "rarity": 4,
+      "iconId": "act5d1_point_conbounty",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "完成危機合約後得到的報酬。可用於兌換補給品。",
+      "obtainApproach": "危機合約獎勵",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "act5d1_point_opagrt": {
+      "itemId": "act5d1_point_opagrt",
+      "name": "行動協議",
+      "description": "混亂的消滅未必意味著秩序的建立。“將天災化為人禍”，危機合約至少向你提供了一種解決方式。",
+      "rarity": 4,
+      "iconId": "act5d1_point_opagrt",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "作為協議的象徵，可用於解鎖更多危機合約內容。",
+      "obtainApproach": "危機合約獎勵",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "voucher_item_4pick1": {
       "itemId": "voucher_item_4pick1",
       "name": "幹員兌換券",
