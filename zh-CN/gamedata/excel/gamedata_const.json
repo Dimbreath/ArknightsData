@@ -876,6 +876,7 @@
   "hpMax": 4225.0,
   "reMax": 100.0,
   "diamondToShdRate": 180,
+  "requestSameFriendCD": 14400,
   "baseMaxFriendNum": 15,
   "hardDiamondDrop": 1,
   "instFinDmdShdCost": 80,
@@ -892,10 +893,6 @@
   "richTextStyles": {
     "mission.levelname": "<color=#FFDE00>{0}</color>",
     "mission.number": "<color=#FFDE00>{0}</color>",
-    "lv.item": "<color=#FFFFFF>{0}</color>",
-    "lv.rem": "<color=#FFFFFF>{0}</color>",
-    "lv.fs": "<color=#FF0000>{0}</color>",
-    "lv.sp": "<color=#fd4600>{0}</color>",
     "tu.kw": "<color=#0098DC>{0}</color>",
     "tu.imp": "<color=#FF0000>{0}</color>",
     "cc.vup": "<color=#0098DC>{0}</color>",
@@ -922,6 +919,10 @@
     "ro.get": "<color=#0098DC>{0}</color>",
     "ro.lose": "<color=#C82A36>{0}</color>",
     "rolv.rem": "<color=#FF4C22>{0}</color>",
+    "lv.item": "<color=#FFFFFF>{0}</color>",
+    "lv.rem": "<color=#FFFFFF>{0}</color>",
+    "lv.fs": "<color=#FF0000>{0}</color>",
+    "lv.sp": "<color=#fd4600>{0}</color>",
     "rc.title": "<color=#FFFFFF>{0}</color>",
     "rc.subtitle": "<color=#FFC90E>{0}</color>",
     "rc.em": "<color=#FF7F27>{0}</color>",
@@ -947,6 +948,7 @@
     "vc.adgacha": "<color=#0098DC>{0}</color>",
     "vc.attention": "<color=#FFD800>{0}</color>",
     "act.missiontips": "<color=#d9bd6a>{0}</color>",
+    "tu.ht": "<color=#ff8d00>{0}</color>",
     "act.spreward": "<color=#FF5001>{0}</color>",
     "act.timelimit": "<color=#ffe300>{0}</color>",
     "vc.text": "<color=#898989>{0}</color>",
@@ -971,7 +973,7 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 3,
+  "recruitPoolVersion": 4,
   "v006RecruitTimeStep1Refresh": 1577172600,
   "v006RecruitTimeStep2Check": 1577154600,
   "v006RecruitTimeStep2Flush": 1577649600,
@@ -1040,5 +1042,215 @@
   "monthlySubWarningTime": 345600,
   "UnlimitSkinOutOfTime": 1209600,
   "replicateShopStartTime": 1597132800,
-  "TSO": 1608192000
+  "TSO": 1608192000,
+  "isDynIllustEnabled": true,
+  "voucherSkinRedeem": 1,
+  "voucherSkinDesc": "当某位干员的<color=#ffa633>首个</color>异格上线时，若曾使用<color=#ffa633>源石</color>购买过该干员的时装，则在该干员的<color=#ffa633>首个</color>异格干员上线后返还道具<color=#33b5ff>【时装自选凭证】</color>*1。\n\n若有以下情况，则在异格干员上线后<color=#ffa633>不进行返还</color>：\n1.在某位干员的首个异格干员上线前，使用【时装自选凭证】兑换了原干员的时装。\n2.在某位干员的首个异格干员上线后，使用源石购买了原干员的时装。\n3.在某位干员的首个异格干员上线后，使用【时装自选凭证】兑换了原干员的时装。\n\n【时装自选凭证】仅可以兑换当期时装商店中售卖的时装，若已购买了时装商店中所有的服装或时装商店中无时装售卖时，则【时装自选凭证】<color=#ffa633>无法使用</color>。\n\n此外，若今后有<color=#ffa633>不可使用</color>【时装自选凭证】兑换的时装出现时，届时会告知博士，敬请注意。",
+  "termDescriptionDict": {
+    "ba.sluggish": {
+      "termId": "ba.sluggish",
+      "termName": "停顿",
+      "description": "移动速度降低80%"
+    },
+    "ba.root": {
+      "termId": "ba.root",
+      "termName": "束缚",
+      "description": "无法移动"
+    },
+    "ba.stun": {
+      "termId": "ba.stun",
+      "termName": "晕眩",
+      "description": "无法移动、阻挡、攻击及使用技能"
+    },
+    "ba.buffres": {
+      "termId": "ba.buffres",
+      "termName": "抵抗",
+      "description": "<$ba.stun>晕眩</>、<$ba.cold>寒冷</>、<$ba.frozen>冻结</>等负面状态的持续时间减半（同名效果不叠加）"
+    },
+    "ba.invisible": {
+      "termId": "ba.invisible",
+      "termName": "隐匿",
+      "description": "不阻挡时不成为敌方攻击的目标"
+    },
+    "ba.camou": {
+      "termId": "ba.camou",
+      "termName": "迷彩",
+      "description": "不阻挡时不成为敌方普通攻击的目标（无法躲避溅射类攻击）"
+    },
+    "ba.fragile": {
+      "termId": "ba.fragile",
+      "termName": "脆弱",
+      "description": "受到的所有伤害提升相应比例（同名效果取最高）"
+    },
+    "ba.shield": {
+      "termId": "ba.shield",
+      "termName": "护盾",
+      "description": "每层护盾可以抵挡一次伤害"
+    },
+    "ba.protect": {
+      "termId": "ba.protect",
+      "termName": "庇护",
+      "description": "受到的物理和法术伤害降低相应比例（同名效果取最高）"
+    },
+    "ba.cold": {
+      "termId": "ba.cold",
+      "termName": "寒冷",
+      "description": "攻击速度下降30，如果在持续时间内再次受到寒冷效果则会变为<$ba.frozen>冻结</>"
+    },
+    "ba.frozen": {
+      "termId": "ba.frozen",
+      "termName": "冻结",
+      "description": "无法移动、攻击及使用技能（通过<$ba.cold>寒冷</>触发）"
+    },
+    "ba.sleep": {
+      "termId": "ba.sleep",
+      "termName": "沉睡",
+      "description": "无敌且无法行动"
+    },
+    "ba.inspire": {
+      "termId": "ba.inspire",
+      "termName": "鼓舞",
+      "description": "获得额外附加的基础属性加成（同类属性取最高）"
+    },
+    "ba.binding": {
+      "termId": "ba.binding",
+      "termName": "绑定",
+      "description": "绑定对象不在场时技能强制结束，清空所有技力且无法回复技力"
+    },
+    "ba.dt.neural": {
+      "termId": "ba.dt.neural",
+      "termName": "神经损伤",
+      "description": "神经损伤累计至1000时，受到1000点真实伤害并<$ba.stun>晕眩</>10秒"
+    },
+    "ba.charged": {
+      "termId": "ba.charged",
+      "termName": "蓄力",
+      "description": "技力达到上限可继续回复，回复至上限2倍时进入蓄力状态，此时开启技能会触发额外效果（任何时候开启均消耗全部技力）"
+    },
+    "ba.strong": {
+      "termId": "ba.strong",
+      "termName": "精力充沛",
+      "description": "生命值高于一定比例时攻击力加成提升相应比例（同名效果攻击力加成取最高）"
+    },
+    "cc.bd_A_1": {
+      "termId": "cc.bd_A_1",
+      "termName": "念力",
+      "description": "由以下干员提供\n迷迭香"
+    },
+    "cc.bd_A_2": {
+      "termId": "cc.bd_A_2",
+      "termName": "意识实体",
+      "description": "由以下干员提供\n迷迭香"
+    },
+    "cc.bd_A": {
+      "termId": "cc.bd_A",
+      "termName": "思维链环",
+      "description": "可影响<$cc.bd_A_1><@cc.rem>念力</></>、<$cc.bd_A_2><@cc.rem>意识实体</></>相关技能\n由以下干员提供\n迷迭香"
+    },
+    "cc.bd_a1": {
+      "termId": "cc.bd_a1",
+      "termName": "感知信息",
+      "description": "可影响<$cc.bd_A><@cc.rem>思维链环</></>相关技能\n由以下干员提供\n迷迭香、夕、絮雨、爱丽丝"
+    },
+    "cc.bd_b1": {
+      "termId": "cc.bd_b1",
+      "termName": "人间烟火",
+      "description": "由以下干员提供\n夕、乌有"
+    },
+    "cc.bd_ash": {
+      "termId": "cc.bd_ash",
+      "termName": "情报储备",
+      "description": "由以下干员提供\n灰烬"
+    },
+    "cc.bd_tachanka": {
+      "termId": "cc.bd_tachanka",
+      "termName": "乌萨斯特饮",
+      "description": "由以下干员提供\n战车"
+    },
+    "cc.bd_a1_a1": {
+      "termId": "cc.bd_a1_a1",
+      "termName": "记忆碎片",
+      "description": "可影响<$cc.bd_a1><@cc.rem>感知信息</></>相关技能\n由以下干员提供\n絮雨"
+    },
+    "cc.bd_a1_a2": {
+      "termId": "cc.bd_a1_a2",
+      "termName": "梦境",
+      "description": "可影响<$cc.bd_a1><@cc.rem>感知信息</></>相关技能\n由以下干员提供\n爱丽丝"
+    },
+    "cc.m.var1": {
+      "termId": "cc.m.var1",
+      "termName": "回收利用",
+      "description": "由以下干员提供\n红云"
+    },
+    "cc.m.var2": {
+      "termId": "cc.m.var2",
+      "termName": "配合意识",
+      "description": "由以下干员提供\n槐琥"
+    },
+    "cc.g.lgd": {
+      "termId": "cc.g.lgd",
+      "termName": "龙门近卫局",
+      "description": "包含以下干员\n陈、星熊、诗怀雅"
+    },
+    "cc.g.lda": {
+      "termId": "cc.g.lda",
+      "termName": "鲤氏侦探所",
+      "description": "包含以下干员\n阿、吽、槐琥"
+    },
+    "cc.g.ussg": {
+      "termId": "cc.g.ussg",
+      "termName": "乌萨斯学生自治团",
+      "description": "包含以下干员\n早露、凛冬、真理、古米"
+    },
+    "cc.g.R6": {
+      "termId": "cc.g.R6",
+      "termName": "彩虹小队",
+      "description": "包含以下干员\n灰烬、战车、闪击、霜华"
+    },
+    "cc.g.sp": {
+      "termId": "cc.g.sp",
+      "termName": "异格",
+      "description": "包含以下干员\n炎狱炎熔、浊心斯卡蒂"
+    },
+    "cc.g.abyssal": {
+      "termId": "cc.g.abyssal",
+      "termName": "深海猎人",
+      "description": "包含以下干员\n歌蕾蒂娅、斯卡蒂、幽灵鲨、安哲拉"
+    },
+    "cc.c.abyssal2_1": {
+      "termId": "cc.c.abyssal2_1",
+      "termName": "特殊加成",
+      "description": "每有1个<$cc.g.abyssal><@cc.kw>深海猎人</></>干员进驻在制造站，则控制中枢给每个进驻<$cc.g.abyssal><@cc.kw>深海猎人</></>的制造站提供<@cc.vup>5%</>生产力，最多给单个制造站提供<@cc.vup>45%</>生产力"
+    },
+    "cc.c.abyssal2_2": {
+      "termId": "cc.c.abyssal2_2",
+      "termName": "特殊加成",
+      "description": "每有1个<$cc.g.abyssal><@cc.kw>深海猎人</></>干员进驻在制造站，则控制中枢给每个进驻<$cc.g.abyssal><@cc.kw>深海猎人</></>的制造站提供<@cc.vup>10%</>生产力，最多给单个制造站提供<@cc.vup>90%</>生产力"
+    },
+    "cc.c.abyssal2_3": {
+      "termId": "cc.c.abyssal2_3",
+      "termName": "特殊叠加规则",
+      "description": "无法与<$cc.m.var2><@cc.rem>配合意识</></>进行叠加，且优先生效\n无法与<$cc.m.pow1><@cc.rem>自动化·α</></>、<$cc.m.pow2><@cc.rem>自动化·β</></>、<$cc.m.pow3><@cc.rem>仿生海龙</></>进行叠加，且清零效果优先生效"
+    },
+    "cc.m.pow1": {
+      "termId": "cc.m.pow1",
+      "termName": "自动化·α",
+      "description": "由以下干员提供\n温蒂、森蚺、异客"
+    },
+    "cc.m.pow2": {
+      "termId": "cc.m.pow2",
+      "termName": "自动化·β",
+      "description": "由以下干员提供\n森蚺"
+    },
+    "cc.m.pow3": {
+      "termId": "cc.m.pow3",
+      "termName": "仿生海龙",
+      "description": "由以下干员提供\n温蒂"
+    },
+    "cc.t.line_gold": {
+      "termId": "cc.t.line_gold",
+      "termName": "赤金生产线",
+      "description": "每有<@cc.kw>1</>间<@cc.kw>制造站</>生产<@cc.kw>赤金</>，则赤金生产线<@cc.kw>+1</>"
+    }
+  }
 }

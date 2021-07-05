@@ -163,14 +163,14 @@
     "guide_7": {
       "id": "guide_7",
       "sortId": 0,
-      "description": "在物资筹备中完成任意难度1的关卡",
+      "description": "在资源收集中完成任意难度1的关卡",
       "type": "GUIDE",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
       "templateType": "0",
       "param": [
         "0",
-        "wk_melee_1^wk_armor_1^wk_kc_1^wk_toxic_1^wk_fly_1",
+        "wk_melee_1^wk_armor_1^wk_kc_1^wk_toxic_1^wk_fly_1^pro_a_1^pro_b_1^pro_c_1^pro_d_1",
         "2"
       ],
       "unlockCondition": null,
@@ -507,14 +507,14 @@
     "guide_20": {
       "id": "guide_20",
       "sortId": 0,
-      "description": "在物资筹备中完成任意难度2的关卡",
+      "description": "在资源收集中完成任意难度2的关卡",
       "type": "GUIDE",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
       "templateType": "0",
       "param": [
         "0",
-        "wk_melee_2^wk_armor_2^wk_kc_2^wk_toxic_2^wk_fly_2",
+        "wk_melee_2^wk_armor_2^wk_kc_2^wk_toxic_2^wk_fly_2^pro_a_2^pro_b_2^pro_c_2^pro_d_2",
         "2"
       ],
       "unlockCondition": null,
@@ -1107,7 +1107,7 @@
     "guide_41": {
       "id": "guide_41",
       "sortId": 0,
-      "description": "在物资筹备中完成任意难度3的关卡",
+      "description": "在资源收集中完成任意难度3的关卡",
       "type": "GUIDE",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
@@ -1401,7 +1401,7 @@
     "guide_51": {
       "id": "guide_51",
       "sortId": 0,
-      "description": "在物资筹备中完成任意难度4的关卡",
+      "description": "在资源收集中完成任意难度4的关卡",
       "type": "GUIDE",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
@@ -1774,6 +1774,272 @@
         "main_04-04"
       ],
       "missionGroup": "guide_g_7",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "32001",
+          "count": 1
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_64": {
+      "id": "guide_64",
+      "sortId": 0,
+      "description": "宿舍总氛围值达到5000",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "DiyComfort",
+      "templateType": "1",
+      "param": [
+        "1",
+        "5000"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 5
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_65": {
+      "id": "guide_65",
+      "sortId": 0,
+      "description": "提升任意干员的信赖到100%",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "CharIntimacy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1",
+        "100"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 5
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_66": {
+      "id": "guide_66",
+      "sortId": 0,
+      "description": "从信用商店累计收取500信用点",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "ReceiveSocialPoint",
+      "templateType": "0",
+      "param": [
+        "0",
+        "500"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 5
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_67": {
+      "id": "guide_67",
+      "sortId": 0,
+      "description": "在资源收集中完成任意难度5的关卡",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "wk_melee_5^wk_armor_5^wk_kc_5^wk_toxic_5^wk_fly_5",
+        "2"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_68": {
+      "id": "guide_68",
+      "sortId": 0,
+      "description": "拥有至少1间Lv.3的发电站",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "HasRoom",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1",
+        "3",
+        "POWER"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_69": {
+      "id": "guide_69",
+      "sortId": 0,
+      "description": "玩家等级达到30级",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "UpgradePlayer",
+      "templateType": "0",
+      "param": [
+        "0",
+        "30"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_70": {
+      "id": "guide_70",
+      "sortId": 0,
+      "description": "拥有任意8个达到精英阶段1的干员",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "EvolveChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "8",
+        "1"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3303",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_71": {
+      "id": "guide_71",
+      "sortId": 0,
+      "description": "在好友界面的支援单位页签设置3个助战干员",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "SetAssistCharList",
+      "templateType": "1",
+      "param": [
+        "1",
+        "3"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "TKT_RECRUIT",
+          "id": "7001",
+          "count": 1
+        }
+      ],
+      "backImagePath": null
+    },
+    "guide_72": {
+      "id": "guide_72",
+      "sortId": 0,
+      "description": "提升任意干员的专精技能到2级",
+      "type": "GUIDE",
+      "preMissionIds": null,
+      "template": "UpgradeSpecialization",
+      "templateType": "1",
+      "param": [
+        "1",
+        "2"
+      ],
+      "unlockCondition": "StageCondition",
+      "unlockParam": [
+        "2",
+        "main_04-04"
+      ],
+      "missionGroup": "guide_g_8",
       "toPage": null,
       "periodicalPoint": 0,
       "rewards": [
@@ -2563,9 +2829,129 @@
       ],
       "backImagePath": null
     },
+    "sub_10001": {
+      "id": "sub_10001",
+      "sortId": 25,
+      "description": "将任意一个近卫干员提升到10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "10",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10001",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10002": {
+      "id": "sub_10002",
+      "sortId": 26,
+      "description": "将任意一个术师干员提升到10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "10",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10001",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10003": {
+      "id": "sub_10003",
+      "sortId": 27,
+      "description": "将任意一个辅助干员提升到10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "10",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10001",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10004": {
+      "id": "sub_10004",
+      "sortId": 28,
+      "description": "将任意一个特种干员提升到10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "10",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10001",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_25": {
       "id": "sub_25",
-      "sortId": 25,
+      "sortId": 29,
       "description": "在制造站生产5件赤金",
       "type": "SUB",
       "preMissionIds": null,
@@ -2592,7 +2978,7 @@
     },
     "sub_26": {
       "id": "sub_26",
-      "sortId": 26,
+      "sortId": 30,
       "description": "在制造站生产5件基础作战记录",
       "type": "SUB",
       "preMissionIds": null,
@@ -2619,7 +3005,7 @@
     },
     "sub_27": {
       "id": "sub_27",
-      "sortId": 27,
+      "sortId": 31,
       "description": "拥有至少1间Lv.1的贸易站",
       "type": "SUB",
       "preMissionIds": null,
@@ -2647,7 +3033,7 @@
     },
     "sub_28": {
       "id": "sub_28",
-      "sortId": 28,
+      "sortId": 32,
       "description": "完成5笔包含赤金的订单",
       "type": "SUB",
       "preMissionIds": [
@@ -2676,7 +3062,7 @@
     },
     "sub_29": {
       "id": "sub_29",
-      "sortId": 29,
+      "sortId": 33,
       "description": "拥有至少1间Lv.1的加工站",
       "type": "SUB",
       "preMissionIds": null,
@@ -2704,7 +3090,7 @@
     },
     "sub_30": {
       "id": "sub_30",
-      "sortId": 30,
+      "sortId": 34,
       "description": "在加工站生产5件基础加固建材",
       "type": "SUB",
       "preMissionIds": [
@@ -2733,7 +3119,7 @@
     },
     "sub_31": {
       "id": "sub_31",
-      "sortId": 31,
+      "sortId": 35,
       "description": "在加工站生产10件家具零件(不含拆解家具)",
       "type": "SUB",
       "preMissionIds": [
@@ -2762,7 +3148,7 @@
     },
     "sub_32": {
       "id": "sub_32",
-      "sortId": 32,
+      "sortId": 36,
       "description": "从信用商店累计收取100信用点",
       "type": "SUB",
       "preMissionIds": null,
@@ -2788,7 +3174,7 @@
     },
     "sub_33": {
       "id": "sub_33",
-      "sortId": 33,
+      "sortId": 37,
       "description": "拥有至少1间Lv.1的会客室",
       "type": "SUB",
       "preMissionIds": null,
@@ -2816,7 +3202,7 @@
     },
     "sub_34": {
       "id": "sub_34",
-      "sortId": 34,
+      "sortId": 38,
       "description": "将任意一个先锋干员提升到20级",
       "type": "SUB",
       "preMissionIds": null,
@@ -2846,7 +3232,7 @@
     },
     "sub_35": {
       "id": "sub_35",
-      "sortId": 35,
+      "sortId": 39,
       "description": "将任意一个狙击干员提升到20级",
       "type": "SUB",
       "preMissionIds": null,
@@ -2876,7 +3262,7 @@
     },
     "sub_36": {
       "id": "sub_36",
-      "sortId": 36,
+      "sortId": 40,
       "description": "将任意一个医疗干员提升到20级",
       "type": "SUB",
       "preMissionIds": null,
@@ -2906,7 +3292,7 @@
     },
     "sub_37": {
       "id": "sub_37",
-      "sortId": 37,
+      "sortId": 41,
       "description": "将任意一个重装干员提升到20级",
       "type": "SUB",
       "preMissionIds": null,
@@ -2934,9 +3320,129 @@
       ],
       "backImagePath": null
     },
+    "sub_10005": {
+      "id": "sub_10005",
+      "sortId": 42,
+      "description": "将任意一个近卫干员提升到20级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "20",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10002",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 3
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10006": {
+      "id": "sub_10006",
+      "sortId": 43,
+      "description": "将任意一个术师干员提升到20级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "20",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10002",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 3
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10007": {
+      "id": "sub_10007",
+      "sortId": 44,
+      "description": "将任意一个辅助干员提升到20级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "20",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10002",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 3
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10008": {
+      "id": "sub_10008",
+      "sortId": 45,
+      "description": "将任意一个特种干员提升到20级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "20",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10002",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 3
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_38": {
       "id": "sub_38",
-      "sortId": 38,
+      "sortId": 46,
       "description": "通关主线TR-8关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -2963,7 +3469,7 @@
     },
     "sub_39": {
       "id": "sub_39",
-      "sortId": 39,
+      "sortId": 47,
       "description": "通关主线TR-9关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -2992,7 +3498,7 @@
     },
     "sub_40": {
       "id": "sub_40",
-      "sortId": 40,
+      "sortId": 48,
       "description": "通关主线TR-10关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3021,7 +3527,7 @@
     },
     "sub_41": {
       "id": "sub_41",
-      "sortId": 41,
+      "sortId": 49,
       "description": "通关物资筹备<货物运送>CE-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3048,7 +3554,7 @@
     },
     "sub_42": {
       "id": "sub_42",
-      "sortId": 42,
+      "sortId": 50,
       "description": "通关物资筹备<资源保障>SK-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3075,7 +3581,7 @@
     },
     "sub_43": {
       "id": "sub_43",
-      "sortId": 43,
+      "sortId": 51,
       "description": "通关物资筹备<战术演习>LS-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3102,7 +3608,7 @@
     },
     "sub_44": {
       "id": "sub_44",
-      "sortId": 44,
+      "sortId": 52,
       "description": "通关物资筹备<粉碎防御>AP-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3129,7 +3635,7 @@
     },
     "sub_45": {
       "id": "sub_45",
-      "sortId": 45,
+      "sortId": 53,
       "description": "通关物资筹备<空中威胁>CA-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3156,7 +3662,7 @@
     },
     "sub_46": {
       "id": "sub_46",
-      "sortId": 46,
+      "sortId": 54,
       "description": "通关主线TR-11关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3183,7 +3689,7 @@
     },
     "sub_47": {
       "id": "sub_47",
-      "sortId": 47,
+      "sortId": 55,
       "description": "通关主线TR-12关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3212,7 +3718,7 @@
     },
     "sub_48": {
       "id": "sub_48",
-      "sortId": 48,
+      "sortId": 56,
       "description": "通关主线TR-13关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3241,7 +3747,7 @@
     },
     "sub_49": {
       "id": "sub_49",
-      "sortId": 49,
+      "sortId": 57,
       "description": "通关主线TR-14关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3270,7 +3776,7 @@
     },
     "sub_50": {
       "id": "sub_50",
-      "sortId": 50,
+      "sortId": 58,
       "description": "乌萨斯：切尔诺伯格单次作战达到100歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -3297,7 +3803,7 @@
     },
     "sub_51": {
       "id": "sub_51",
-      "sortId": 51,
+      "sortId": 59,
       "description": "乌萨斯：切尔诺伯格单次作战达到200歼灭数",
       "type": "SUB",
       "preMissionIds": [
@@ -3326,7 +3832,7 @@
     },
     "sub_52": {
       "id": "sub_52",
-      "sortId": 52,
+      "sortId": 60,
       "description": "乌萨斯：切尔诺伯格单次作战达到300歼灭数",
       "type": "SUB",
       "preMissionIds": [
@@ -3355,7 +3861,7 @@
     },
     "sub_53": {
       "id": "sub_53",
-      "sortId": 53,
+      "sortId": 61,
       "description": "通关物资筹备<货物运送>CE-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3382,7 +3888,7 @@
     },
     "sub_54": {
       "id": "sub_54",
-      "sortId": 54,
+      "sortId": 62,
       "description": "通关物资筹备<资源保障>SK-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3409,7 +3915,7 @@
     },
     "sub_55": {
       "id": "sub_55",
-      "sortId": 55,
+      "sortId": 63,
       "description": "通关物资筹备<战术演习>LS-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3436,7 +3942,7 @@
     },
     "sub_56": {
       "id": "sub_56",
-      "sortId": 56,
+      "sortId": 64,
       "description": "通关物资筹备<粉碎防御>AP-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3463,7 +3969,7 @@
     },
     "sub_57": {
       "id": "sub_57",
-      "sortId": 57,
+      "sortId": 65,
       "description": "通关物资筹备<空中威胁>CA-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3488,9 +3994,249 @@
       ],
       "backImagePath": null
     },
+    "sub_10009": {
+      "id": "sub_10009",
+      "sortId": 66,
+      "description": "将任意一个先锋干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "PIONEER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10010": {
+      "id": "sub_10010",
+      "sortId": 67,
+      "description": "将任意一个狙击干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "SNIPER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10011": {
+      "id": "sub_10011",
+      "sortId": 68,
+      "description": "将任意一个医疗干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "MEDIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10012": {
+      "id": "sub_10012",
+      "sortId": 69,
+      "description": "将任意一个重装干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "TANK"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10013": {
+      "id": "sub_10013",
+      "sortId": 70,
+      "description": "将任意一个近卫干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10014": {
+      "id": "sub_10014",
+      "sortId": 71,
+      "description": "将任意一个术师干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10015": {
+      "id": "sub_10015",
+      "sortId": 72,
+      "description": "将任意一个辅助干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10016": {
+      "id": "sub_10016",
+      "sortId": 73,
+      "description": "将任意一个特种干员提升到30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "30",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10003",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 20
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_58": {
       "id": "sub_58",
-      "sortId": 58,
+      "sortId": 74,
       "description": "通关突袭0-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3517,7 +4263,7 @@
     },
     "sub_59": {
       "id": "sub_59",
-      "sortId": 59,
+      "sortId": 75,
       "description": "通关突袭0-10关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3546,7 +4292,7 @@
     },
     "sub_60": {
       "id": "sub_60",
-      "sortId": 60,
+      "sortId": 76,
       "description": "通关突袭1-5关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3575,7 +4321,7 @@
     },
     "sub_61": {
       "id": "sub_61",
-      "sortId": 61,
+      "sortId": 77,
       "description": "通关突袭1-8关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -3604,7 +4350,7 @@
     },
     "sub_62": {
       "id": "sub_62",
-      "sortId": 62,
+      "sortId": 78,
       "description": "通关芯片搜索<固若金汤>PR-A-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3631,7 +4377,7 @@
     },
     "sub_63": {
       "id": "sub_63",
-      "sortId": 63,
+      "sortId": 79,
       "description": "通关芯片搜索<摧枯拉朽>PR-B-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3658,7 +4404,7 @@
     },
     "sub_64": {
       "id": "sub_64",
-      "sortId": 64,
+      "sortId": 80,
       "description": "通关芯片搜索<势不可挡>PR-C-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3685,7 +4431,7 @@
     },
     "sub_65": {
       "id": "sub_65",
-      "sortId": 65,
+      "sortId": 81,
       "description": "通关芯片搜索<身先士卒>PR-D-1关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3712,7 +4458,7 @@
     },
     "sub_66": {
       "id": "sub_66",
-      "sortId": 66,
+      "sortId": 82,
       "description": "任意1名干员达到精英阶段1",
       "type": "SUB",
       "preMissionIds": null,
@@ -3737,9 +4483,249 @@
       ],
       "backImagePath": null
     },
+    "sub_10017": {
+      "id": "sub_10017",
+      "sortId": 83,
+      "description": "将任意一个先锋干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "PIONEER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10018": {
+      "id": "sub_10018",
+      "sortId": 84,
+      "description": "将任意一个狙击干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "SNIPER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10019": {
+      "id": "sub_10019",
+      "sortId": 85,
+      "description": "将任意一个医疗干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "MEDIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10020": {
+      "id": "sub_10020",
+      "sortId": 86,
+      "description": "将任意一个重装干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "TANK"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10021": {
+      "id": "sub_10021",
+      "sortId": 87,
+      "description": "将任意一个近卫干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10022": {
+      "id": "sub_10022",
+      "sortId": 88,
+      "description": "将任意一个术师干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10023": {
+      "id": "sub_10023",
+      "sortId": 89,
+      "description": "将任意一个辅助干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10024": {
+      "id": "sub_10024",
+      "sortId": 90,
+      "description": "将任意一个特种干员提升到40级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "0",
+        "40",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10004",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_67": {
       "id": "sub_67",
-      "sortId": 67,
+      "sortId": 91,
       "description": "通关主线S3-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3766,7 +4752,7 @@
     },
     "sub_68": {
       "id": "sub_68",
-      "sortId": 68,
+      "sortId": 92,
       "description": "通关主线TR-15关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3793,7 +4779,7 @@
     },
     "sub_69": {
       "id": "sub_69",
-      "sortId": 69,
+      "sortId": 93,
       "description": "乌萨斯：切尔诺伯格单次作战达到350歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -3820,7 +4806,7 @@
     },
     "sub_70": {
       "id": "sub_70",
-      "sortId": 70,
+      "sortId": 94,
       "description": "乌萨斯：切尔诺伯格单次作战达到400歼灭数",
       "type": "SUB",
       "preMissionIds": [
@@ -3849,7 +4835,7 @@
     },
     "sub_71": {
       "id": "sub_71",
-      "sortId": 71,
+      "sortId": 95,
       "description": "炎国：龙门外环单次作战达到100歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -3876,7 +4862,7 @@
     },
     "sub_72": {
       "id": "sub_72",
-      "sortId": 72,
+      "sortId": 96,
       "description": "炎国：龙门外环单次作战达到200歼灭数",
       "type": "SUB",
       "preMissionIds": [
@@ -3905,7 +4891,7 @@
     },
     "sub_73": {
       "id": "sub_73",
-      "sortId": 73,
+      "sortId": 97,
       "description": "任意3名干员达到精英阶段1",
       "type": "SUB",
       "preMissionIds": null,
@@ -3932,7 +4918,7 @@
     },
     "sub_74": {
       "id": "sub_74",
-      "sortId": 74,
+      "sortId": 98,
       "description": "通关物资筹备<货物运送>CE-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3959,7 +4945,7 @@
     },
     "sub_75": {
       "id": "sub_75",
-      "sortId": 75,
+      "sortId": 99,
       "description": "通关物资筹备<资源保障>SK-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -3986,7 +4972,7 @@
     },
     "sub_76": {
       "id": "sub_76",
-      "sortId": 76,
+      "sortId": 100,
       "description": "通关物资筹备<战术演习>LS-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4013,7 +4999,7 @@
     },
     "sub_77": {
       "id": "sub_77",
-      "sortId": 77,
+      "sortId": 101,
       "description": "通关物资筹备<粉碎防御>AP-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4040,7 +5026,7 @@
     },
     "sub_78": {
       "id": "sub_78",
-      "sortId": 78,
+      "sortId": 102,
       "description": "通关物资筹备<空中威胁>CA-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4067,7 +5053,7 @@
     },
     "sub_79": {
       "id": "sub_79",
-      "sortId": 79,
+      "sortId": 103,
       "description": "拥有至少1间Lv.2的发电站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4095,7 +5081,7 @@
     },
     "sub_80": {
       "id": "sub_80",
-      "sortId": 80,
+      "sortId": 104,
       "description": "拥有至少1间Lv.2的制造站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4123,7 +5109,7 @@
     },
     "sub_81": {
       "id": "sub_81",
-      "sortId": 81,
+      "sortId": 105,
       "description": "在制造站生产10件赤金",
       "type": "SUB",
       "preMissionIds": [
@@ -4152,7 +5138,7 @@
     },
     "sub_82": {
       "id": "sub_82",
-      "sortId": 82,
+      "sortId": 106,
       "description": "在制造站生产10件初级作战记录",
       "type": "SUB",
       "preMissionIds": [
@@ -4181,7 +5167,7 @@
     },
     "sub_83": {
       "id": "sub_83",
-      "sortId": 83,
+      "sortId": 107,
       "description": "拥有至少1间Lv.2的贸易站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4209,7 +5195,7 @@
     },
     "sub_84": {
       "id": "sub_84",
-      "sortId": 84,
+      "sortId": 108,
       "description": "完成10笔包含赤金的订单",
       "type": "SUB",
       "preMissionIds": [
@@ -4238,7 +5224,7 @@
     },
     "sub_85": {
       "id": "sub_85",
-      "sortId": 85,
+      "sortId": 109,
       "description": "拥有1间氛围值达到2000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -4265,7 +5251,7 @@
     },
     "sub_86": {
       "id": "sub_86",
-      "sortId": 86,
+      "sortId": 110,
       "description": "拥有至少1间Lv.2的加工站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4293,7 +5279,7 @@
     },
     "sub_87": {
       "id": "sub_87",
-      "sortId": 87,
+      "sortId": 111,
       "description": "在加工站生产5件进阶加固建材",
       "type": "SUB",
       "preMissionIds": [
@@ -4322,7 +5308,7 @@
     },
     "sub_88": {
       "id": "sub_88",
-      "sortId": 88,
+      "sortId": 112,
       "description": "在加工站生产1件固源岩",
       "type": "SUB",
       "preMissionIds": [
@@ -4351,7 +5337,7 @@
     },
     "sub_89": {
       "id": "sub_89",
-      "sortId": 89,
+      "sortId": 113,
       "description": "在加工站生产1件糖",
       "type": "SUB",
       "preMissionIds": [
@@ -4380,7 +5366,7 @@
     },
     "sub_90": {
       "id": "sub_90",
-      "sortId": 90,
+      "sortId": 114,
       "description": "在加工站生产1件聚酸酯",
       "type": "SUB",
       "preMissionIds": [
@@ -4409,7 +5395,7 @@
     },
     "sub_91": {
       "id": "sub_91",
-      "sortId": 91,
+      "sortId": 115,
       "description": "在加工站生产1件异铁",
       "type": "SUB",
       "preMissionIds": [
@@ -4438,7 +5424,7 @@
     },
     "sub_92": {
       "id": "sub_92",
-      "sortId": 92,
+      "sortId": 116,
       "description": "在加工站生产1件酮凝集",
       "type": "SUB",
       "preMissionIds": [
@@ -4467,7 +5453,7 @@
     },
     "sub_93": {
       "id": "sub_93",
-      "sortId": 93,
+      "sortId": 117,
       "description": "在加工站生产1件装置",
       "type": "SUB",
       "preMissionIds": [
@@ -4496,7 +5482,7 @@
     },
     "sub_94": {
       "id": "sub_94",
-      "sortId": 94,
+      "sortId": 118,
       "description": "通关主线S3-5关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4523,7 +5509,7 @@
     },
     "sub_95": {
       "id": "sub_95",
-      "sortId": 95,
+      "sortId": 119,
       "description": "通关突袭1-12关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4550,7 +5536,7 @@
     },
     "sub_96": {
       "id": "sub_96",
-      "sortId": 96,
+      "sortId": 120,
       "description": "通关突袭2-3关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -4579,7 +5565,7 @@
     },
     "sub_97": {
       "id": "sub_97",
-      "sortId": 97,
+      "sortId": 121,
       "description": "炎国：龙门外环单次作战达到300歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -4604,9 +5590,249 @@
       ],
       "backImagePath": null
     },
+    "sub_10025": {
+      "id": "sub_10025",
+      "sortId": 122,
+      "description": "将任意一个先锋干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "PIONEER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10026": {
+      "id": "sub_10026",
+      "sortId": 123,
+      "description": "将任意一个狙击干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "SNIPER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10027": {
+      "id": "sub_10027",
+      "sortId": 124,
+      "description": "将任意一个医疗干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "MEDIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10028": {
+      "id": "sub_10028",
+      "sortId": 125,
+      "description": "将任意一个重装干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "TANK"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10029": {
+      "id": "sub_10029",
+      "sortId": 126,
+      "description": "将任意一个近卫干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10030": {
+      "id": "sub_10030",
+      "sortId": 127,
+      "description": "将任意一个术师干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10031": {
+      "id": "sub_10031",
+      "sortId": 128,
+      "description": "将任意一个辅助干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10032": {
+      "id": "sub_10032",
+      "sortId": 129,
+      "description": "将任意一个特种干员提升到精英1阶段10级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "10",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10005",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 15
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_98": {
       "id": "sub_98",
-      "sortId": 98,
+      "sortId": 130,
       "description": "通关主线S4-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4633,7 +5859,7 @@
     },
     "sub_99": {
       "id": "sub_99",
-      "sortId": 99,
+      "sortId": 131,
       "description": "炎国：龙门外环单次作战达到350歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -4660,7 +5886,7 @@
     },
     "sub_100": {
       "id": "sub_100",
-      "sortId": 100,
+      "sortId": 132,
       "description": "任意6名干员达到精英阶段1",
       "type": "SUB",
       "preMissionIds": null,
@@ -4687,7 +5913,7 @@
     },
     "sub_101": {
       "id": "sub_101",
-      "sortId": 101,
+      "sortId": 133,
       "description": "通关物资筹备<货物运送>CE-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4714,7 +5940,7 @@
     },
     "sub_102": {
       "id": "sub_102",
-      "sortId": 102,
+      "sortId": 134,
       "description": "通关物资筹备<资源保障>SK-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4741,7 +5967,7 @@
     },
     "sub_103": {
       "id": "sub_103",
-      "sortId": 103,
+      "sortId": 135,
       "description": "通关物资筹备<战术演习>LS-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4768,7 +5994,7 @@
     },
     "sub_104": {
       "id": "sub_104",
-      "sortId": 104,
+      "sortId": 136,
       "description": "通关物资筹备<粉碎防御>AP-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4795,7 +6021,7 @@
     },
     "sub_105": {
       "id": "sub_105",
-      "sortId": 105,
+      "sortId": 137,
       "description": "通关物资筹备<空中威胁>CA-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -4822,7 +6048,7 @@
     },
     "sub_106": {
       "id": "sub_106",
-      "sortId": 106,
+      "sortId": 138,
       "description": "拥有至少1间Lv.3的制造站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4850,7 +6076,7 @@
     },
     "sub_107": {
       "id": "sub_107",
-      "sortId": 107,
+      "sortId": 139,
       "description": "在制造站生产20件赤金",
       "type": "SUB",
       "preMissionIds": [
@@ -4879,7 +6105,7 @@
     },
     "sub_108": {
       "id": "sub_108",
-      "sortId": 108,
+      "sortId": 140,
       "description": "在制造站生产20件中级作战记录",
       "type": "SUB",
       "preMissionIds": [
@@ -4908,7 +6134,7 @@
     },
     "sub_109": {
       "id": "sub_109",
-      "sortId": 109,
+      "sortId": 141,
       "description": "制造任意1种双芯片",
       "type": "SUB",
       "preMissionIds": [
@@ -4937,7 +6163,7 @@
     },
     "sub_110": {
       "id": "sub_110",
-      "sortId": 110,
+      "sortId": 142,
       "description": "拥有至少1间Lv.3的贸易站",
       "type": "SUB",
       "preMissionIds": null,
@@ -4965,7 +6191,7 @@
     },
     "sub_111": {
       "id": "sub_111",
-      "sortId": 111,
+      "sortId": 143,
       "description": "完成20笔包含赤金的订单",
       "type": "SUB",
       "preMissionIds": [
@@ -4994,7 +6220,7 @@
     },
     "sub_112": {
       "id": "sub_112",
-      "sortId": 112,
+      "sortId": 144,
       "description": "拥有1间氛围值达到3000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -5021,7 +6247,7 @@
     },
     "sub_113": {
       "id": "sub_113",
-      "sortId": 113,
+      "sortId": 145,
       "description": "宿舍总氛围值达到4000",
       "type": "SUB",
       "preMissionIds": null,
@@ -5047,7 +6273,7 @@
     },
     "sub_114": {
       "id": "sub_114",
-      "sortId": 114,
+      "sortId": 146,
       "description": "拥有至少1间Lv.3的加工站",
       "type": "SUB",
       "preMissionIds": null,
@@ -5075,7 +6301,7 @@
     },
     "sub_115": {
       "id": "sub_115",
-      "sortId": 115,
+      "sortId": 147,
       "description": "在加工站生产5件高级加固建材",
       "type": "SUB",
       "preMissionIds": [
@@ -5104,7 +6330,7 @@
     },
     "sub_116": {
       "id": "sub_116",
-      "sortId": 116,
+      "sortId": 148,
       "description": "在加工站生产1件固源岩组",
       "type": "SUB",
       "preMissionIds": [
@@ -5133,7 +6359,7 @@
     },
     "sub_117": {
       "id": "sub_117",
-      "sortId": 117,
+      "sortId": 149,
       "description": "在加工站生产1件糖组",
       "type": "SUB",
       "preMissionIds": [
@@ -5162,7 +6388,7 @@
     },
     "sub_118": {
       "id": "sub_118",
-      "sortId": 118,
+      "sortId": 150,
       "description": "在加工站生产1件聚酸酯组",
       "type": "SUB",
       "preMissionIds": [
@@ -5191,7 +6417,7 @@
     },
     "sub_119": {
       "id": "sub_119",
-      "sortId": 119,
+      "sortId": 151,
       "description": "在加工站生产1件异铁组",
       "type": "SUB",
       "preMissionIds": [
@@ -5220,7 +6446,7 @@
     },
     "sub_120": {
       "id": "sub_120",
-      "sortId": 120,
+      "sortId": 152,
       "description": "在加工站生产1件酮凝集组",
       "type": "SUB",
       "preMissionIds": [
@@ -5249,7 +6475,7 @@
     },
     "sub_121": {
       "id": "sub_121",
-      "sortId": 121,
+      "sortId": 153,
       "description": "在加工站生产1件全新装置",
       "type": "SUB",
       "preMissionIds": [
@@ -5278,7 +6504,7 @@
     },
     "sub_122": {
       "id": "sub_122",
-      "sortId": 122,
+      "sortId": 154,
       "description": "在加工站生产1件提纯源岩",
       "type": "SUB",
       "preMissionIds": [
@@ -5307,7 +6533,7 @@
     },
     "sub_123": {
       "id": "sub_123",
-      "sortId": 123,
+      "sortId": 155,
       "description": "在加工站生产1件糖聚块",
       "type": "SUB",
       "preMissionIds": [
@@ -5336,7 +6562,7 @@
     },
     "sub_124": {
       "id": "sub_124",
-      "sortId": 124,
+      "sortId": 156,
       "description": "在加工站生产1件聚酸酯块",
       "type": "SUB",
       "preMissionIds": [
@@ -5365,7 +6591,7 @@
     },
     "sub_125": {
       "id": "sub_125",
-      "sortId": 125,
+      "sortId": 157,
       "description": "在加工站生产1件异铁块",
       "type": "SUB",
       "preMissionIds": [
@@ -5394,7 +6620,7 @@
     },
     "sub_126": {
       "id": "sub_126",
-      "sortId": 126,
+      "sortId": 158,
       "description": "在加工站生产1件酮阵列",
       "type": "SUB",
       "preMissionIds": [
@@ -5423,7 +6649,7 @@
     },
     "sub_127": {
       "id": "sub_127",
-      "sortId": 127,
+      "sortId": 159,
       "description": "在加工站生产1件改量装置",
       "type": "SUB",
       "preMissionIds": [
@@ -5452,7 +6678,7 @@
     },
     "sub_128": {
       "id": "sub_128",
-      "sortId": 128,
+      "sortId": 160,
       "description": "在加工站生产1件白马醇",
       "type": "SUB",
       "preMissionIds": [
@@ -5481,7 +6707,7 @@
     },
     "sub_129": {
       "id": "sub_129",
-      "sortId": 129,
+      "sortId": 161,
       "description": "在加工站生产1件三水锰矿",
       "type": "SUB",
       "preMissionIds": [
@@ -5510,7 +6736,7 @@
     },
     "sub_130": {
       "id": "sub_130",
-      "sortId": 130,
+      "sortId": 162,
       "description": "在加工站生产1件五水研磨石",
       "type": "SUB",
       "preMissionIds": [
@@ -5539,7 +6765,7 @@
     },
     "sub_131": {
       "id": "sub_131",
-      "sortId": 131,
+      "sortId": 163,
       "description": "在加工站生产1件RMA70-24",
       "type": "SUB",
       "preMissionIds": [
@@ -5568,7 +6794,7 @@
     },
     "sub_132": {
       "id": "sub_132",
-      "sortId": 132,
+      "sortId": 164,
       "description": "在加工站生产1件聚合剂",
       "type": "SUB",
       "preMissionIds": [
@@ -5597,7 +6823,7 @@
     },
     "sub_133": {
       "id": "sub_133",
-      "sortId": 133,
+      "sortId": 165,
       "description": "在加工站生产1件双极纳米片",
       "type": "SUB",
       "preMissionIds": [
@@ -5626,7 +6852,7 @@
     },
     "sub_134": {
       "id": "sub_134",
-      "sortId": 134,
+      "sortId": 166,
       "description": "在加工站生产1件D32钢",
       "type": "SUB",
       "preMissionIds": [
@@ -5655,7 +6881,7 @@
     },
     "sub_135": {
       "id": "sub_135",
-      "sortId": 135,
+      "sortId": 167,
       "description": "提升任意干员的专精技能到1级",
       "type": "SUB",
       "preMissionIds": null,
@@ -5681,7 +6907,7 @@
     },
     "sub_136": {
       "id": "sub_136",
-      "sortId": 136,
+      "sortId": 168,
       "description": "提升任意干员的专精技能到2级",
       "type": "SUB",
       "preMissionIds": [
@@ -5709,7 +6935,7 @@
     },
     "sub_137": {
       "id": "sub_137",
-      "sortId": 137,
+      "sortId": 169,
       "description": "提升任意干员的专精技能到3级",
       "type": "SUB",
       "preMissionIds": [
@@ -5737,7 +6963,7 @@
     },
     "sub_138": {
       "id": "sub_138",
-      "sortId": 138,
+      "sortId": 170,
       "description": "拥有1间氛围值达到4000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -5764,7 +6990,7 @@
     },
     "sub_139": {
       "id": "sub_139",
-      "sortId": 139,
+      "sortId": 171,
       "description": "宿舍总氛围值达到6000",
       "type": "SUB",
       "preMissionIds": null,
@@ -5788,9 +7014,249 @@
       ],
       "backImagePath": null
     },
+    "sub_10033": {
+      "id": "sub_10033",
+      "sortId": 172,
+      "description": "将任意一个先锋干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "PIONEER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10034": {
+      "id": "sub_10034",
+      "sortId": 173,
+      "description": "将任意一个狙击干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "SNIPER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10035": {
+      "id": "sub_10035",
+      "sortId": 174,
+      "description": "将任意一个医疗干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "MEDIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10036": {
+      "id": "sub_10036",
+      "sortId": 175,
+      "description": "将任意一个重装干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "TANK"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10037": {
+      "id": "sub_10037",
+      "sortId": 176,
+      "description": "将任意一个近卫干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10038": {
+      "id": "sub_10038",
+      "sortId": 177,
+      "description": "将任意一个术师干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10039": {
+      "id": "sub_10039",
+      "sortId": 178,
+      "description": "将任意一个辅助干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10040": {
+      "id": "sub_10040",
+      "sortId": 179,
+      "description": "将任意一个特种干员提升到精英1阶段30级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "30",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10006",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 10000
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_140": {
       "id": "sub_140",
-      "sortId": 140,
+      "sortId": 180,
       "description": "通关主线S4-6关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -5817,7 +7283,7 @@
     },
     "sub_141": {
       "id": "sub_141",
-      "sortId": 141,
+      "sortId": 181,
       "description": "炎国：龙门外环单次作战达到400歼灭数",
       "type": "SUB",
       "preMissionIds": null,
@@ -5844,7 +7310,7 @@
     },
     "sub_142": {
       "id": "sub_142",
-      "sortId": 142,
+      "sortId": 182,
       "description": "通关主线S4-9关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -5871,7 +7337,7 @@
     },
     "sub_143": {
       "id": "sub_143",
-      "sortId": 143,
+      "sortId": 183,
       "description": "通关突袭2-5关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -5898,7 +7364,7 @@
     },
     "sub_144": {
       "id": "sub_144",
-      "sortId": 144,
+      "sortId": 184,
       "description": "通关突袭2-8关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -5927,7 +7393,7 @@
     },
     "sub_145": {
       "id": "sub_145",
-      "sortId": 145,
+      "sortId": 185,
       "description": "通关突袭2-10关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -5956,7 +7422,7 @@
     },
     "sub_146": {
       "id": "sub_146",
-      "sortId": 146,
+      "sortId": 186,
       "description": "通关突袭3-4关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -5985,7 +7451,7 @@
     },
     "sub_147": {
       "id": "sub_147",
-      "sortId": 147,
+      "sortId": 187,
       "description": "通关突袭3-8关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6014,7 +7480,7 @@
     },
     "sub_148": {
       "id": "sub_148",
-      "sortId": 148,
+      "sortId": 188,
       "description": "通关芯片搜索<固若金汤>PR-A-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6041,7 +7507,7 @@
     },
     "sub_149": {
       "id": "sub_149",
-      "sortId": 149,
+      "sortId": 189,
       "description": "通关芯片搜索<摧枯拉朽>PR-B-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6068,7 +7534,7 @@
     },
     "sub_150": {
       "id": "sub_150",
-      "sortId": 150,
+      "sortId": 190,
       "description": "通关芯片搜索<势不可挡>PR-C-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6095,7 +7561,7 @@
     },
     "sub_151": {
       "id": "sub_151",
-      "sortId": 151,
+      "sortId": 191,
       "description": "通关芯片搜索<身先士卒>PR-D-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6122,7 +7588,7 @@
     },
     "sub_152": {
       "id": "sub_152",
-      "sortId": 152,
+      "sortId": 192,
       "description": "任意1名干员达到精英阶段2",
       "type": "SUB",
       "preMissionIds": null,
@@ -6148,9 +7614,249 @@
       ],
       "backImagePath": null
     },
+    "sub_10041": {
+      "id": "sub_10041",
+      "sortId": 193,
+      "description": "将任意一个先锋干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "PIONEER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10042": {
+      "id": "sub_10042",
+      "sortId": 194,
+      "description": "将任意一个狙击干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "SNIPER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10043": {
+      "id": "sub_10043",
+      "sortId": 195,
+      "description": "将任意一个医疗干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "MEDIC"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10044": {
+      "id": "sub_10044",
+      "sortId": 196,
+      "description": "将任意一个重装干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "TANK"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10045": {
+      "id": "sub_10045",
+      "sortId": 197,
+      "description": "将任意一个近卫干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "WARRIOR"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10046": {
+      "id": "sub_10046",
+      "sortId": 198,
+      "description": "将任意一个术师干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "CASTER"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10047": {
+      "id": "sub_10047",
+      "sortId": 199,
+      "description": "将任意一个辅助干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "SUPPORT"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_10048": {
+      "id": "sub_10048",
+      "sortId": 200,
+      "description": "将任意一个特种干员提升到精英1阶段50级",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "HasChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1",
+        "50",
+        "-1",
+        "SPECIAL"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_10007",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2004",
+          "count": 10
+        }
+      ],
+      "backImagePath": null
+    },
     "sub_153": {
       "id": "sub_153",
-      "sortId": 153,
+      "sortId": 201,
       "description": "通关主线S5-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6177,7 +7883,7 @@
     },
     "sub_154": {
       "id": "sub_154",
-      "sortId": 154,
+      "sortId": 202,
       "description": "通关主线S5-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6204,7 +7910,7 @@
     },
     "sub_155": {
       "id": "sub_155",
-      "sortId": 155,
+      "sortId": 203,
       "description": "拥有1间氛围值达到5000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -6231,7 +7937,7 @@
     },
     "sub_156": {
       "id": "sub_156",
-      "sortId": 156,
+      "sortId": 204,
       "description": "宿舍总氛围值达到10000",
       "type": "SUB",
       "preMissionIds": null,
@@ -6257,7 +7963,7 @@
     },
     "sub_157": {
       "id": "sub_157",
-      "sortId": 157,
+      "sortId": 205,
       "description": "任意2名干员达到精英阶段2",
       "type": "SUB",
       "preMissionIds": null,
@@ -6284,7 +7990,7 @@
     },
     "sub_158": {
       "id": "sub_158",
-      "sortId": 158,
+      "sortId": 206,
       "description": "通关突袭4-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6311,7 +8017,7 @@
     },
     "sub_159": {
       "id": "sub_159",
-      "sortId": 159,
+      "sortId": 207,
       "description": "通关突袭4-7关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6340,7 +8046,7 @@
     },
     "sub_160": {
       "id": "sub_160",
-      "sortId": 160,
+      "sortId": 208,
       "description": "通关突袭4-10关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6369,7 +8075,7 @@
     },
     "sub_161": {
       "id": "sub_161",
-      "sortId": 161,
+      "sortId": 209,
       "description": "通关主线S5-6关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6396,7 +8102,7 @@
     },
     "sub_162": {
       "id": "sub_162",
-      "sortId": 162,
+      "sortId": 210,
       "description": "通关主线S6-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6423,7 +8129,7 @@
     },
     "sub_163": {
       "id": "sub_163",
-      "sortId": 163,
+      "sortId": 211,
       "description": "拥有2间氛围值达到5000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -6450,7 +8156,7 @@
     },
     "sub_164": {
       "id": "sub_164",
-      "sortId": 164,
+      "sortId": 212,
       "description": "宿舍总氛围值达到15000",
       "type": "SUB",
       "preMissionIds": null,
@@ -6476,7 +8182,7 @@
     },
     "sub_165": {
       "id": "sub_165",
-      "sortId": 165,
+      "sortId": 213,
       "description": "通关主线S6-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6503,7 +8209,7 @@
     },
     "sub_166": {
       "id": "sub_166",
-      "sortId": 166,
+      "sortId": 214,
       "description": "任意4名干员达到精英阶段2",
       "type": "SUB",
       "preMissionIds": null,
@@ -6530,7 +8236,7 @@
     },
     "sub_167": {
       "id": "sub_167",
-      "sortId": 167,
+      "sortId": 215,
       "description": "通关突袭5-3关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6557,7 +8263,7 @@
     },
     "sub_168": {
       "id": "sub_168",
-      "sortId": 168,
+      "sortId": 216,
       "description": "通关突袭5-7关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6586,7 +8292,7 @@
     },
     "sub_169": {
       "id": "sub_169",
-      "sortId": 169,
+      "sortId": 217,
       "description": "通关突袭5-10关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6615,7 +8321,7 @@
     },
     "sub_170": {
       "id": "sub_170",
-      "sortId": 170,
+      "sortId": 218,
       "description": "通关炼狱行动H5-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6642,7 +8348,7 @@
     },
     "sub_171": {
       "id": "sub_171",
-      "sortId": 171,
+      "sortId": 219,
       "description": "拥有3间氛围值达到5000的宿舍",
       "type": "SUB",
       "preMissionIds": null,
@@ -6669,7 +8375,7 @@
     },
     "sub_172": {
       "id": "sub_172",
-      "sortId": 172,
+      "sortId": 220,
       "description": "宿舍总氛围值达到18000",
       "type": "SUB",
       "preMissionIds": null,
@@ -6695,7 +8401,7 @@
     },
     "sub_173": {
       "id": "sub_173",
-      "sortId": 173,
+      "sortId": 221,
       "description": "任意6名干员达到精英阶段2",
       "type": "SUB",
       "preMissionIds": null,
@@ -6722,7 +8428,7 @@
     },
     "sub_174": {
       "id": "sub_174",
-      "sortId": 174,
+      "sortId": 222,
       "description": "通关突袭6-5关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6749,7 +8455,7 @@
     },
     "sub_175": {
       "id": "sub_175",
-      "sortId": 175,
+      "sortId": 223,
       "description": "通关突袭6-11关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6778,7 +8484,7 @@
     },
     "sub_176": {
       "id": "sub_176",
-      "sortId": 176,
+      "sortId": 224,
       "description": "通关突袭6-16关卡1次",
       "type": "SUB",
       "preMissionIds": [
@@ -6807,7 +8513,7 @@
     },
     "sub_177": {
       "id": "sub_177",
-      "sortId": 177,
+      "sortId": 225,
       "description": "通关炼狱行动H6-4关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6834,7 +8540,7 @@
     },
     "sub_178": {
       "id": "sub_178",
-      "sortId": 178,
+      "sortId": 226,
       "description": "通关主线S7-2关卡1次",
       "type": "SUB",
       "preMissionIds": null,
@@ -6861,8 +8567,8 @@
     },
     "sub_179": {
       "id": "sub_179",
-      "sortId": 179,
-      "description": "通关突袭R8-11关卡1次",
+      "sortId": 227,
+      "description": "通关突袭8-11关卡1次",
       "type": "SUB",
       "preMissionIds": null,
       "template": "CompleteStage",
@@ -7404,14 +9110,14 @@
     "main_20": {
       "id": "main_20",
       "sortId": 0,
-      "description": "在物资筹备中以3星评价完成任意难度1的关卡",
+      "description": "在资源收集中以3星评价完成任意难度1的关卡",
       "type": "MAIN",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
       "templateType": "0",
       "param": [
         "0",
-        "wk_melee_1^wk_armor_1^wk_kc_1^wk_toxic_1^wk_fly_1",
+        "wk_melee_1^wk_armor_1^wk_kc_1^wk_toxic_1^wk_fly_1^pro_a_1^pro_b_1^pro_c_1^pro_d_1",
         "3"
       ],
       "unlockCondition": null,
@@ -7647,14 +9353,14 @@
     "main_29": {
       "id": "main_29",
       "sortId": 0,
-      "description": "在物资筹备中以3星评价完成任意难度2的关卡",
+      "description": "在资源收集中以3星评价完成任意难度2的关卡",
       "type": "MAIN",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
       "templateType": "0",
       "param": [
         "0",
-        "wk_melee_2^wk_armor_2^wk_kc_2^wk_toxic_2^wk_fly_2",
+        "wk_melee_2^wk_armor_2^wk_kc_2^wk_toxic_2^wk_fly_2^pro_a_2^pro_b_2^pro_c_2^pro_d_2",
         "3"
       ],
       "unlockCondition": null,
@@ -7783,7 +9489,7 @@
     "main_34": {
       "id": "main_34",
       "sortId": 0,
-      "description": "在物资筹备中以3星评价完成任意难度3的关卡",
+      "description": "在资源收集中以3星评价完成任意难度3的关卡",
       "type": "MAIN",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
@@ -7919,7 +9625,7 @@
     "main_39": {
       "id": "main_39",
       "sortId": 0,
-      "description": "在物资筹备中以3星评价完成任意难度4的关卡",
+      "description": "在资源收集中以3星评价完成任意难度4的关卡",
       "type": "MAIN",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
@@ -8159,7 +9865,7 @@
     "main_48": {
       "id": "main_48",
       "sortId": 0,
-      "description": "在物资筹备中以3星评价完成任意难度5的关卡",
+      "description": "在资源收集中以3星评价完成任意难度5的关卡",
       "type": "MAIN",
       "preMissionIds": null,
       "template": "CompleteAnyStage",
@@ -14001,10 +15707,1266 @@
       "rewards": null,
       "backImagePath": null
     },
+    "daily_4401": {
+      "id": "daily_4401",
+      "sortId": 4401,
+      "description": "通关任意关卡1次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4402": {
+      "id": "daily_4402",
+      "sortId": 4402,
+      "description": "通关任意关卡3次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4401"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4403": {
+      "id": "daily_4403",
+      "sortId": 4403,
+      "description": "通关任意关卡5次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4402"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4404": {
+      "id": "daily_4404",
+      "sortId": 4404,
+      "description": "通关任意关卡8次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4403"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "8"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 3,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4405": {
+      "id": "daily_4405",
+      "sortId": 4405,
+      "description": "在主线关卡中歼灭1次敌方领袖",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "3",
+      "param": [
+        "3",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4406": {
+      "id": "daily_4406",
+      "sortId": 4406,
+      "description": "在主线关卡中歼灭3次敌方领袖",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4405"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "3",
+      "param": [
+        "3",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4407": {
+      "id": "daily_4407",
+      "sortId": 4407,
+      "description": "累计歼灭任意200名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "200"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4408": {
+      "id": "daily_4408",
+      "sortId": 4408,
+      "description": "累计歼灭任意400名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4407"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "400"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4409": {
+      "id": "daily_4409",
+      "sortId": 4409,
+      "description": "累计歼灭任意600名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4408"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "600"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4410": {
+      "id": "daily_4410",
+      "sortId": 4410,
+      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithAssistChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4411": {
+      "id": "daily_4411",
+      "sortId": 4411,
+      "description": "进行1次干员强化",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4412": {
+      "id": "daily_4412",
+      "sortId": 4412,
+      "description": "从信用商店收取1次信用",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "ReceiveSocialPoint",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4413": {
+      "id": "daily_4413",
+      "sortId": 4413,
+      "description": "在信用商店中购买任意商品1次",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4414": {
+      "id": "daily_4414",
+      "sortId": 4414,
+      "description": "完成1次公开招募",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4415": {
+      "id": "daily_4415",
+      "sortId": 4415,
+      "description": "完成3次公开招募",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4414"
+      ],
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4416": {
+      "id": "daily_4416",
+      "sortId": 4416,
+      "description": "在基建内与干员进行5次增加信赖的互动",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "GainIntimacy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4417": {
+      "id": "daily_4417",
+      "sortId": 4417,
+      "description": "累计收取1次制造站的制造产物",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4418": {
+      "id": "daily_4418",
+      "sortId": 4418,
+      "description": "完成1笔订单",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4419": {
+      "id": "daily_4419",
+      "sortId": 4419,
+      "description": "让3名干员在宿舍中恢复心情",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_44",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4501": {
+      "id": "daily_4501",
+      "sortId": 4501,
+      "description": "通关任意关卡1次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4502": {
+      "id": "daily_4502",
+      "sortId": 4502,
+      "description": "通关任意关卡3次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4501"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4503": {
+      "id": "daily_4503",
+      "sortId": 4503,
+      "description": "通关任意关卡5次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4502"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4504": {
+      "id": "daily_4504",
+      "sortId": 4504,
+      "description": "通关任意关卡8次，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4503"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "8"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 3,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4505": {
+      "id": "daily_4505",
+      "sortId": 4505,
+      "description": "在主线关卡中歼灭1次敌方领袖",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "3",
+      "param": [
+        "3",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4506": {
+      "id": "daily_4506",
+      "sortId": 4506,
+      "description": "在主线关卡中歼灭3次敌方领袖",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4505"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "3",
+      "param": [
+        "3",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4507": {
+      "id": "daily_4507",
+      "sortId": 4507,
+      "description": "累计歼灭任意200名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "200"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4508": {
+      "id": "daily_4508",
+      "sortId": 4508,
+      "description": "累计歼灭任意400名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4507"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "400"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4509": {
+      "id": "daily_4509",
+      "sortId": 4509,
+      "description": "累计歼灭任意600名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4508"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "600"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4510": {
+      "id": "daily_4510",
+      "sortId": 4510,
+      "description": "在使用好友助战的情况下完成任意关卡1次",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "StageWithAssistChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4511": {
+      "id": "daily_4511",
+      "sortId": 4511,
+      "description": "进行1次干员强化",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4512": {
+      "id": "daily_4512",
+      "sortId": 4512,
+      "description": "从信用商店收取1次信用",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "ReceiveSocialPoint",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4513": {
+      "id": "daily_4513",
+      "sortId": 4513,
+      "description": "在信用商店中购买任意商品1次",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4514": {
+      "id": "daily_4514",
+      "sortId": 4514,
+      "description": "完成1次公开招募",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4515": {
+      "id": "daily_4515",
+      "sortId": 4515,
+      "description": "完成3次公开招募",
+      "type": "DAILY",
+      "preMissionIds": [
+        "daily_4514"
+      ],
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4516": {
+      "id": "daily_4516",
+      "sortId": 4516,
+      "description": "在基建内与干员进行5次增加信赖的互动",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "GainIntimacy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4517": {
+      "id": "daily_4517",
+      "sortId": 4517,
+      "description": "累计收取1次制造站的制造产物",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4518": {
+      "id": "daily_4518",
+      "sortId": 4518,
+      "description": "完成1笔订单",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "daily_4519": {
+      "id": "daily_4519",
+      "sortId": 4519,
+      "description": "让3名干员在宿舍中恢复心情",
+      "type": "DAILY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "daily_g_45",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_601": {
+      "id": "weekly_601",
+      "sortId": 601,
+      "description": "通关任意关卡10次，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_602": {
+      "id": "weekly_602",
+      "sortId": 602,
+      "description": "通关任意关卡20次，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_601"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "20"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_603": {
+      "id": "weekly_603",
+      "sortId": 603,
+      "description": "通关任意关卡30次，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_602"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "30"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_604": {
+      "id": "weekly_604",
+      "sortId": 604,
+      "description": "通关任意关卡50次，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_603"
+      ],
+      "template": "CompleteStageOrCampaign",
+      "templateType": "0",
+      "param": [
+        "0",
+        "50"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_605": {
+      "id": "weekly_605",
+      "sortId": 605,
+      "description": "在主线关卡中歼灭5次敌方领袖",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "3",
+      "param": [
+        "3",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_606": {
+      "id": "weekly_606",
+      "sortId": 606,
+      "description": "累计歼灭任意1000名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "1000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_607": {
+      "id": "weekly_607",
+      "sortId": 607,
+      "description": "累计歼灭任意2000名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_606"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "2000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_608": {
+      "id": "weekly_608",
+      "sortId": 608,
+      "description": "累计歼灭任意3000名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_607"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "3000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_609": {
+      "id": "weekly_609",
+      "sortId": 609,
+      "description": "累计歼灭任意5000名敌兵，不含危机合约和部分活动中0理智关卡",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_608"
+      ],
+      "template": "StageWithEnemyKill",
+      "templateType": "4",
+      "param": [
+        "4",
+        "5000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_610": {
+      "id": "weekly_610",
+      "sortId": 610,
+      "description": "使用好友助战干员完成任意关卡5次",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "StageWithAssistChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "1",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_611": {
+      "id": "weekly_611",
+      "sortId": 611,
+      "description": "进行5次干员强化",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "UpgradeChar",
+      "templateType": "0",
+      "param": [
+        "0",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_612": {
+      "id": "weekly_612",
+      "sortId": 612,
+      "description": "从信用商店收取5次信用",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "ReceiveSocialPoint",
+      "templateType": "1",
+      "param": [
+        "1",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_613": {
+      "id": "weekly_613",
+      "sortId": 613,
+      "description": "在信用商店中购买任意商品5次",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "BuyShopItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "5"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_614": {
+      "id": "weekly_614",
+      "sortId": 614,
+      "description": "使用公开招募10次",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "NormalGacha",
+      "templateType": "0",
+      "param": [
+        "0",
+        "-1",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_615": {
+      "id": "weekly_615",
+      "sortId": 615,
+      "description": "在基建内与干员进行40次增加信赖的互动",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "GainIntimacy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_616": {
+      "id": "weekly_616",
+      "sortId": 616,
+      "description": "在基建内与干员进行60次增加信赖的互动",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_615"
+      ],
+      "template": "GainIntimacy",
+      "templateType": "0",
+      "param": [
+        "0",
+        "60"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_617": {
+      "id": "weekly_617",
+      "sortId": 617,
+      "description": "累计收取10次制造站的制造产物",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "ManufactureItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_618": {
+      "id": "weekly_618",
+      "sortId": 618,
+      "description": "累计收取20次制造站的制造产物",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_617"
+      ],
+      "template": "ManufactureItem",
+      "templateType": "1",
+      "param": [
+        "1",
+        "20"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_619": {
+      "id": "weekly_619",
+      "sortId": 619,
+      "description": "完成15笔订单",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_620": {
+      "id": "weekly_620",
+      "sortId": 620,
+      "description": "完成30笔订单",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_619"
+      ],
+      "template": "DeliveryOrder",
+      "templateType": "1",
+      "param": [
+        "1",
+        "30"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_621": {
+      "id": "weekly_621",
+      "sortId": 621,
+      "description": "让20名干员在宿舍中恢复心情",
+      "type": "WEEKLY",
+      "preMissionIds": null,
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "20"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 1,
+      "rewards": null,
+      "backImagePath": null
+    },
+    "weekly_622": {
+      "id": "weekly_622",
+      "sortId": 622,
+      "description": "让40名干员在宿舍中恢复心情",
+      "type": "WEEKLY",
+      "preMissionIds": [
+        "weekly_621"
+      ],
+      "template": "RecoverCharBaseAp",
+      "templateType": "0",
+      "param": [
+        "0",
+        "40"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "weekly_g_6",
+      "toPage": null,
+      "periodicalPoint": 2,
+      "rewards": null,
+      "backImagePath": null
+    },
     "weekly_501": {
       "id": "weekly_501",
       "sortId": 501,
-      "description": "通关任意关卡10次，不含危机合约、集成战略和多维合作",
+      "description": "通关任意关卡10次，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "CompleteStageOrCampaign",
@@ -14024,7 +16986,7 @@
     "weekly_502": {
       "id": "weekly_502",
       "sortId": 502,
-      "description": "通关任意关卡20次，不含危机合约、集成战略和多维合作",
+      "description": "通关任意关卡20次，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_501"
@@ -14046,7 +17008,7 @@
     "weekly_503": {
       "id": "weekly_503",
       "sortId": 503,
-      "description": "通关任意关卡30次，不含危机合约、集成战略和多维合作",
+      "description": "通关任意关卡30次，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_502"
@@ -14068,7 +17030,7 @@
     "weekly_504": {
       "id": "weekly_504",
       "sortId": 504,
-      "description": "通关任意关卡50次，不含危机合约、集成战略和多维合作",
+      "description": "通关任意关卡50次，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_503"
@@ -14110,7 +17072,7 @@
     "weekly_506": {
       "id": "weekly_506",
       "sortId": 506,
-      "description": "作战中累计歼灭数到达1000，不含危机合约、集成战略和多维合作",
+      "description": "累计歼灭任意1000名敌兵，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "StageWithEnemyKill",
@@ -14130,7 +17092,7 @@
     "weekly_507": {
       "id": "weekly_507",
       "sortId": 507,
-      "description": "作战中累计歼灭数到达2000，不含危机合约、集成战略和多维合作",
+      "description": "累计歼灭任意2000名敌兵，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_506"
@@ -14152,7 +17114,7 @@
     "weekly_508": {
       "id": "weekly_508",
       "sortId": 508,
-      "description": "作战中累计歼灭数到达3000，不含危机合约、集成战略和多维合作",
+      "description": "累计歼灭任意3000名敌兵，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_507"
@@ -14174,7 +17136,7 @@
     "weekly_509": {
       "id": "weekly_509",
       "sortId": 509,
-      "description": "作战中累计歼灭数到达5000，不含危机合约、集成战略和多维合作",
+      "description": "累计歼灭任意5000名敌兵，不含危机合约和部分活动中0理智关卡",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_508"
@@ -16040,6 +19002,33 @@
       "startTs": -1,
       "endTs": -1
     },
+    "guide_g_8": {
+      "id": "guide_g_8",
+      "title": "第八阶段奖励",
+      "type": "GUIDE",
+      "preMissionGroup": "guide_g_7",
+      "period": null,
+      "rewards": [
+        {
+          "type": "CHAR",
+          "id": "char_102_texas",
+          "count": 1
+        }
+      ],
+      "missionIds": [
+        "guide_64",
+        "guide_65",
+        "guide_66",
+        "guide_67",
+        "guide_68",
+        "guide_69",
+        "guide_70",
+        "guide_71",
+        "guide_72"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "sub_g_1": {
       "id": "sub_g_1",
       "title": null,
@@ -16096,6 +19085,22 @@
         "sub_22",
         "sub_23",
         "sub_24"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_10001": {
+      "id": "sub_g_10001",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_5",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10001",
+        "sub_10002",
+        "sub_10003",
+        "sub_10004"
       ],
       "startTs": -1,
       "endTs": -1
@@ -16185,6 +19190,22 @@
       "startTs": -1,
       "endTs": -1
     },
+    "sub_g_10002": {
+      "id": "sub_g_10002",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_16",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10005",
+        "sub_10006",
+        "sub_10007",
+        "sub_10008"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "sub_g_10": {
       "id": "sub_g_10",
       "title": null,
@@ -16265,6 +19286,26 @@
       "startTs": -1,
       "endTs": -1
     },
+    "sub_g_10003": {
+      "id": "sub_g_10003",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_29",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10009",
+        "sub_10010",
+        "sub_10011",
+        "sub_10012",
+        "sub_10013",
+        "sub_10014",
+        "sub_10015",
+        "sub_10016"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "sub_g_15": {
       "id": "sub_g_15",
       "title": null,
@@ -16306,6 +19347,26 @@
       "rewards": null,
       "missionIds": [
         "sub_66"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_10004": {
+      "id": "sub_g_10004",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_32",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10017",
+        "sub_10018",
+        "sub_10019",
+        "sub_10020",
+        "sub_10021",
+        "sub_10022",
+        "sub_10023",
+        "sub_10024"
       ],
       "startTs": -1,
       "endTs": -1
@@ -16485,6 +19546,26 @@
       "startTs": -1,
       "endTs": -1
     },
+    "sub_g_10005": {
+      "id": "sub_g_10005",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_35",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10025",
+        "sub_10026",
+        "sub_10027",
+        "sub_10028",
+        "sub_10029",
+        "sub_10030",
+        "sub_10031",
+        "sub_10032"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "sub_g_30": {
       "id": "sub_g_30",
       "title": null,
@@ -16635,6 +19716,26 @@
       "startTs": -1,
       "endTs": -1
     },
+    "sub_g_10006": {
+      "id": "sub_g_10006",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_38",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10033",
+        "sub_10034",
+        "sub_10035",
+        "sub_10036",
+        "sub_10037",
+        "sub_10038",
+        "sub_10039",
+        "sub_10040"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "sub_g_39": {
       "id": "sub_g_39",
       "title": null,
@@ -16716,6 +19817,26 @@
       "rewards": null,
       "missionIds": [
         "sub_152"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_10007": {
+      "id": "sub_g_10007",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_41",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_10041",
+        "sub_10042",
+        "sub_10043",
+        "sub_10044",
+        "sub_10045",
+        "sub_10046",
+        "sub_10047",
+        "sub_10048"
       ],
       "startTs": -1,
       "endTs": -1
@@ -18151,6 +21272,68 @@
       "startTs": -1,
       "endTs": -1
     },
+    "daily_g_44": {
+      "id": "daily_g_44",
+      "title": null,
+      "type": "DAILY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "daily_4401",
+        "daily_4402",
+        "daily_4403",
+        "daily_4404",
+        "daily_4405",
+        "daily_4406",
+        "daily_4407",
+        "daily_4408",
+        "daily_4409",
+        "daily_4410",
+        "daily_4411",
+        "daily_4412",
+        "daily_4413",
+        "daily_4414",
+        "daily_4415",
+        "daily_4416",
+        "daily_4417",
+        "daily_4418",
+        "daily_4419"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "daily_g_45": {
+      "id": "daily_g_45",
+      "title": null,
+      "type": "DAILY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "daily_4501",
+        "daily_4502",
+        "daily_4503",
+        "daily_4504",
+        "daily_4505",
+        "daily_4506",
+        "daily_4507",
+        "daily_4508",
+        "daily_4509",
+        "daily_4510",
+        "daily_4511",
+        "daily_4512",
+        "daily_4513",
+        "daily_4514",
+        "daily_4515",
+        "daily_4516",
+        "daily_4517",
+        "daily_4518",
+        "daily_4519"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "weekly_g_2": {
       "id": "weekly_g_2",
       "title": null,
@@ -18285,7 +21468,41 @@
         "weekly_522"
       ],
       "startTs": 1615147200,
-      "endTs": 1867607999
+      "endTs": 1877284799
+    },
+    "weekly_g_6": {
+      "id": "weekly_g_6",
+      "title": null,
+      "type": "WEEKLY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "weekly_601",
+        "weekly_602",
+        "weekly_603",
+        "weekly_604",
+        "weekly_605",
+        "weekly_606",
+        "weekly_607",
+        "weekly_608",
+        "weekly_609",
+        "weekly_610",
+        "weekly_611",
+        "weekly_612",
+        "weekly_613",
+        "weekly_614",
+        "weekly_615",
+        "weekly_616",
+        "weekly_617",
+        "weekly_618",
+        "weekly_619",
+        "weekly_620",
+        "weekly_621",
+        "weekly_622"
+      ],
+      "startTs": 1877284800,
+      "endTs": 1878494399
     }
   },
   "periodicalRewards": {
@@ -20462,6 +23679,280 @@
           "count": 60
         }
       ]
+    },
+    "reward_daily_404": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_404",
+      "periodicalPointCost": 1,
+      "type": "DAILY",
+      "sortIndex": 1,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 500
+        }
+      ]
+    },
+    "reward_daily_405": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_405",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 2,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2001",
+          "count": 3
+        }
+      ]
+    },
+    "reward_daily_406": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_406",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 3,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 1000
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ]
+    },
+    "reward_daily_407": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_407",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 4,
+      "rewards": [
+        {
+          "type": "TKT_RECRUIT",
+          "id": "7001",
+          "count": 1
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2001",
+          "count": 5
+        }
+      ]
+    },
+    "reward_daily_408": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_408",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 5,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 2000
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3112",
+          "count": 3
+        }
+      ]
+    },
+    "reward_daily_409": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_409",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 6,
+      "rewards": [
+        {
+          "type": "TKT_INST_FIN",
+          "id": "7002",
+          "count": 1
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 5
+        }
+      ]
+    },
+    "reward_daily_410": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_410",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 7,
+      "rewards": [
+        {
+          "type": "DIAMOND_SHD",
+          "id": "4003",
+          "count": 100
+        }
+      ]
+    },
+    "reward_daily_411": {
+      "groupId": "reward_daily_g_44",
+      "id": "reward_daily_411",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 8,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "4006",
+          "count": 5
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 60
+        }
+      ]
+    },
+    "reward_daily_412": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_412",
+      "periodicalPointCost": 1,
+      "type": "DAILY",
+      "sortIndex": 1,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 500
+        }
+      ]
+    },
+    "reward_daily_413": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_413",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 2,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2001",
+          "count": 3
+        }
+      ]
+    },
+    "reward_daily_414": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_414",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 3,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 1000
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3301",
+          "count": 2
+        }
+      ]
+    },
+    "reward_daily_415": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_415",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 4,
+      "rewards": [
+        {
+          "type": "TKT_RECRUIT",
+          "id": "7001",
+          "count": 1
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2001",
+          "count": 5
+        }
+      ]
+    },
+    "reward_daily_416": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_416",
+      "periodicalPointCost": 2,
+      "type": "DAILY",
+      "sortIndex": 5,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 2000
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3112",
+          "count": 3
+        }
+      ]
+    },
+    "reward_daily_417": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_417",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 6,
+      "rewards": [
+        {
+          "type": "TKT_RECRUIT",
+          "id": "7001",
+          "count": 1
+        },
+        {
+          "type": "CARD_EXP",
+          "id": "2002",
+          "count": 5
+        }
+      ]
+    },
+    "reward_daily_418": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_418",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 7,
+      "rewards": [
+        {
+          "type": "DIAMOND_SHD",
+          "id": "4003",
+          "count": 100
+        }
+      ]
+    },
+    "reward_daily_419": {
+      "groupId": "reward_daily_g_45",
+      "id": "reward_daily_419",
+      "periodicalPointCost": 3,
+      "type": "DAILY",
+      "sortIndex": 8,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "4006",
+          "count": 5
+        },
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 60
+        }
+      ]
     }
   },
   "weeklyRewards": {
@@ -20851,7 +24342,7 @@
     },
     {
       "startTime": 1615147200,
-      "endTime": 1646683199,
+      "endTime": 1624823999,
       "tagState": null,
       "periodList": [
         {
@@ -20868,6 +24359,32 @@
         {
           "missionGroupId": "daily_g_43",
           "rewardGroupId": "reward_daily_g_43",
+          "period": [
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "startTime": 1624824000,
+      "endTime": 1657569599,
+      "tagState": null,
+      "periodList": [
+        {
+          "missionGroupId": "daily_g_44",
+          "rewardGroupId": "reward_daily_g_44",
+          "period": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "missionGroupId": "daily_g_45",
+          "rewardGroupId": "reward_daily_g_45",
           "period": [
             6,
             7

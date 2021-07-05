@@ -204,7 +204,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_durin_set_1",
+          "storySetName": "午休时间",
+          "sortId": 1,
+          "storyGetTime": 1625198400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "0",
+              "unlockParam2": "30",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_durin_set_1_story_1",
+              "storySetId": "story_durin_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "只要不耽误工作，悠悠闲闲地睡久一点也没什么不好嘛。",
+              "storyInfo": "info/obt/memory/story_durin_1_1",
+              "storyTxt": "obt/memory/story_durin_1_1"
+            }
+          ],
+          "charId": "char_501_durin"
+        }
+      ]
     },
     "char_502_nblade": {
       "charID": "char_502_nblade",
@@ -2318,7 +2352,7 @@
     "char_204_platnm": {
       "charID": "char_204_platnm",
       "drawName": "Skade",
-      "infoName": "茅野愛衣",
+      "infoName": "-",
       "storyTextAudio": [
         {
           "stories": [
@@ -3899,7 +3933,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_cgbird_set_1",
+          "storySetName": "蓝色羽毛与歌",
+          "sortId": 1,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_cgbird_set_1_story_1",
+              "storySetId": "story_cgbird_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "一个看不见自身希望的人，依然希望能给他人带来希望。",
+              "storyInfo": "info/obt/memory/story_cgbird_1_1",
+              "storyTxt": "obt/memory/story_cgbird_1_1"
+            }
+          ],
+          "charId": "char_179_cgbird"
+        }
+      ]
     },
     "char_112_siege": {
       "charID": "char_112_siege",
@@ -4385,7 +4453,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_texas_set_1",
+          "storySetName": "使命必达",
+          "sortId": 1,
+          "storyGetTime": 1618459200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_texas_set_1_story_1",
+              "storySetId": "story_texas_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "谁能想到会有给败者送货的一天呢？",
+              "storyInfo": "info/obt/memory/story_texas_1_1",
+              "storyTxt": "obt/memory/story_texas_1_1"
+            }
+          ],
+          "charId": "char_102_texas"
+        }
+      ]
     },
     "char_103_angel": {
       "charID": "char_103_angel",
@@ -5608,7 +5710,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_ghost_set_1",
+          "storySetName": "圣诞快乐！",
+          "sortId": 1,
+          "storyGetTime": 1618459200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_ghost_set_1_story_1",
+              "storySetId": "story_ghost_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "一次珍贵的交换礼物的机会，承载一颗真诚的心。她能感受到吗？",
+              "storyInfo": "info/obt/memory/story_ghost_1_1",
+              "storyTxt": "obt/memory/story_ghost_1_1"
+            }
+          ],
+          "charId": "char_143_ghost"
+        }
+      ]
     },
     "char_181_flower": {
       "charID": "char_181_flower",
@@ -5976,7 +6112,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_shotst_set_1",
+          "storySetName": "滚烫旧忆",
+          "sortId": 1,
+          "storyGetTime": 1622520000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_shotst_set_1_story_1",
+              "storySetId": "story_shotst_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "往日的回忆是身后穷追的野兽。",
+              "storyInfo": "info/obt/memory/story_shotst_1_1",
+              "storyTxt": "obt/memory/story_shotst_1_1"
+            }
+          ],
+          "charId": "char_126_shotst"
+        }
+      ]
     },
     "char_127_estell": {
       "charID": "char_127_estell",
@@ -6172,7 +6342,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_nights_set_1",
+          "storySetName": "“猫猫”",
+          "sortId": 1,
+          "storyGetTime": 1618459200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_nights_set_1_story_1",
+              "storySetId": "story_nights_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "“喵——” 在它们身边，她显得如此放松，惬意，心满意足。",
+              "storyInfo": "info/obt/memory/story_nights_1_1",
+              "storyTxt": "obt/memory/story_nights_1_1"
+            }
+          ],
+          "charId": "char_141_nights"
+        }
+      ]
     },
     "char_145_prove": {
       "charID": "char_145_prove",
@@ -6414,7 +6618,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_skgoat_set_1",
+          "storySetName": "额外的工作",
+          "sortId": 1,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_skgoat_set_1_story_1",
+              "storySetId": "story_skgoat_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "闲暇的时光，却总是被工作打断。",
+              "storyInfo": "info/obt/memory/story_skgoat_1_1",
+              "storyTxt": "obt/memory/story_skgoat_1_1"
+            }
+          ],
+          "charId": "char_183_skgoat"
+        }
+      ]
     },
     "char_187_ccheal": {
       "charID": "char_187_ccheal",
@@ -8186,7 +8424,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_gravel_set_1",
+          "storySetName": "梦中过往",
+          "sortId": 1,
+          "storyGetTime": 1625198400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_gravel_set_1_story_1",
+              "storySetId": "story_gravel_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "父母与家乡，是每一位孩子永远找寻的原点。",
+              "storyInfo": "info/obt/memory/story_gravel_1_1",
+              "storyTxt": "obt/memory/story_gravel_1_1"
+            }
+          ],
+          "charId": "char_237_gravel"
+        }
+      ]
     },
     "char_286_cast3": {
       "charID": "char_286_cast3",
@@ -9467,7 +9739,83 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_savage_set_1",
+          "storySetName": "沉痛转机",
+          "sortId": 1,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_savage_set_1_story_1",
+              "storySetId": "story_savage_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "一份责任，一个时机。",
+              "storyInfo": "info/obt/memory/story_savage_1_1",
+              "storyTxt": "obt/memory/story_savage_1_1"
+            }
+          ],
+          "charId": "char_230_savage"
+        },
+        {
+          "storySetId": "story_savage_set_2",
+          "storySetName": "自有一“派”",
+          "sortId": 2,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "60",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "200",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_savage_set_2_story_1",
+              "storySetId": "story_savage_set_2",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "为什么暴行对卡特斯这么友爱？呀，卡特斯人就是应该暖烘烘地凑在一起嘛！",
+              "storyInfo": "info/obt/memory/story_savage_2_1",
+              "storyTxt": "obt/memory/story_savage_2_1"
+            },
+            {
+              "storyId": "story_savage_set_2_story_2",
+              "storySetId": "story_savage_set_2",
+              "storySort": 2,
+              "storyCanShow": true,
+              "storyIntro": "吃一块胡萝卜派，听听她的想法。",
+              "storyInfo": "info/obt/memory/story_savage_2_2",
+              "storyTxt": "obt/memory/story_savage_2_2"
+            }
+          ],
+          "charId": "char_230_savage"
+        }
+      ]
     },
     "char_282_catap": {
       "charID": "char_282_catap",
@@ -10323,7 +10671,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_popka_set_1",
+          "storySetName": "玩乐之间",
+          "sortId": 1,
+          "storyGetTime": 1622520000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "1",
+              "unlockParam2": "55",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_popka_set_1_story_1",
+              "storySetId": "story_popka_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "把小干员们放在游戏室里最安全了，怎么会出事呢？",
+              "storyInfo": "info/obt/memory/story_popka_1_1",
+              "storyTxt": "obt/memory/story_popka_1_1"
+            }
+          ],
+          "charId": "char_281_popka"
+        }
+      ]
     },
     "char_308_swire": {
       "charID": "char_308_swire",
@@ -11469,7 +11851,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_helage_set_1",
+          "storySetName": "命途",
+          "sortId": 1,
+          "storyGetTime": 1618459200,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_helage_set_1_story_1",
+              "storySetId": "story_helage_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "骑士与将军，战争与傲慢，国家与感染者。",
+              "storyInfo": "info/obt/memory/story_helage_1_1",
+              "storyTxt": "obt/memory/story_helage_1_1"
+            }
+          ],
+          "charId": "char_188_helage"
+        }
+      ]
     },
     "char_260_durnar": {
       "charID": "char_260_durnar",
@@ -11585,7 +12001,74 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_durnar_set_1",
+          "storySetName": "额外训练",
+          "sortId": 1,
+          "storyGetTime": 1625198400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_durnar_set_1_story_1",
+              "storySetId": "story_durnar_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "训练就是要怕什么来什么。",
+              "storyInfo": "info/obt/memory/story_durnar_1_1",
+              "storyTxt": "obt/memory/story_durnar_1_1"
+            }
+          ],
+          "charId": "char_260_durnar"
+        },
+        {
+          "storySetId": "story_durnar_set_2",
+          "storySetName": "杯中旧事",
+          "sortId": 2,
+          "storyGetTime": 1625198400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "60",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "200",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_durnar_set_2_story_1",
+              "storySetId": "story_durnar_set_2",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "九点之后喝杯酒，消愁愁更愁。",
+              "storyInfo": "info/obt/memory/story_durnar_2_1",
+              "storyTxt": "obt/memory/story_durnar_2_1"
+            }
+          ],
+          "charId": "char_260_durnar"
+        }
+      ]
     },
     "char_355_ethan": {
       "charID": "char_355_ethan",
@@ -11851,7 +12334,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_breeze_set_1",
+          "storySetName": "风暖寒林",
+          "sortId": 1,
+          "storyGetTime": 1622520000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_breeze_set_1_story_1",
+              "storySetId": "story_breeze_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "卸下贵族的身份并不意味着逃避。",
+              "storyInfo": "info/obt/memory/story_breeze_1_1",
+              "storyTxt": "obt/memory/story_breeze_1_1"
+            }
+          ],
+          "charId": "char_275_breeze"
+        }
+      ]
     },
     "char_248_mgllan": {
       "charID": "char_248_mgllan",
@@ -12419,7 +12936,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_mostma_set_1",
+          "storySetName": "高楼之上",
+          "sortId": 1,
+          "storyGetTime": 1622520000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_mostma_set_1_story_1",
+              "storySetId": "story_mostma_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "并不是一切愿望都会有结果。",
+              "storyInfo": "info/obt/memory/story_mostma_1_1",
+              "storyTxt": "obt/memory/story_mostma_1_1"
+            }
+          ],
+          "charId": "char_213_mostma"
+        }
+      ]
     },
     "char_325_bison": {
       "charID": "char_325_bison",
@@ -13137,7 +13688,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_huang_set_1",
+          "storySetName": "你愿意吗",
+          "sortId": 1,
+          "storyGetTime": 1625198400,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_huang_set_1_story_1",
+              "storySetId": "story_huang_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "曾有多少人亦走过、或将要走上这条路。",
+              "storyInfo": "info/obt/memory/story_huang_1_1",
+              "storyTxt": "obt/memory/story_huang_1_1"
+            }
+          ],
+          "charId": "char_017_huang"
+        }
+      ]
     },
     "char_367_swllow": {
       "charID": "char_367_swllow",
@@ -14815,7 +15400,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_therex_set_1",
+          "storySetName": "炙热冲击！",
+          "sortId": 1,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "0",
+              "unlockParam2": "30",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_therex_set_1_story_1",
+              "storySetId": "story_therex_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "没有最热，只有更热！Thermal-EX一直在变得更热更强的路上！",
+              "storyInfo": "info/obt/memory/story_therex_1_1",
+              "storyTxt": "obt/memory/story_therex_1_1"
+            }
+          ],
+          "charId": "char_376_therex"
+        }
+      ]
     },
     "char_301_cutter": {
       "charID": "char_301_cutter",
@@ -19439,7 +20058,41 @@
           "unLockorNot": true
         }
       ],
-      "handbookAvgList": []
+      "handbookAvgList": [
+        {
+          "storySetId": "story_f12yin_set_1",
+          "storySetName": "意外的烦恼",
+          "sortId": 1,
+          "storyGetTime": 1619856000,
+          "rewardItem": [],
+          "unlockParam": [
+            {
+              "unlockType": 1,
+              "unlockParam1": "2",
+              "unlockParam2": "1",
+              "unlockParam3": null
+            },
+            {
+              "unlockType": 2,
+              "unlockParam1": "50",
+              "unlockParam2": null,
+              "unlockParam3": null
+            }
+          ],
+          "avgList": [
+            {
+              "storyId": "story_f12yin_set_1_story_1",
+              "storySetId": "story_f12yin_set_1",
+              "storySort": 1,
+              "storyCanShow": true,
+              "storyIntro": "有时候，烦恼往往来自一些细微的角落。",
+              "storyInfo": "info/obt/memory/story_f12yin_1_1",
+              "storyTxt": "obt/memory/story_f12yin_1_1"
+            }
+          ],
+          "charId": "char_264_f12yin"
+        }
+      ]
     },
     "char_214_kafka": {
       "charID": "char_214_kafka",
@@ -21180,6 +21833,1398 @@
         }
       ],
       "handbookAvgList": []
+    },
+    "char_472_pasngr": {
+      "charID": "char_472_pasngr",
+      "drawName": "Skade",
+      "infoName": "樱井孝宏",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】异客\n【性别】男\n【战斗经验】十六年\n【出身地】哥伦比亚\n【生日】9月1日\n【种族】黎博利\n【身高】187cm\n【矿石病感染情况】\n体表有源石结晶分布，参照医学检测报告，确认为感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】普通\n【战场机动】标准\n【生理耐受】标准\n【战术规划】优良\n【战斗技巧】标准\n【源石技艺适应性】优良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "哥伦比亚出身的干员异客，曾在十三岁时就以极其优异的成绩跳级毕业，随后被源石工程与应用学专家索恩教授相中提拔为研究助手，进入布莱恩创生科技的研究所学习。于近二十余年前随某项目深入萨尔贡，之后销声匿迹。之后以伊巴特地区黑市主要成员的身份与罗德岛接触，并在脱离黑市后，单纯以感染者身份来到罗德岛接受治疗，并以工程部干员的身份活跃在各项行动中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。\n\n【体细胞与源石融合率】7%\n干员额头处有少量源石结晶分布，考虑到源石结晶出现的位置，实际感染情况可能比预想的更加严重。\n\n【血液源石结晶密度】0.29u/L\n干员异客曾长期在恶劣环境下从事源石机械生产工作，并在疑似感染后丝毫没有采取必要的管理措施，其病症发展并不乐观。\n\n检查完啦，虽然至今尚未发现明显并发症反应，但绝不可以放松警惕。特别是源石结晶出现的额头位置，干员异客极有可能在某个时间点病情迅速恶化。为了预防可能出现的种种病症，希望他能积极配合治疗。——医疗干员",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "工程部对异客携带的各种自行机械进行了逆向工程，结果令人大开眼界。\n出于各种客观因素，异客无法在萨尔贡获取到哥伦比亚实验室里提供的高新尖材料，采用的源石施术单元也极为原始。即使如此，异客依旧独立研发出了一套行之有效的机械结构，并依赖于其掌握的某项核心技术，成功实现了能量输出可观的多种自行兵器。\n当问及其核心技术来源时，干员异客并没有避讳。其技术原型来自哥伦比亚的某个发掘实验，当地研究者认为这与萨卡兹古老的巫术有关，他们以一种罕见的法术形式为源石赋能，并在周遭发现了数枚残存的赋能源石结晶体。哥伦比亚相关研究所认为这将是一种全新能源的可能性，并对此展开研究。之后的事情，异客并没有过多透露。\n不过值得额外留心的一点是，许多工程部干员都热衷于给自己的造物取名字，有的是倾注了个人情感，也有人是出于功能性考虑进行编号区分。但干员异客则对自己制造出的机械完全没有类似的想法——他使用那些机械的手段近乎浪费，仅一场模拟测试他就毫不犹豫地报废了数台自行机械。他就一点不感到心疼吗？",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "干员异客在罗德岛的表现过于安分了。\n当然，我没说这是不好的事情，这当然是好事！不如说有些干员反而太闹腾了！\n但异客曾在萨尔贡被冠以“沙卒”之名，虽然明面上不过是一座小黑市的领头人——天知道萨尔贡有多少黑市——但他的手腕和财富确是实打实的，他能提供相当丰富稳定的供货渠道，能提供伊巴特地区几乎所有合法或不合法的雇佣兵、信使和商队的联络方式。\n是啊，这当然是也是好事，但他差不多等于无偿提供给了罗德岛，无偿！你懂我意思吗？这也太令人不安了吧？\n听工程部的干员说，他也不是什么狂热的机械爱好者，明明技术水准那么高......不仅如此，他对感染者这件事本身也不是很上心，好像也没有什么像样的兴趣。偶尔会把房间打理得一尘不染，整齐到让人怀疑他有洁癖，有时候又毫不顾忌地在房间里摆弄零件，弄得一地铁屑，让人完全摸不着头脑啊。\n对了，他唯一起了名字的设备是那个载有特殊充能源石装置的无人机，名字叫“索恩”。\n哦，说这么多，其实我就一个问题，可能有点失礼——\n——他这个人还活着，到底还在乎什么？",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "异客。\n仿佛讽刺般给自己取下这个名字，但事实上，连他自己都搞不清楚自己的“家乡”在哪里。\n其本人大方承认了数起发生在萨尔贡的惊世骇俗的谋杀案与其有所牵连，在萨尔贡卧薪尝胆二十余年，也只为了复仇这一个简单的目的。\n诚然，复仇是很多人的原动机，这并不稀奇。但为了达成这一目的，出身哥伦比亚，仅仅是个年轻研究助手的艾利奥特花了整整二十年时间，让自己变成了一个萨尔贡人。他在伊巴特地区拥有相当的人脉，财富，权力。黑市的特殊性质使得许多本地贵族与境外商人都与他密切来往——而在达成复仇目的之后，这一切，他花了二十几年建立起的这一切，都被他简简单单地抛弃了。\n一个在萨尔贡从学徒做起，隐忍无数，最后风生水起的黑市主人，轻描淡写地放弃了一切。他完全可以在复仇结束之后，在伊巴特享受着堪比王酋的生活。这令部分人事部干员十分担忧，担忧这样的艾利奥特改名换姓来到罗德岛，是否别有企图。\n当我们试图试探这点时，艾利奥特，干员异客本人轻易点破了我们的疑虑，那时他正缓缓盯着手里的黑咖啡，沉默片刻后给出了答案。\n“我痛恨萨尔贡的黄沙和那里的一切，一直都是。”",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "博士，凯尔希，慑砂。\n似乎在干员异客抵达罗德岛之后，只有这三个人能提起他的兴趣。\n诚然，他礼貌待人，工作一丝不苟。但在他完成那些工程部指标，或是经历了险恶的任务凯旋归来的时候，他的眼里都没有半点情绪波动。\n他对自己的秘密毫不藏私，除了最关键的部分，任何人只要问起他，他就能像备好腹稿似的用简练的语句描述他的经历与当下的状况。并不是每个人都能以这种态度面对过去。在那场火灾杀死了他最后一个复仇对象之后，他解脱了，但他把人生中最黄金的岁月全部奉献给了他的复仇事业，等他从萨尔贡的黄沙中脱身之后，他还能做些什么？\n异客曾说，凯尔希医生是他的救命恩人。在他说这话的时候，我可从没能从他那标志性的微笑里看出哪怕一丝一毫的感激。但他的确在某些层面十分信任凯尔希医生，关于二人如何在萨尔贡相遇，异客坚持，如果凯尔希不多谈一字，他也绝不会透露任何关于她本人的信息。\n至于慑砂——异客对于慑砂的关注十分危险。只有包括博士在内的极少数人知道慑砂在调查哥伦比亚某个军工企业的事实。而不幸的是，慑砂“未能进行的复仇”十分契合异客投以关注的全部要素，他甚至热衷于帮助慑砂拼凑真相，并暗示其真相的种种可能。若非受到罗德岛干员身份的限制，我们无法想象，慑砂与异客是否真的有可能对那家军工企业实施实质性的报复。\n而异客至今仍没有任何过激举措的重要原因则在于博士。无论异客对博士抱有怎样的感情，他仅对博士展露出了兴趣，也对博士参与的各项行动表露出了更高的积极性。也许，他出于某种角度把如今自己奇怪的生活状态与博士进行了重叠，又或者，他只是觉得有个人给自己发号施令，指引方向会是一件轻松些的事情。无论如何，我们都要更谨慎地观察他。\n如他所说，他离开哥伦比亚，离开萨尔贡，如今身在罗德岛。于这片大地之上，他无论身在何处，皆是异乡异客——只是局外人罢了。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我本来离死亡只有咫尺之遥，凯尔希给了我这个机会，老伊辛赐予了我这个能力，我对那些试图掌握我命运的人释以报复，我成功了，我以耗费了无数光阴和前途，我以毁掉命运的方式夺回了它主导权。\n现在，我该和过去做个了断，可我接下来要做什么？去哪里？\n博士，我希望你能替凯尔希告诉我。我的生命是否在矿石病的作用下所剩无几？我该如何高效地利用这零星时间，去找到让我死得其所的办法？\n毕竟现在你是我的指挥官。\n我听您的。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_363_toddi": {
+      "charID": "char_363_toddi",
+      "drawName": "山×2",
+      "infoName": "仙台绘里",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】熔泉\n【性别】女\n【战斗经验】两年\n【出身地】维多利亚\n【生日】7月31日\n【种族】瓦伊凡\n【身高】168cm\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】优良\n【战场机动】标准\n【生理耐受】标准\n【战术规划】标准\n【战斗技巧】优良\n【源石技艺适应性】优良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "维多利亚西尔军事学院肄业生，虽非正式服役的职业军人，但接受过系统训练，在各个方面都出类拔萃，尤以攻城战术与相关武器制造为最。\n现已加入罗德岛，担任狙击干员与初级工匠，主要负责远距离摧毁敌方工事与炮火压制。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。\n\n【体细胞与源石融合率】9%\n明显的源石结晶不规则分布于左肩，颜色性状发生变化。\n\n【血液源石结晶密度】0.28u/L\n易感体质加之长时间未严格按照安全工序使用工业源石制品导致干员本人患上慢性矿石病，在进入罗德岛后，症状已得到缓解。\n\n“一般而言，感染者的源石结晶会稳定为黑色，这是源石原本的色彩。但在特殊情况下，结晶颜色甚至结晶方式都会发生改变，我们尚不清楚这一突变产生的原因，需对此进行更加深入的研究。”——医疗部备忘摘录\n“终于来了！是感染的瓦伊凡！”——华法琳",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "第一次见到布洛德韦德小姐时，她正被四五个瓦伊凡亲属抬到罗德岛来，随之而来的，是一整车大大小小从熔泉房间里运来的杂物。据这些瓦伊凡所说，他们发现布洛德韦德晕倒时，她已经好久没吃东西了。虽然我们并不理解为什么普通的低血糖症状要把人送到罗德岛，还把本人所有的私人物品都打包带来，但出于人道考虑，还是为她进行了基本治疗，也就是在那时，我们发现了她的矿石病症状。再次询问其亲属后，我们确认布洛德韦德小姐的矿石病症状已出现许久，只是因为她埋头鼓捣“玩具”，时常将自己关在房中以至其亲属也未发现她感染矿石病的迹象，直到她母亲察觉不对劲，打穿房门带亲友进去后，才发现自己的女儿已经因为长期不正确使用工业源石制品患上了矿石病还晕了过去，在亲戚介绍下，他们连夜驱车将人送进了不远处路过的罗德岛。在简单接洽后，我们对她进行了收治。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "经过适当调养，布洛德韦德小姐很快就醒了过来，她醒来的第一件事就是去找自己的房间，把里面的亲戚们轰出来（当时四五位亲戚都挤在为她安排的房间里等待她康复），继续鼓捣她的作品。我们的行政人员和医疗人员对这种行为感到不可思议，但布洛德韦德小姐的瓦伊凡亲戚们似乎都习以为常。“我闺女就这样。”她的母亲这样说道。在深入了解后，我们才知道这帮本应是暴脾气的瓦伊凡每个人都在未经许可进入布洛德韦德小姐房间时被打得服服帖帖，在叙述了这段经历后，她母亲用尴尬而自豪的语气宣称，自己女儿是他们这代瓦伊凡里最能打的。谈话期间，布洛德韦德小姐完成了自己的作品——一把便携攻城弩，由于干员宿舍的门太过狭窄无法把弩抬出来，所以她......很轻易地......破坏了部分墙体......有小道消息称，当时在场的行政干员差一点就要请外勤干员来接手这件事了。\n万幸的是，布洛德韦德小姐只是把弩拿出来，而走廊完全容得下她和她的武器。\n在那之后，我们与她进行了磋商，她似乎很快就接受了自己如今的处境，但对于我们的安排，她表现出一副无所谓的姿态，她的诉求很简单：等病情稳定了，就回家里的工坊继续闷头搞自己的爱好，如果病情又开始恶化，再来这里治疗。她的态度让我们施行治疗变得困难重重，末了，行政干员们也没想到什么好办法，只好先带着布洛德韦德小姐参观了罗德岛面向留舰者开放的区域。\n当然，我们都知道布洛德韦德小姐现在是罗德岛的雇员，这其中的转变完全仰赖罗德岛为工匠们打造的工作环境与几位经验丰富的工匠干员。她对我们的工坊设备与工匠干员十分感兴趣，在我们带她参观到工坊后就再也没去其他地方，而是与工匠们聊了一天，在那之后，布洛德韦德小姐直接申请成为罗德岛工匠......与干员。毫无疑问，她有着成为干员的素质，只是，我们希望她若想成为干员，需要遵守我们的相关规定，她十分爽快地答应并当场为自己定了一个代号——熔泉。\n\n“有些人曾问过我熔泉是怎么苏醒之后就把握自身情况并直接找到自己亲戚与私人物品所在房间，这个嘛，看看她的履历就知道了。许多事情她瞟一眼就明白，她只是不在乎，由着自己性子来，仅此而已。”——干员点评摘录",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "熔泉上岛时，穿着一身满是油污的工作服，头发也只是简单扎了一下，没怎么打理。在决定成为干员后，她破天荒地在入职当天请了两天假，去我们当时停靠的维多利亚城市逛街。两天后，她的宿舍多了些化妆品和两大包衣物——一包是工作服，只有进工坊时会穿；另外一包，全是时兴潮流的衣服，熔泉挑选几件稍微搭配了一下，就成了我们最常见到的那套打扮，紧接着，她就穿着那身上了战场。负责外勤管理的行政干员好像一直对熔泉穿得漂漂亮亮上战场这点有些不满，他找了很多理由，类似太鲜艳会被敌人发现、影响整个小队的氛围之类的，全被熔泉一句关你什么事给堵了回去。最后，为了解决问题，他们俩还是运用了从古至今最为有效解决争端的方法——打一架。\n我们可爱的行政干员输得很干脆。两秒？还是三秒来着？被一招打翻在地，后来和熔泉交谈的时候连头都抬不起来。\n不过这也怪不得他，在查阅档案前，我们也不知道这个完全与服从搭不上边的女孩曾经是西尔军事学院的学生。这所学校虽然在名声上无法和维多利亚皇家近卫学校平起平坐，但仍算是维多利亚境内受到认可的军事学院之一。熔泉曾经的进修方向是特种作战部队成员，第一年给出的成绩单也十分出彩，学院的教官们虽然已察觉到了她性格上的缺陷，但仍准备将其作为重点培养，他们认为自己几十年来的经验能够驾驭这位随心所欲的瓦伊凡，可惜，在第二年接触到炮兵和攻城相关课程后，老学究们的努力很快就被被瓦解得干干净净。在第二个学年中期，熔泉提议将自己的进修方向修改为攻城炮兵，教官们坚决不同意，在多次向对方表示“不让学就退学”无果后，熔泉泡了三个月图书馆，把所有想学的课程自学了个遍，然后在期末考试时直截了当提交了退学申请，当教官还想和她进行交涉时，她早就离开学院，回到了自己的老家。\n\n“熔泉的性格其实很好琢磨，她本身是个不听劝的石头，但你对她温和，她也会适当地......不那么，尖锐。但你要想强制她做些什么，吼吼，那可就有意思了，你看，她是个瓦伊凡，还上过军校，比谁拳头大她可是专业的。‘强扭的驮兽不听话’啊，想要她做些什么，还是得慢慢来。”——干员点评摘录",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "和安洁莉娜一样，我们至今仍未找出熔泉源石结晶异化的原因，但很显然，熔泉根本没把这件事放在心里，她甚至在考虑如何搭配服装能够更加突显自己肩部那片已经异化的，如她头发般火红的源石结晶。这种“豁达”的心态，让我们对其肃然起敬。\n好吧，我只是偶尔想夸夸她而已，真相的话，我想和她接触过的人都很清楚。你要问她真正在乎什么，估计只有在工坊外打扮自己和工坊内研发制作攻城武器而已了。正如之前档案所提到的，熔泉之所以会被抬来罗德岛，也是因为“灵光一闪”后在自己的房间里钻研太久低血糖晕倒所致。据我所知，至少在罗德岛，从来没有出现过什么“瓦伊凡昏倒在宿舍中”之类的事，更别提饿晕了，简直是闻所未闻，随便找个瓦伊凡饿他一个月，他都能一拳把你打倒在地，饿到晕过去，时间怕不是要以月计。\n回到档案内容，据我们所知，熔泉所在的瓦伊凡部落在维多利亚扎根已经有百年之久，熔泉这一代已经是第三代维多利亚移民，和本地的维多利亚人已经没有多大区别了。她们这个部落的瓦伊凡在维多利亚定居后，主要从事工业活动，以整个部落为单位开办工厂，接受来自所在城市、维多利亚商会甚至外国商业组织的订单。如果你从小生活在这种环境下，想必也就能够理解为什么熔泉特别在意那种巨大的攻城武器——谁还不想操纵一门巨大的工业奇迹把对面的军舰打个稀烂呢？但事实上，这种国家级别的武器并不是她所能使用的，因此，退而求其次，她为自己打造了一把微缩型便携攻城弩，跟着罗德岛四处走动，随便测试一下性能，定期维护，升级换代，这就是她所能做到的事。她知道自己所处阶层所能到达的极限，明白自己可以做到什么，哪些机会不属于自己，她会争取自己所能到达的边界，剩下的，就交给缥缈无踪的运气——\n和自己反复无常的好脾气。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "熔泉所在的瓦伊凡部落在移民到维多利亚之前曾是一支拥有家族性质的雇佣兵团体，历史上，他们曾数次参加过对萨卡兹人的战争，积累了丰富的作战经验。然而，风水轮流转，曾经兴盛的部落被后起之秀替代，所能控制的土地也被不断蚕食，当部落无法继续在萨尔贡立足时，他们选择移民到前雇主——维多利亚的国土上重新开始生活。凭借着佣兵团时积攒下的关系与资金，他们顺利在一座工业城市立足，并用剩下的资金兴办工厂，开始了与萨尔贡时截然不同的生活。熔泉的许多亲属再也没有拿起过刀枪，取而代之的，是扳手与铁锤。\n到了熔泉这一代，浴血沙场早已比不上一份伦蒂尼姆来的大订单来得有诱惑力，但有些东西，却以一种意外的形式保持了下来。她还清楚记得，某种只有在那个小社区才被要求跳的健身操、若干摸不着头脑的礼仪习俗、还有专门给孩子们办“运动会”准备的“运动场”，里面每个项目都和正规的运动会搭不上一点关系。耳濡目染间，除了多过几个节日，多走几场仪式，多参加几次聚会，顺带打倒一大堆与她年龄相仿的瓦伊凡之外，她并不觉得自己学到了什么。即使如今，当面对萨卡兹雇佣兵，轻易找准薄弱之处将之击伤击退时，她也只是将这份功劳归功于自己精心调校的攻城弩和破城矢，而非那些古旧仪式与规训带给她的，对某些特定目标的精准直觉。\n也是啦，谁会相信这种东西呢？",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_304_zebra": {
+      "charID": "char_304_zebra",
+      "drawName": "aZLing4",
+      "infoName": "石原夏织",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】暴雨\n【性别】女\n【战斗经验】五年\n【出身地】萨尔贡\n【生日】3月3日\n【种族】库兰塔\n【身高】159cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】优良\n【战场机动】标准\n【生理耐受】标准\n【战术规划】标准\n【战斗技巧】标准\n【源石技艺适应性】普通",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "前萨尔贡某王酋麾下士兵。遭到同僚背叛后心灰意冷离开军队，几经辗转后加入罗德岛。\n作战经验丰富，现作为重装干员活跃于各类任务中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%\n干员暴雨没有被源石感染的迹象。\n\n【血液源石结晶密度】0.12u/L\n干员暴雨甚少接触源石。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "性格腼腆的库兰塔女性。\n大多数干员对暴雨的第一印象都是阴沉。在人声嘈杂的环境中，她永远是默默站在一边，仿佛一切热闹都与她无关的那个人。\n但暴雨并非不合群，大部分和她组队过的干员都表示暴雨实际上是个温柔细心的姑娘。\n“她只是不擅长去表达自己。”\n这是如今大部分人对她的评价，这个评价倒是恰如其分。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在暴雨之前，罗德岛上已经有了一个同样萨尔贡士兵出身的斑点，不过斑点的怠懒性格实在让人很难将他和士兵联系起来，况且斑点自身也承认他正是因为想要逃离军队生活才会选择离开。因此严格来说，暴雨恐怕比斑点要更能代表萨尔贡士兵这个身份。\n而虽然暴雨在日常交流中给人的腼腆印象经常会让人遗忘她士兵的身份，但是一旦来到战场上，她就会展现出她专业的作战素养，无论是对战况的判断还是执行命令本身，她都能够很好地执行，并且她不会有自己的想法。用杜宾教官的话来说，就是，“职业士兵就该是她这样的”。\n不过，这样的暴雨也并非没有问题。\n她的问题体现在，在同伴受伤或者遭到危险时，她会由于焦躁和急迫感而展现出与日常性格完全相反的进攻性，并因此失去对情况的冷静判断。\n这个问题并不致命，因为只要指挥的人了解她，就能够在较短的时间内让她恢复冷静。但是这个问题始终是存在的，因此，经过考虑，杜宾教官最终决定让她成为一名重装干员，并要求她执行一套对过去的她来说完全陌生的战斗方式，也就是她现今在战场上的主要职责——为队友提供保护。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "经本人同意，本条目用以记录暴雨过去在萨尔贡的经历：\n暴雨的家庭是一个并不少见的萨尔贡家庭，严苛，沉默，压抑。\n她在成年后加入了所属王酋的军队，并为自己的王酋立下了诸多战功。然而由于性格孤僻，她并不受周遭待见，只有一个人愿意接近她，被她当做唯一的好友。\n但在某次和别的王酋的冲突中，暴雨却被最信任的好友出卖——原来，对方早已想好用她当做跳板叛逃到敌对王酋那里去。\n在一次遭遇战中，对方将除她以外的同伴全都杀害，而后带着情报逃往了敌方王酋，意图将制造的混乱全部归到她的头上。\n而她过去的孤僻让她在回到军中后变得孤立无援，并险些在军事法庭上被处死，所幸现场一名侥幸逃过一劫的士兵的证词将她救了回来。\n然而背叛本身令她也心灰意冷，她最终选择用积攒的军功换来离开军队的机会离开了军队，成为了一名雇佣兵。\n但由于性格在那件事后变得更加敏感，导致在外漂泊也屡屡碰壁，她是在这种情况下来到罗德岛的。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在了解了暴雨的过去后，她在战场上表现出的问题也变得非常好解释——\n暴雨事实上是一个非常渴望认同的人，而军队中压抑的环境，进一步压迫了她，这使得她完全不了解该如何去表达自己，同时也让她逐渐变得只要有人对她付出一点微不足道的善意，她都会对对方付出真心。\n而干员们虽然性格各异，但是大多是愿意包容他人的人，对他们来说，暴雨的孤僻根本不是与她交流的障碍。于是，暴雨事实上是将对她付出善意的干员们全部当做她应该全力付出的对象，这也是她在战场上失控的理由——她太关心其他人了，她不允许有人伤害她关心的人。\n一个多么可爱的失控理由。\n大部分干员能够意识到暴雨只是不善于表达自己，但他们恐怕并没有想到，对暴雨来说，他们都是对她好，她应该报答的大好人。\n不过，虽然很可爱，也必须要指出，暴雨的这种心态确实是不健康的，她对此也有所自觉，只是很显然，她也不知道该如何去做。\n所幸，在她认为她应该要报答的人之中，排在最前的，是博士。\n在加入罗德岛一段时间的相处后，暴雨开始非常明显地对博士产生了信任乃至依赖感，而博士想必已经了解了暴雨的本质，相信博士一定能够正确引导她，让她逐渐变得能够正确地表达自己的情感和处理和他人的人际关系吧。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "根据暴雨的描述，她曾在某次行军时，途经斑点驻守的城市，并在那里受了斑点的帮助。\n内容是斑点看她被其他同僚孤立，给她递了一瓶水，还借了她一本漫画。\n不过斑点本人却表示对此毫无印象。\n“啊？还有这事？......等等，你说的这本漫画我记得啊，难怪后来我怎么也找不到了！”\n可惜的是，虽然暴雨相当珍惜这本漫画，但它还是在后来的佣兵生活中丢失了。\n斑点对此倒也并不在意。\n不过以此为契机，如今，偶尔也能看到暴雨在休息室的角落阅读漫画的身影。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_1012_skadi2": {
+      "charID": "char_1012_skadi2",
+      "drawName": "alchemaniac",
+      "infoName": "佐藤利奈",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】斯卡蒂\n【性别】女\n【战斗经验】——\n【出身地】阿戈尔\n【生日】3月7日\n【种族】未公开\n【身高】166cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n以下讨论总结，皆基于对当事人细胞增殖状况的观察与计算。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】优良\n【战场机动】优良\n【生理耐受】卓越\n【战术规划】——\n【战斗技巧】——\n【源石技艺适应性】缺陷",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "照这个方向发展下去，就不会有人关心她究竟是什么了。不是斯卡蒂的问题，一个人也不能改变什么。我说的是，这种生理状态，以及该类生物性物质表现出的最终状态，可能会摧毁我们社会、历史与科学的所有度量衡。希望我们简陋的医疗科研条件现在还够使上点劲......",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "老实话，我实在不知道凯尔希老师从哪儿搞到了这种仪器。我们这么乱搞真的可以吗？\n你们俩别拿这种眼神看我。我就是纯好奇！呃，没错，我只是因为好奇才帮你们做这个分析的。\n斯卡蒂小姐也是的，博士这么说了，你就随着这人一起走了吗？\n啊？是你想做这个项目？那，那是我错怪博士了？\n行吧，博士......就这一次。没下次了。赶快，趁老师回来之前......\n\n\n造影检测结果显示，受试人员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%. \n\n【血液源石结晶密度】0.012u/L\n你认真的？\n\n......也不是什么好事。我们取的这些造血干细胞......在增殖。离开了斯卡蒂的身体，在培养皿里......增殖。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "......不太好。斯卡蒂，不太好。\n我不知道阿戈尔人是不是都这样，这我不清楚。你说深海猎人和阿戈尔人也不一样？你在最开始经过了好几道程序？\n......这些我不知道。你的档案我没权限看的。\n\n可是，我说的是......我说的不是你那时候身体发生的变化。\n我是说现在。\n就算现在，你的体细胞......竟然还处在细胞分化的过程中。上皮细胞......不可能。这是不现实的。\n数据不骗人，博士。\n凯尔希老师？\n你，你来的正好......你看看这个......",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "也许现在是个机会。\n这位。这位是歌蕾蒂娅，深海猎人项目的领头人之一。你可能是第一次见她，原因无它，这件事和罗德岛的方针并无太大干系，之前我只将它当做私人事务处理。\n歌蕾蒂娅，斯卡蒂与幽灵鲨，她们都来自阿戈尔。她们也都是深海猎人。\n我对深海猎人的了解来自大量的数据例证，歌蕾蒂娅的信息也许能与我们手头的资料互相佐证。\n还没醒。她也睡太久了。她的身体正在激烈应对变异。\n之前那次盐风城事件，猎人们处理得很到位。否则，斯卡蒂身上很多生理性的变化，将是不可逆的。\n嗯，我离开罗德岛一段时间，的确是因为这件事。斯卡蒂现在那身装扮也是为偷偷进入伊比利亚境内做的准备。即使伊比利亚已经衰退，这也算是相当危险的举动。你看了我给你的简报了吧？\n博士，深海猎人和阿戈尔，一直在对抗一种来自海洋深处的神秘生物。\n陆上国家对海洋几乎毫无概念，更别说分出精力来去考察一种源头莫测的捉摸不定的威胁。\n但是，这种生物和我们以前谈论的稀有物种都不同。我可以明确地说，这种生物的威胁是实在的，只不过因为伊比利亚的衰退与阿戈尔的闭塞而不为人所知。\n这个房间里的几个人，可能已经是陆地上少数既活着又窥见真相一角的人了。\n假如我们不做出应对，那么在矿石病摧毁我们所有人之前，会有多少人因这些生物失去生命？\n能毁灭我们的灾难有许多种，这种生物也恰巧是其中之一。\n我提防这种威胁已久。只不过它们远在各个城邦的视野之外，我势单力薄，也没法把手伸那么长。\n这件事和斯卡蒂有什么关系？\n......我的结论是，深海猎人与他们的大敌，有着生理上的相似之处。\n幽灵鲨的身体能与污染性如此强的源石搏斗许久，也正是这个原因。\n博士，斯卡蒂被那些生物唤醒了。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "深海猎人是种武器。\n猎人们吸引海中怪物，就像火山口吸引温藻。恐鱼撕咬深海猎人的肉体，就像遇见了“仇敌”。阿戈尔语也是类似的意思。\n我们对恐鱼的了解比不了解稍多，因为它们的死状我们见得也稍多些。\n恐鱼就是这些海中怪物的末端，粗陋又寡智。\n惭愧，我一条活的恐鱼也没抓到过。恐鱼个体被封闭在狭小而缺乏营养的空间中时，它们的细胞会停止凋亡，进而自主改变形态。正常的腐败过程不会发生，身体组织迅速地“退化”，恐鱼转变成一团肌肉纤维，且尚能进行完整的呼吸作用。\n迅速保存了自己的营养价值并活着，又在个体意义上死去。可憎，令人胆寒。\n没有俘虏。想把俘虏这词用在这种生物上的话，请便。\n我们也有其他发现。我们多次狩猎这些生物，而我多次目击一种景象。\n它们中，我们已知的生理结构最高等的，被称作“海嗣”。海嗣会卫护这些生物的个体。个人感觉，它们会出全力。\n没有军团会把自己的执政官暴露在危险中——虽然罗德岛的领导人未必会遵守这条准则。\n谢谢您指出我的错误，凯尔希。之后我会选用更恰当的词汇。\n军事行动中，百夫长不会独自保护一个军团士兵，除非它很重要。\n但这些生物不一样，每个个体在整个种群之中都是平等的，每个个体对它们所有其他个体来说，“同等重要”。\n我从未看见过它们争抢食物。\n我能传达的信息和您手中的体检报告能透露的，没有区别。我们的科学执政官们只为胚胎细胞做完整的谱系追踪，深海猎人却与恐鱼和海嗣类似。我们的体细胞大部分都具备多能性。\n更可怕的是，那些生物各个体的体细胞都在持续变异，巧妙避开致死与劣化，这是否会令您惊讶？中性理论对它们来说就像个玩笑，遗传变成了个体发展地基的一部分，亲代子代原本的传递意义被击碎......即使在缺乏养分的情况下，这个过程会很长。\n我还未描述它们具体的生理特征，一个总体推论就足够叫人不安，对吗。\n接下来您会听到的事实，请您守口如瓶，虽然无论您再怎么对陆地上的人倾诉此事，他们也只会当您是疯了。\n——深海猎人也有着相似的命运。\n斯卡蒂的生理结构在剧烈地变化。\n个体的变异如何影响整个种群？不得不说......如果我们有答案，深海猎人就不用出现在陆地上。难以置信？那我今天这些阐述，兴许能微微增进您对事态严峻性的理解。\n您说我没有透露深海猎人诞生的理由？\n我有强烈的对您表达“我不知道”的冲动，但我生来羞于说谎。所以，我向您坦白：真相除了徒增现在的您的恐慌外，对您没有任何用处，博士。\n我没有恐吓这位博士，凯尔希。请把这当作我由衷的劝告。\n请您想象，有这样一个并不友善的未来，那时，每只怪物都像海嗣与深海猎人般强大，它们的数量无止境地增长直至令沙粒和雨滴相形见绌，我们熟知的自然规律在它们面前节节败退。\n它们也许会走上海岸，就像我们深海猎人离开海洋，我们猎人没心思毁掉您，而它们，呵。\n我必须再一次提醒您，博士。深海猎人很危险。我们深海猎人是危险的武器。有些深海猎人会在他们生命的末期一点点改变他们周身的生态环境，一如海嗣。这不是普通的矛或涡流矛能做到的。\n深海猎人的体能与体质有一部分来自我们的仇敌，斯卡蒂与你所不知的可憎海嗣之间只隔一次蹬水的距离，我也一样，幽灵鲨也一样。\n假使我们会有可悲的未来，那深海猎人的命运只会比常人更凄惨。\n我告知您这些，是希望您看着斯卡蒂。在罗德岛的立场上，她和我不一样。您也想保护她，是吗？\n这是我作为阿戈尔人所能最大限度透露的秘密，陆上人。\n而这一切的成因之一是，我们和那些生物有着别样的联系。\n您可能是知道那句话的。（阿戈尔语）是什么令深海猎人相聚......",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【流落某处的记录】\n哪怕我躲到废墟里去，它也不走，只是在舰船的残骸外四处张望。\n之后它就一直跟在我身边，一声不吭，我问它话，它也不回答。\n睡觉的时候，假如算吧，它胸膛起伏，却没有呼吸。我不知道它是不是真睡了。我怀疑它不需要，这么做只是因为这样比较像我。\n我在考虑。杀死它，算不算报仇。但不是。害死她们俩的甚至都不是它这个个体。它除了相貌能有多少和我认识的那人相同？鬼知道。\n我不知道我力气够不够握住它的脖子，狠狠地掐下去。\n它的脖子软不软的？死了以后会不会像我们的尸体一样硬邦邦？\n要是它不用肺部呼吸，我一时半会都想不出怎么用手头的工具让它窒息。\n直到它开口我才后悔。它还不如不说话。\n我很孤独。\n我很想她们。我恨它，我应当恨它，我绝对不可以靠向它。\n不。不管它再怎么像我认识的人......肯定不。\n又要下雨了。能喝的水又要变少。\n我宁可以现在这个样子死去。\n可是......它是不是在哼什么。\n\n听不懂。\n好悲哀的歌。\n我的心已经遭到了腐蚀。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "别太焦虑。\n你最近梦到的那些情况，我已经大致了解过了。我们可能暂时没法消除这些景象，给你开药也有很大几率适得其反。\n......\n阿戈尔人竟敢给你们铸造这么严厉的镣铐。这样蜷缩在海底的种群......这样忽视你们未来的种群。仅凭这点我也敢给出定论，做出这类决策的人和陆地上的许多恶毒的统治者毫无差别。\n叫你醒觉？不，我没有这种义务，只是你要是意识到这点，能省很多事。我的反应仅是因为我向来鄙夷“自诩先进的多数人”。同样，如果你认为我是在挑拨你和谁之间的关系，你大可一直这么认为下去。你的话应该最清楚，我最无所谓你对我是什么看法。\n幽灵鲨久病不愈，歌蕾蒂娅职责在身，她们能与你交流、向你透露的东西，少之又少。你的确不该怀疑她们，再者你也不会这么做。\n斯卡蒂，我只想说，别太忧心你的未来。\n决定你是什么的不是你的梦......是体检单。\n你的想法。你的行为。驱使着你的动力。\n你已经不再选择自我放逐。可能是因为罗德岛有一定抵御海中教会的渗透侵袭的能力，至少这么些年来，没有干员因你遭遇不测，这让你不再那么小心翼翼；也许是无数干员尝试与你交流的努力起到了效果，你事实上帮助了他们，也收获了他们的感激，你与他们建立了新的个人关系，哪怕你忙着否定这点。\n而我，我个人更倾向于这样一种解释，即，在你在罗德岛度过和你受罗德岛雇佣的这段时日里，你重新找回了自己的目标，认清了自己一路上的坎坷。\n\n我的些许资料表明，它们，那些生物的生理结构改变形式，会局限于它们的认知，也就是说——它们并不是被动适应，而是主观选择了展开方向。我们得庆幸它们还没有“适应‘被动的适应’”，不过我们不作为的话，那天便终归会到。\n嗯，但那些，不是我今天想对你说。我想说的是，当它们想要获得怎样的结构，它们就向那个方向转化。\n斯卡蒂，既然那些生物可以凭着自己的意愿变成自己想要的样子......那么你也可以凭自己的意愿不变成某种样子。你可以做你想做的。\n\n比如说，深海猎人。又或者，自由一点，赏金猎人。\n干员也不错。\n再者，普普通通的，只是你自己。斯卡蒂。只是自己。职业和职能，只不过是后天的兴趣导致。\n\n你还不是你的梦，斯卡蒂小姐。\n对了。试试真的在罗德岛当个正常干员如何？\n博士和■■■也向我提过很多次了。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_003_kalts": {
+      "charID": "char_003_kalts",
+      "drawName": "唯@W",
+      "infoName": "日笠阳子",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】凯尔希\n【性别】女\n【战斗经验】三年\n【出身地】罗德岛\n【生日】未公开\n【种族】菲林\n【身高】169cm\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】普通\n【战场机动】普通\n【生理耐受】普通\n【战术规划】■■\n【战斗技巧】普通\n【源石技艺适应性】标准",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "凯尔希，罗德岛高层管理人员之一，罗德岛医疗项目领头人。在冶金工业、社会学、源石技艺、考古学、历史系谱学、经济学、植物学、地质学等领域皆拥有渊博学识。于罗德岛部分行动中作为医务人员提供医学理论协助与应急医疗器械，同时也作为罗德岛战略指挥系统的重要组成人员活跃在各项目中。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“我的诊断结果由我自己判断，各位应该把注意力放在其他需要帮助的感染者身上”。\n凯尔希这么和我说的，但从第一个字儿开始我就认定这是糊弄我的废话。\n要记住，有的人，就是需要别人去帮她的。凯尔希就是那种不在乎自己的人，她之所以还活着是因为她判断自己在做成一些事儿之前不能死。她把自己的底线设得太低。\n当然，当然，她很强啦。每个人都认定凯尔希在自己的专业也有话语权，我们这些有个几年工作经验的心里也明白得很。只不过，有的人不是需要专业建议......是需要放松一下。\n有的人是不需要别人伸出援手，但这不是说他们就该孑然一身了。我说的帮，就是告诉他们，他们身边还有别人在。\n如果你能看见这份留言，应该说明了你还是很关心她的。\n所以，好好干吧，加油。可别光让可露希尔一个人耍宝。\n以及，是的，凯尔希真的不让人给她做体检。\n——在分析报告原本的地址出现的神秘留言，署名是人事部■■■",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "哥伦比亚，新鲜的名字。\n维多利亚已经决定撤军了，你没必要太关注这事。\n局势已定。\n边境领公爵一定高估了他热衷的这项事业蕴含的价值。维多利亚什么时候关注过大贵族的个人利益？这是他的愚蠢之处，其他公爵可不会在明面上经营这种事情。\n这让他饱受争议，腹背受敌。他根本没机会。\n天时，是的。高卢这次给维多利亚带来了相当大的压力，边境领公爵在这场战争中的失败正是维多利亚的诡异决策导致的。维多利亚没有向他派出支援。一艘船也没有。\n这应该算作一种袖手旁观，一种刻意用来杀死他的袖手旁观。维多利亚——不只有一颗大脑。\n但无论如何，维多利亚将无暇顾及那几座停留在西北荒野的城市，这场战争促成了这个哥伦比亚的诞生。\n机遇？特蕾西娅......嗯。也许是的。一个崭新国家的建立总是一个机遇。\n但机遇也时常意味着祸端。卡兹戴尔的下一场劫难，也可能会是它带来的。\n别开玩笑。现在的我不会做那种事，我向你保证过......等等，你在拿我寻开心，对不对？你知道我不是那种人了。再说，和过去不一样，现在想消灭一个国家，可是几乎不可能的事。\n时过境迁，掌握国家已经不再简单——每个人都从源石引擎的温度中汲取了他们自己的想法。他们有了自己的面孔，不再是听之任之的样子了。\n也许是好事？是的。如果他们能坚持。\n很难有谁还能阻止高卢的霸业成真，维多利亚已经接连失去许多座城市了。\n除非那几个帝国在夹缝中摒弃前嫌。这不可能。疯子，狂人，投机者与奴隶主？呵。如果他们真有这种默契......\n......你说的也对。他们真的会找到这个机会也说不定。毕竟，我们何时敢宣称自己能够预见未来了？",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "怎么会这样。\n怎么会这样？\n因为这次离会，我可能会被驱逐出大学。但现在已经顾不得这种事了。\n【这是凯尔希，一名莱塔尼亚学者所发出的紧急消息，如果你得到这条讯息，请立刻将这条消息通过下列渠道交由信使传递。\n我不会阻止你了解讯息内容。\n一场大灾难，就在刚刚发生了。\n目前从方位判断，发生地点只可能在伊比利亚。所有讯号都断了，甚至连电流都已经自我的私人频道里消失。\n云层发生了巨大改变，洋流？这不可能仅仅是洋流和风暴导致的结果。\n居然是伊比利亚。\n伊比利亚人没能力造成这种灾难，而阿戈尔......阿戈尔的沉默是一种傲慢。这也不会是阿戈尔人的行动。\n我的推测：我们之前目击的生物不是阿戈尔的试验品。可能它们才是海洋的现状。\n岛民们遗留的资料与之完全吻合，我们悲哀的推论成真了。\n伊比利亚陷入了寂静，仿佛整个南方都就此消失。\n想了解具体事态，我们只能等待信使们之后的信号，现在，我只能将这个结果优先通知各位。\n有一个海边国家遭遇了不测。\n\n如果伊比利亚成为了海岸上的第一个牺牲品，那么阿戈尔的现状......恐怕只会更加残酷。\n望各位平安。】",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "魔王死了。\n巴别塔倒塌了。\n我们要在这一切废墟上，重建一座巴别塔吗？\n不......她不希望这样。\n我能不能决定......我们该做什么？\n不，阿斯卡纶，我无权决定。\n我不是你们的领袖，我没有这个资格。\n何况，巴别塔的事业已经无法继续。如果连特蕾西娅都会失败，那么谁能成功？\n卡兹戴尔不会因此灭亡，我们的使命也因巴别塔的倾覆而毁灭。我们失去了团结萨卡兹的力量。\n所以，我们......不会再单纯地为萨卡兹服务。\n不。特蕾西娅知道。特蕾西娅向来都知道。正是特蕾西娅给了我这样的指示。\n而且，特蕾西娅认为我们没有因此失败。特蕾西娅认为巴别塔的使命已经结束。\n......\n我懂了。\n接下来，我们会离开卡兹戴尔。有的人是不可能接受这个决定的，让他们走吧。\n并不是所有人都像特蕾西娅一样，能够真正走出卡兹戴尔。“一种观念需要土壤”，一颗种子却未必要在家乡发芽。\n是的......矿石病......医治与处理矿石病问题。\n萨卡兹深受其苦。矿石病是萨卡兹现行遭遇的重要因素之一。\n是的。\n不只是萨卡兹。\n就像特蕾西娅最开始说的那样，萨卡兹的问题，从来都不只是萨卡兹的问题。\n这个议题，是当时我们列出的多种“不切实际”的方式之一。如今，方式也可以成为目标。\n矿石病，以及矿石病带来的可怖成见，需要被医治。\n这会是我们的新议题。不仅是因为在座各位正受到矿石病的折磨，也因为，一种观念，一种破除成见的观念......是需要土壤的。\n绝症？\n......不，我不相信。绝症......一定能被治愈。绝症只是在等待能被治愈的那天。我一定会证明......只有这点，她是错的。\n接下来我们会对此议题进行第一轮投票。\n——阿米娅？\n我会抚养她。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "哎呀，怎么又搞这么严肃，我还以为又是上次那个工程的事儿......不就搞了个新面部识别警戒系统把换了涂装的Castle-3当成入侵者了吗？\n......唔，难道是底层的锅炉改造功率过高导致下水管道倒灌那事儿？不会吧......这也能被她抓到？\n不行，这回要是玩真的，我的经费就彻底完蛋了。得......得想想办法。\n唔，这是个什么地方，机房？叫我来这干什么？\n难道......不......我对罗德岛还有用吧？\n凯，凯尔希？别吓我，凯尔希，我......我身上没多少肉的——\n凯尔希？\n怎么人不在......这屏幕也太旧了吧，得给她换个新的。\n不是，这什么——863-879？622-690？\n什么？\n等等......\n......个人记录？\n凯尔希？！凯尔希！\n呃，我已经有全部权限是什么意思？我还没骇进系统呢？\nPRTS？在不在？回答我一个问题？\n等等，这个资料库的系统是单独的......这艘船上居然有和PRTS脱钩的系统？\n等等。\n这张罗德岛的结构图不对啊？上面这个空心是怎么来的？\n《第三代阻断药物理论设计》......啊？我们哪有这个等级的离心机？\n——《源石对物种与生命形态的总体性影响》？\n凯尔希？？",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "凯尔希：\n当你看到这封信时，想必一切已经尘埃落定。\n我只想了一会儿，就把信藏在了你的办公桌里。你如果不是安静地坐下来怀旧的话，肯定找不到这封信。\n这些话就是写给这个时候的你的。\n......还记得你教授我的那些学说吗？我可一直记得。\n你说这片大地不是无限的，它只是一颗圆球上的一摞泥土。\n你说我们的身体不是被先天造就的，我们在行走之前还爬行过。\n你说星星和我们脚下的一样，都是天轨上漂行的舟筏......\n这些话，凯尔希，我都记得。\n\n你说过，比起寻求我们行为的意义，你更想得知自身的答案；你也常问我在这艘船上寄托了什么，为什么我会这么在乎它。\n我觉得答案很幼稚，所以从来都没正面回答过你。\n......凯尔希，你的孤独我感受得到。因为你觉得自己没有同类。\n\n凯尔希，我的回答是，我希望这艘罗德岛能成为你的家。\n我也曾想过，想过与你一同亲眼见证那个未来。\n只是，孤独没有解药，流浪没有结束，绝症没法被治愈...... \n我已经做了我能做的。我不会抱怨自己的结局。\n巴别塔的使命结束了，你们和这艘船却才刚刚起程。\n现在，去研究你最初的那个问题吧。漫漫长夜之后，罗德岛会目睹黎明。\n那个在温柔大地上航行的未来，属于你们所有人。\n\n我不是你的同类，凯尔希。我没法开解你的疑惑。\n——但我一直是你的同伴。之后依然也是。\n\n【没有落款。】\n \n殿下曾说过，主持主舱体后续挖掘工作的正是凯尔希医生。\n而今，偶尔会看见凯尔希一个人从走道上匆匆走过，却忽然停下，用手划过墙面。\n这艘船对凯尔希而言，又意味着什么呢。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_474_glady": {
+      "charID": "char_474_glady",
+      "drawName": "Chuzenji",
+      "infoName": "生天目仁美",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】歌蕾蒂娅\n【性别】女\n【战斗经验】十七年\n【出身地】阿戈尔\n【生日】11月6日\n【种族】未公开\n【身高】181cm\n【体重】■■kg\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n经本人确认，歌蕾蒂娅的所有档案移入高权限资料库。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】卓越\n【战场机动】■■\n【生理耐受】卓越\n【战术规划】优良\n【战斗技巧】卓越\n【源石技艺适应性】缺陷",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "歌蕾蒂娅，阿戈尔人，阿戈尔技术执政官、荣誉军团长，阿戈尔军事团体“深海猎人”总战争设计师之一。登陆时间地点俱不明。于对抗大型生物，破坏硬目标，攻坚战，歼灭战，机动战与谍报战等多类行动中展现出非凡实力。现以合作姿态协助罗德岛、辅助罗德岛部分工作，在保留阿戈尔国家职能身份的同时，兼任罗德岛的阿戈尔事务负责人。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该人员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n体细胞与源石融合率：0%. \n歌蕾蒂娅没有被源石感染的迹象。\n\n血液源石结晶密度：0.011u/L\n歌蕾蒂娅甚少接触源石。是什么造成了阿戈尔境内源石的匮乏？\n\n【星空下不只源石病一种恶疾。海洋本身感染的绝症是异种的血肉。】",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "你找歌蕾蒂娅？那你可能不认识歌蕾蒂娅。\n哈，“你们有谁见着歌蕾蒂娅了吗？”，我每次这么问，得到的答案都是“没有”。\n不应该说她神出鬼没，她不是红那样的。该说绝大多数干员连她是谁都不知道。她连个靠谱的传说都没有，却有天大的架子，真的是......不把人放在眼里了啊！我们罗德岛七巨头可不是浪得虚名，一定叫这几个好好会会她......\n我开玩笑的。你有把握说谁一定能打得过她吗？我可不敢。教唆干员斗殴这事......你还是小心点法务部。\n说真的，虽然你肯定会被拒绝，但再说一遍。严禁邀请这几个阿戈尔人去训练室。绝对不允许。你要是见过歌蕾蒂娅打架......你没见过。她有时候会抱怨皮肤干燥，没有水，不好发挥什么的等等，那是因为她跑得比弩箭还快。她战斗时候会发出巨大的噪音，嗨，她对你先说一句话，你在听到她说的话之前就被她杀掉了。她的槊不是用来捅的，是砍，是划，虽然结果都是肉碎乱飞满地血浆一地稀烂，太恐怖了，救命。\n说真的，你从来没见过她是不是？\n\n——本日第三次把便携终端丢进垃圾桶的可露希尔，躺在沙发上，对跃跃欲试的某干员这么说到。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【陆地诸国中，只有伊比利亚对海洋有粗浅的了解，在我看来，他们对围绕愚昧营造国力差距一事，一直甘之如饴。\n陆上的社会形式既不效率，也不安全。这不是任何人的过错。\n只是阿戈尔在他们看来一定离经叛道，不可想象。\n我不大认识我的父亲，我的生母则是个喜爱权力、纵欲且短视的人——短视这一点有待商榷，但前两者再清楚不过。\n所以我没有再加入我的原生家庭，摆脱我生母的控制则也花了我很长时间。\n我的亲人，是认同、支持、养育我的人，而不是将遗传基因传递给我的人。我的新家庭与我没有血缘关系，大多数阿戈尔人都是如此。\n凯尔希认为阿戈尔的傲慢与自我封闭是一种罪恶，她可能有她自己的理论。\n我很清楚，野蛮的陆上人是无法接受阿戈尔的。无论是阿戈尔的文化，还是阿戈尔的知识，都不可能给他们带来益处。\n勿予蛮人以凶器。】\n——歌蕾蒂娅\n\n别听她的，她在传动这块儿可真够强的，她就只是不给你核心技术......我们要核心技术也没用，你从哪个城邦能进到那些材料？\n她要是对你凶凶的，那肯定是对你不错！她要是对你很有礼貌，那反而说明她对你不怎么上心。架子拉得高不愿意说嘛，这种人我们都懂。\n——无名工程干员，可能是不敢留下名字。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "我原本以为歌蕾蒂娅不跟着一起搞科研，只是因为她忙着玩失踪。\n后来歌蕾蒂娅说，阿戈尔分两种执政官，科学执政官和技术执政官，她只是技术那方面的，所以对理论知识没那么了解。\n该说是阿戈尔的基础教育果然很惊人吗？她在我看来已经是通才了。只是，执政官，是主管吗？科学家和工程师一起治理国家？嗯......闻所未闻。\n顺带一提，军事技术也是技术，好像。\n源石技艺不在此列。她根本就搞不明白。深海猎人都是源石绝缘体吗？就连幽灵鲨那样重的感染都放不出一个正常的法术。\n但就算这样，我也能大致推测出一件事，虽然打死她她也不会承认。\n深海猎人一定是阿戈尔的技术产物。天知道阿戈尔是怎么样让阿戈尔人接受实验的......\n阿戈尔的科技水平之高已经没法验证了。巨大压力下的透明城市，不用特定矿物就能驱动的能源设施，全套的低温合金处理技术......直到信息的大量低损传递，以及不同物种的融合。\n天啊。\n何况，海洋......如果大地真的没有边界，海洋会有吗？阿戈尔到底有多少座城市？会不会比地上加起来更多？\n【为什么他们从没和我们联系过？】\n\n这样一来，更令人感到害怕的问题也出现了。\n......那些海里的怪物什么的，到底影响了多少水下城市，搞得深海猎人都回不去家？",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【传递给您的私人记录】\n深海猎人们接下来该怎么办？\n歌蕾蒂娅借用罗德岛设备发出的信号一直都无人应答。谁也不知道海面之下的阿戈尔变成了什么样，毋论其他深海猎人的死活了。\n\n我很确定，伊比利亚接收的阿戈尔人群，也就是他们时常自称的“岛民”，是在阿戈尔发生事故后离开他们国家的海中居民。\n岛民大多数都是技术出身，很少科研人员。至于科学执政官，呵，不屑离开他们宏伟先进的住所。\n伊比利亚能凭借岛民拥有的技术，也就是阿戈尔技术的一点点碎片与残渣，迅速从普通的强国跃升为争霸者之一......阿戈尔的整体国力与技术水平是地面诸国不能想见的。\n更何况大多数人根本不会知道海洋的存在。\n无论歌蕾蒂娅有多不愿意透露这些信息，伊比利亚这小撮阿戈尔人许多年前就迁移去了伊比利亚，深海猎人也应运而生，我们已经可以推论，阿戈尔遭遇的不是一场普通的灾难。\n深海猎人只是阿戈尔军事技术的冰山一角，这点我却很坚持。他们绝对不是阿戈尔的最后防线——更像是先锋与死士，像是阿戈尔对海中怪物的试探。\n歌蕾蒂娅并不忌讳用礼节去表达傲慢，却也没法掩饰住她用傲慢掩盖不安的事实。\n我知道，她对我们是有所保留的。甚至保留了很多。\n她没有告诉你，为什么海嗣想要找到斯卡蒂吧？\n顺便，海嗣不是最高等的海中怪物。它们一定还有更高级的生命形式。\n歌蕾蒂娅想用自己的方式保护深海猎人们。她害怕，未来想加害深海猎人的，将不只是深海教会与海嗣。她手中握有的技术和信息已经是她为数不多的筹码了。\n她尝试信任我们，只是她还太难信任别人。如果她不想帮助我们所有人抵御海里的威胁，那么她现在已经可以趟在甲板上晒太阳，而不是这样四处奔走了。\n以及，如果斯卡蒂的身体会产生不可遏制的变化，那么作为深海猎人先行者、最初的几个深海猎人之一，歌蕾蒂娅的未来......同样崎岖。\n给她一小段时间。她所受的训练和她的经历会让她得出正确的结论的。\n她现在依然是个阿戈尔人。但我们，我们不属于任何一个国家。\n阿戈尔仍在沉默。\n\n——凯尔希",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "不要放弃生活。\n玛拉咽下了最后一口气。她一头淡金色的卷发自士兵臂弯滑落，士兵垂下他冷峻的面庞，拼命遮掩着他自眼角流下的泪水。掌声雷动，剧目结束，这时你应当起身欢呼。\n海嗣不能观赏一场演出。恐鱼不知道聆听音乐是什么感受。\n不要放弃生活，这是我们最后一道防线。\n为你们创造出的美多加喝彩，就当它是你们种群仅剩的财富。\n\n“认真地讲，你如果想看看她长什么模样，就该参加罗德岛的舞会。舞会啊，她只要在船上，就每次都会来。你也常能在酒吧看到她......虽然那时候她坐在角落，听着爵士乐，很难搭话。可舞会不一样。想与她共舞，她基本都会点头，即使她一言不发。你见过她独舞吗？你没见过？那你绝对要看看，狂风一样的旋步，头发像漩涡一样在舞台上划过......我连音乐停了都没意识到......我不是要说这个。她和你跳舞时候完全另外一个样，无论你行不行，她扶着你的手，拉着你的腰......让你觉得自己也真的能跳得那么好。不管你跳得多糟，她都绝对不会踩到你的裙摆裤脚。如果她不是那么见外，我真的......唉。真的很幸运，我还有舞可跳。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_475_akafyu": {
+      "charID": "char_475_akafyu",
+      "drawName": "熊太",
+      "infoName": "内山夕实",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】赤冬\n【性别】女\n【战斗经验】八年\n【出身地】东国\n【生日】3月27日\n【种族】阿戈尔\n【身高】176 cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】优良\n【战场机动】优良\n【生理耐受】标准\n【战术规划】标准\n【战斗技巧】优良\n【源石技艺适应性】普通",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "赤冬，来自东国的剑士，信影流居合据物斩剑法传人。除传统剑术之外，她还拥有相当优秀的现代战斗技巧与战术素养。因个人特色过于鲜明，要适应罗德岛的作战风格，仍需一段时间磨合。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%\n干员赤冬没有被源石感染的迹象。\n\n【血液源石结晶密度】0.13u/L\n干员赤冬甚少接触源石。\n\n一个每天雷打不动，天不亮就会起床锻炼的人......不健康才怪啊！啊，好想和她掰手腕......或者能打一架，就更好啦！\n——嘉维尔",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "常规体检报告显示，赤冬的视力水平远低于常人。经其他检验和检查结果确认，这并非矿石病或其他疾病导致，也无法通过现有技术矫正。\n赤冬本人坚决否认自己有视力障碍。事实上，她在战场上的表现十分优异，甚至比一般人都要敏锐。很显然，格外发达的其余感知觉和战斗技巧弥补了她的视力缺陷。\n只是在生活中，她的表现就没那么完美了。如果不小心在走廊上目击到她走路撞头，请当作无事发生，否则会令她相当生气。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "赤冬的生活习惯相当老派。天刚亮就要起床，练剑，进食，天黑之后，如无大事，她也会很早歇息。\n出乎意料的是，她并不是那种脱离现代生活的人。当其他同样出身自东国的干员来找她共度休息时间的时候，她会大笑着夸赞宴新做的指甲形状新潮，并且在电子游戏、尤其是动作品类上轻松碾压她们。\n“喂，你以为我是那种光顾着打仗，什么都不懂的粗人吗？除了喝酒吃肉，我们训练完了也很喜欢聚在一起打游戏啊！动作游戏能训练武将的反应能力，你不懂吗？什么？我看不清怎么打？谁说我看不清......还有，没听过最好的动作游戏同时也是节奏游戏这种说法吗？”\n果然，在任何土地上，受人喜爱的文化流行起来都不会受到阵营立场阻挡。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "赤冬对自己的成长经历没有丝毫隐瞒。\n“是啊，我是那家伙在外面生的，那又怎样？反正他没承认过。我五岁起就叫赤冬，我姓什么，和那人没有一点关系。”\n她出身的家族正是东国最为显赫的八大家族之一。作为贵族私生女，她从小在神社长大，因不服管教，被认为生性愚驽顽劣，挨训禁闭都是家常便饭。直到五岁那年，她遇到了一位家族长辈，被那位长辈收养。在那位长辈的照拂下，她开始学习剑术、兵法，逐渐成长为一名出色的武将。她始终清楚自己血缘上的父亲是谁，但在她心中，她唯一信任的长辈、愿意追随的主上都只有那一位。\n至于那个属于她生父的姓氏，考虑到她本人不愿与之发生牵扯，在这里不会留下任何记录。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【权限记录】\n赤冬不光是一名剑士，她还是一名武将。\n血峰战役之后，东国再一次陷入内乱，其中有一位原本效力于南朝光元一派的武将因不满身为家主的兄长再一次挑起内战，率部投向北朝，并因此使得这场战争更快结束。表面上的停战并不意味着长久的和平，在那之后，二十年间，南北之间摩擦不断，战火频仍。尤其是这位战时倒戈的将领本人，更是几次三番受到南朝势力的刺杀。而这位将领，正是赤冬的姑母、也是她所侍奉的主上。\n这些年，赤冬率领的小队一直活跃在战场上，数度出生入死，直至最后一次落入敌对势力陷阱，险些身死。因这场战事失利，她作为指挥官遭到北朝流放，并从此离开东国，来到罗德岛。\n虽然被最信任的主上赶出了东国，但赤冬并没有任何怨言，并且她坚信，终有一天她仍会回到东国，向主上证明自己的成长，为了主上的理想、为了结束战争而拼命战斗。\n赤冬本人并不知晓，她受到罗德岛的邀请，并不是源自她所以为的巧合。因委托人要求，这份记录也并不能被她本人看到。\n\n补充事项：考虑到上述复杂形势，应尽量避免赤冬与干员白雪单独见面。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "“她是个聪明、刻苦的好孩子。\n我这么多年培养她，并不是为了要让她为我征战、或者成为我的继承人。\n我希望她能不再受缚于眼前的战火中。我希望她能找到属于她自己的战斗的意义。我希望，她能明白我们有朝一日将会面对更大的危机。\n希望你能帮助她。我知道你能。”",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_426_billro": {
+      "charID": "char_426_billro",
+      "drawName": "カワグチ",
+      "infoName": "喜多村英梨",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】卡涅利安\n【性别】女\n【战斗经验】六年\n【出身地】萨尔贡\n【生日】1月17日\n【种族】卡普里尼\n【身高】173cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】普通\n【战场机动】普通\n【生理耐受】优良\n【战术规划】标准\n【战斗技巧】标准\n【源石技艺适应性】优良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "卡涅利安，出身萨尔贡深处不受王酋管辖的某个古老部族，目前外出游学中。因接受莱塔尼亚霍恩洛厄伯爵的雇佣，作为其侍从长期停留于莱塔尼亚地区。现与罗德岛达成合作关系，作为干员为罗德岛执行莱塔尼亚境内的相关任务。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%\n干员卡涅利安没有明显感染的迹象。\n\n【血液源石结晶密度】0.12u/L\n干员卡涅利安较少接触源石，她的身体非常健康且强壮。身处莱塔尼亚的萨尔贡人非常清楚自己的身体状况，只要继续做好防护，不出意外的话，这份健康就能够最大限度地得以维持。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "卡涅利安小姐的出身与来历并不算是一个秘密。\n她出身黄沙深处的古老部族，依照部族中流传的传统，在成年后离开家乡在大地上四处游学。这名卡普里尼人去过许多地方，除去浏览与学习，最大的爱好是为自己购买一些别具特色的小纪念品......如果没有出现意外，莱塔尼亚原本将是卡涅利安小姐计划中的最后一站，而幸或不幸，意外不期而至。\n在观览莱塔尼亚某座移动城市时，卡涅利安小姐无意间撞破当地的统治者——当时尚且年幼的风信子伯爵一直隐藏的感染者身份，她因此而被对方扣留，没能按照计划为她的游学之旅简单划下一个句号。\n不过，尽管最初相识的场景称不上和谐美好，但随着相处与磨合日久，稚弱的莱塔尼亚少年伯爵与卡涅利安小姐之间的关系，显然也早已有所转变。据卡涅利安小姐本人所说，或许是因为从小将妹妹带大，惯于和孩子打交道的缘故，小伯爵于她，就像是白捡了个麻烦的弟弟一样。管了头疼，不管更加头疼。但毫无疑问，现在她确实认可了这个小心地隐藏着自己感染者身份，步履维艰的小伯爵，并且愿意保护对方，为对方想要做的而尽力。\n实际上，最初与罗德岛的接触，正是因需要为伯爵秘密换取治疗，作为罗德岛的干员协助处理莱塔尼亚境内，罗德岛不便于插手的相关事务，也是我们同意提供药物的条件之一。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "卡涅利安小姐给人留下的第一印象，是挺拔、自信，细致且充满力量的，她会有条不紊地安排工作，对周遭事物展现出胸有成竹的掌控力。但作为一位莱塔尼亚伯爵的侍从，很多时候她又显得有些不太柔顺，不太精致；而作为萨尔贡人呢，她的言行似乎又带上了许多更精细的约束留下的痕迹。这两种矛盾的印象糅合成了卡涅利安小姐独特的个人气质，如果对其人没有足够的了解，想必会被卡普里尼人随和爽朗的态度所迷惑，认为这是一位和善好说话的女性也不一定。\n在与罗德岛接触的过程中，卡涅利安小姐逐渐向众人展示出了她自身性格特质，尽管的确潇洒爽快，与其他干员也相处愉快，面上时常带有笑容，但如果因此而忽视这位女士的萨尔贡出身，那可就大错特错了。曾与其并肩战斗过的干员在形容卡涅利安小姐时，都不约而同地用上了“凶悍、暴力、残酷”等词语。在战斗之中，她所有漂亮讲究的招式都不过是被莱塔尼亚约束过后的假象，其中包裹的攻击意欲原始而直白。\n卡涅利安小姐并不过多掩饰自己的真实性情，不论面对怎样的情况，她都依照自己的准则行事，对待朋友时热情大方，而对待自己认定的敌人，她从不会手下留情。莱塔尼亚无法真正束缚这样的一个的萨尔贡人。\n不过，自称自己是个“合格的长姐”的卡涅利安小姐，在自己的亲妹妹和“捡来的弟弟”面前，明显行动会有所收敛，以期维持自己和善的形象——很难说这种努力到底有没有真的起到效果。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "作为以交换条件为前提，记名在罗德岛的外部干员，如果查询卡涅利安小姐在罗德岛的行动记录，权限不足的情况下只能得到“对方正在执行秘密任务”这样被伪造的信息。这是最初得到罗德岛干员这一重身份时，卡涅利安小姐向我们提出的一个请求。\n卡涅利安小姐向我们坦白，自己有一个关系颇亲密的妹妹，当初游学计划被打乱，至今她在莱塔尼亚已停留两年有余，算算时间，妹妹也快要成年，很快也要遵循传统离开家乡踏上旅程了。因自己在莱塔尼亚的行动牵扯颇多，并不希望将妹妹牵扯其中，因而一直没有与其联系。尽管能够毫不介意地令自己置身险境，但对于自己珍视的人，卡涅利安小姐显著的保护欲，令她显然无法接受自己给对方带来任何一丝可能存在的危险。\n现在有了罗德岛干员这样一重身份，卡涅利安小姐明确表示希望借助这个相对安全的身份，与妹妹取得联系。如果对方真的找上罗德岛，则会得到她正在执行任务的消息，而得到通知的卡涅利安小姐，自然会寻找合适的时间“结束任务回到罗德岛”，与亲人相会。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在莱塔尼亚，贵族之间对于血脉的自矜与骄傲是外人难以想象的。卡涅利安小姐这样的外来者确实难以理解这片土地，在他人看来，外来者或许会获得一时的荣耀与辉煌，但没有根基的人所铸造的辉煌总是一戳即散。然而卡涅利安小姐嗤笑着告诉我们，即便是血统纯粹的贵族，许多时候也需要步步小心。\n她向我们讲述了自己了解到的故事：\n霍恩洛厄伯爵一族在政敌的阴谋中落败，正统家系只留下一个年幼的男孩继承了伯爵的头衔。而不幸的是，这个男孩也在动荡之中染病。\n在这样的情况下，与外部的治疗机构，或是药物公司联络，是无奈之下的冒险之举。而说服伯爵尝试获得治疗的，则是了解了前因后果，已决定要留下管这一场“闲事”的卡涅利安小姐。她无疑是一个细心而敏锐，同时情感率直而充沛的人，卡涅利安小姐在这件事上从来没有改变过自己的态度：\n比起是否会被政敌发现，或是霍恩洛厄家的尊严之类的东西，她更加在意自己照顾的小孩的身体状况。\n所幸，他们衡量再三后，放弃了与一些大型企业或机构取得联系，而是在一众名单之中，选择联络上了罗德岛。\n\n【权限记录】\n对于向来自莱塔尼亚的势力提供帮助一事，我们内部也产生了一些分歧，在此我将向各位阐述我的想法。\n莱塔尼亚巫王时代由双子女皇们亲手揭过已有数十载，这个国度已经从恐惧中复苏，贵族们重新掌握权力。在女皇们之下，围绕权力而展开的丑陋争夺我们已经见过太多了。在这样的时候贸然向一方贵族提供帮助，是否会令我们的立场动摇，是否会将罗德岛引向与我们初衷不符的方向，我相信在座各位或许会有这样的担忧，这是完全合理的猜测，谨慎的态度与仔细考量也是很有必要的。\n不论如何，我需要坚持我的观点：\n为矿石病患者提供治疗，正是罗德岛一直以来坚持做，并且今后也会继续做下去的事。不论这名患者的身份与地位如何，我们不能对来需求帮助的病人视而不见。\n——发言人阿米娅",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在与罗德岛同行的时间里，随着双方之间信任的加深，卡涅利安小姐不止一次隐约向我们透露出了某种讯息。\n显然，对于她身边所发生的事，萨尔贡人有着自己的想法，这种近乎于明示的暗示，或许是某种试探，又或许是一种预告，也许还能够被看做是求助的信号。而如果相信她的所有话语都是真诚而直白的表述，那么那些想法显然已经在她的脑海中存在已久，或许已经经过反复思量，如果能有一个合适的时机，想必她一定很乐意将想法付诸实践。\n也许不用再等多久，我们就会从卡涅利安小姐那里收到更进一步，更加直接明了的求助。\n到那时，罗德岛应当如何行动，将会是一道难题。\n\n除此之外，还有一点或许需要特别注意：\n受信任与被喜爱都是好事，但请别放松警惕，卡涅利安小姐似乎很想把她看中的一切都打包带回她的老家。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_478_kirara": {
+      "charID": "char_478_kirara",
+      "drawName": "我妻洛酱",
+      "infoName": "春野杏",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】绮良\n【性别】女\n【战斗经验】没有战斗经验\n【出身地】东国\n【生日】11月29日\n【种族】阿戈尔\n【身高】160cm\n【矿石病感染情况】\n体表有源石结晶分布，参照医学检测报告，确认为感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】普通\n【战场机动】普通\n【生理耐受】标准\n【战术规划】优良\n【战斗技巧】普通\n【源石技艺适应性】普通",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "来自东国的学生绮良，因患矿石病而选择离开家乡。在向老同学递出求助信后不久，收到干员宴的回信，据信中的指点前往罗德岛寻求治疗。对电子设备颇有了解，现于范围通讯及设备检修方面为罗德岛提供帮助。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。\n\n【体细胞与源石融合率】5%\n干员绮良已被源石感染，体表可见少量结晶。\n\n【血液源石结晶密度】0.17u/L\n绮良的感染只是一场意外，平时生活中，她少有接触源石的机会。只要继续稳定这种状态，她的病情进一步恶化的可能性将非常小。",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "绮良本人出身于东国靠南边的一座小型移动城市，隶属于南方的统治集团光元治下。小城临海，周围土地平坦，各种资源都较丰富，因此商品经济颇为发达，与周边城市地区的往来都较密切。\n同时，因远离东国境内两方势力的冲突线，绮良的家乡少受纷争影响，绮良本人在不幸感染矿石病之前，一直过着普通学生应有的安稳生活，对战乱唯一的忧虑，也不过是担心北边产的游戏，是否能安然越过混乱地区，被他们雇佣的忍者顺利送达而已。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "作为干员宴介绍而来的求助者，绮良最开始并未考虑要在罗德岛寻找一份工作，像她的同学宴一样，成为正式的干员。对于这个内向的女孩来说，罗德岛提供对矿石病的治疗，并让她得到一个落脚之地，而她付出钱款报酬，这是相当合算的一笔交易，最初，就只是这样而已。\n但计划总是会出现小小的意外。大多数时间都将自己单独关在房间内，会用短信代替口头对话，总是极力避免与他人正面交流的东国少女，在偶尔“外出”时，总是会顺手帮助一些干员，有时是解决几个电子设备上的小问题，或是临时被拜托教授干员们电子器械如何操作，甚至还曾被追着询问有关当红游戏的攻略方法......总之，在绮良本人都还未回过神来时，她就已经和干员们相处得相当融洽了。\n我们很快就正式向这名东国女孩发出邀请，邀请她成为我们中的一员。\n令人欣慰的是，这个怕生的姑娘并没有拒绝。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "在东国，像绮良的家系这样迁徙而来并定居的阿戈尔人并不少见，与我们所了解的伊比利亚境内的形势不同，东国的阿戈尔人大多并未受到太多排斥，顺利地在这片土地上扎下了根。时至今日，就如同绮良对自己的认知那样，她可以很轻松地说，“我只是普通的东国人而已”。\n不过能够很明显的看出，尽管同样是东国人，由于生长环境不尽相同，绮良与一些同属于东国的干员——例如干员缠丸——在对许多事情的认知上还是有着不小的差别。\n\n“北边那里？啊......光严那边的事我也不太了解，不过听说是各方面都挺古板的？”\n在绮良向我们介绍家乡东国时，她提及东国内各占半边国土，以家族为单位维持统治，一直对立并争斗不休的两方势力。\n“我们光元派这边好像是没那边那么重军备啦。”对于自己家乡所属的派别与对面之间的势力对比，绮良先是顾左右而言他，好一阵子后才承认，“要是打起来，估计正面战场取胜会有点难......不、不过，这种事也不完全是正面硬碰硬就能分出胜负吧！而且又不是光打仗不过日子了，要说繁荣轻松风气好，宜居，那还是我们这边强点？呃，也不是说对面坏话，只是，至少我是这么觉得的。”\n除此之外，东国女孩还略带一点遗憾，一点嫌弃地表示：\n“其实能不打还是不打吧，这几年就还好，太平了一阵子，有的时候买对面的新游戏甚至能忍者直邮。不过我听讲之后好像挺难说的，嗯，不清楚，我也不太懂这些。”\n“听说八大家族祖上都是一家，之后意见不合才分裂成两边一直对峙到现在......唉，说真的，这设定是不是太老了点？何必呢，这不就是亲兄弟打架嘛？”",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "干员绮良的兴趣爱好十分广泛，包括小说、漫画、游戏等在内的一系列小众娱乐她都十分喜爱，即便不得不离开家乡，绮良也坚持随身携带着自己的大半收藏，令人不禁为之咋舌。除此之外，音乐也是绮良的爱好之一，在感染矿石病前，绮良曾在自家附近的一所酒吧打工，挑选适合当天气氛的音乐播放是她每天的乐趣之一。\n在自己的兴趣爱好上，绮良投注了相当多的时间与精力，有时甚至可以说是废寝忘食，全身心地投入到游戏或是漫画之中。她表现出的拒绝交流的封闭态度，在最初曾令人感到担忧，但随着相处时间的增加，我们很快就发觉，绮良并不是真的抗拒与人交流，而是出于一种害怕被伤害的心态而展开的自卫机制。\n这种恐惧与绮良在孩童时期的经历密切相关。儿时因内向的性格和与周遭孩子们不同的兴趣，而遭受欺负、受到排挤的经历至今仍影响着绮良，她恐惧在自己敞开心扉，展现出真实的自我时，可能遭到的拒绝或攻击，因而率先回避了与他人的交流。\n而一旦突破绮良内心的防御，被认作是知心好友，任谁都能看出，她的真诚待人，是单纯炽热且毫无保留的。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "游戏总有通关的方法。\n只要选对选项，屏幕里的人就会朝自己微笑。只要够努力，就能够打败敌人迎来好的结局。\n但是现实......\n现实不能重来。现实中，没有能够稳妥地讨好他人，得到微笑的选项，现实中的失败无法重来，所以才会恐惧，才害怕会搞砸一切。\n但是，如果身边有愿意和自己一起，共同面对风雨和挑战的同伴的话......\n事情或许，也就没有自己孤身一人时那样可怕了。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_369_bena": {
+      "charID": "char_369_bena",
+      "drawName": "下野宏铭",
+      "infoName": "森永千才",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】贝娜\n【性别】女\n【战斗经验】没有战斗经验\n【出身地】维多利亚\n【生日】4月3日\n【种族】卡普里尼\n【身高】143cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】普通\n【战场机动】普通\n【生理耐受】普通\n【战术规划】普通\n【战斗技巧】普通\n【源石技艺适应性】优良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "特种干员贝娜，试图将爱丽丝带回维多利亚无果后便滞留在岛至今。\n使用独特的操控人偶技术，在战场上中能发挥特殊的价值。\n考虑到年龄与本人意愿，一般不派遣至前线。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%\n干员贝娜没有被源石感染的迹象，安妮也没有。\n\n【血液源石结晶密度】0.14u/L\n干员贝娜甚少接触源石，安妮也不常接触。\n\n“后面那一段检测情况是谁写的？安妮是谁？”——医疗部匿名干员",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "爱丽丝来到罗德岛后，时常会有一位卡特斯访客前来带走孩子们想要保存的东西。然而有一天，这位卡特斯访客从维多利亚带来了一位卡普里尼，她直接找到爱丽丝，与对方唠唠叨叨谈了一个多小时，之后便和爱丽丝一样，提出了留岛申请。从她略显气恼的表情上可以看出，她似乎认定罗德岛正用什么见不得人的手段限制爱丽丝的自由。在进行了长达两个月的留岛“调查”后，她并没有找到什么证据证明她的观点，我们的卡特斯朋友与爱丽丝也一直在帮忙化解误会，最终，她承认了自己的判断失误。然而她并没有直接回到维多利亚，而是把那位卡特斯打发走后和爱丽丝一起待在了岛上。按照“公开”说法，她觉得自己应该在这里陪陪爱丽丝直到她完成自己的职责，而实质上呢？\n“这里游戏室玩具还蛮多的，能玩到一起去的人也多，我多待会又怎么了哦。”登记完身份，成为临时干员的卡普里尼——贝娜如是说到。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "成为临时干员的贝娜和爱丽丝一样，也在询问孩子们是否有无法长久保管的物件并交给那位卡特斯同伴带回维多利亚。不过，她获取信任的方式与爱丽丝不同，如果说，爱丽丝是像姐姐一样照顾其他孩子的话，贝娜就是与和孩子们玩到一起，成为他们的同伴。有着人偶安妮的帮助，贝娜能够轻松混入孩子们的交际圈，加之她会根据自己的判断在他人面前“表演”、“模拟”出各种性格，如果不是博士在初次见面时就戳穿了她的“表演”，现在她与博士对话表现出的性格与语气将会截然不同。\n由于精湛的“表演”，贝娜时常能够“获得”比爱丽丝更多的物件。然而她并不是在和爱丽丝攀比什么，她只是把这当成一份工作，一件自己必须做的事情，为了城堡里已经退休的“奶奶”，贝娜总是愿意多做些什么——这也是极少数她会大方承认的事情之一。\n\n“贝娜上岛后，爱丽丝向那位神秘卡特斯交付物件的流程发生了改变，她会先把所有东西带到贝娜那里，两人独处一段时间，再由爱丽丝把东西带回去交付。为什么会这样？贝娜到底掌握着什么？”——摘自已失效的爱丽丝调查记录",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "贝娜并不避讳告诉别人自己在城堡中的具体职责，和我们猜测的一样，她是在城堡中具体负责物品保存技术的那个人，经由她的处理，送去城堡的物品其寿命能够超过它本应存在的极限。不过，一旦有人试图探查技术的细节，她就开始想方设法用小朋友的方式回避细节，包括但不限于：严正回绝、装傻充愣、瞬间失忆等等等。由于她的反应实在太过有趣，有人会故意找她引起这方面的话题，然而，如果被贝娜或是安妮识破的话，当事人便会遭到小卡普里尼与人偶的联手恶作剧，进入这一环节后，擅长恶作剧的小卡普里尼反而是不用在意的一方，因为，负责实行计划的，大多是平时安静且沉默的人偶安妮。\n“请千万不要将安妮当作普通的人偶，她——请允许我用她而不是它来指代安妮——能说话、会思考、可以远离贝娜独自行动，除了明显的球状关节与显著性格差异，根本没法区别她与贝娜。此外，虽然不怎么言语，但她的好奇心十分旺盛，不在贝娜身边时，她会一个人在罗德岛各处游荡，遇到好奇的事物，就待在那里静静看着，一言不发，经常有人被安妮吓到，也有人好奇，手把手给安妮做教学。有时，安妮看得入迷，忘记回到贝娜身边，身为主人的贝娜反而会急得满罗德岛找人偶，然后在某个房间里，找到杵在那里看得津津有味的安妮。”\n“我知道以上描述看上去不是很可怕，因为我所写的只是普通情境下的安妮，如果你惹到了她和贝娜，贝娜会把脑子里所有的可怕想法告诉安妮，然后，安妮会花上几天甚至几个月不停歇地在你身上实现这些计划。”\n“相信我，你不会想尝试的，论体型和杀伤力，她可都比莫提大多了。”\n——一位罗德岛档案室干员的自主编辑",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "迷途小羊在游荡，累又渴，辘饥肠。\n家乡在远方，血亲无人识，名字早忘啦。\n迷途小羊在游荡，菲林不爱她。\n那一晚，暴雨至，电闪又雷鸣。\n小羊缩在屋檐下，肚子咕咕叫。\n噗通一声响，有人摔倒啦。\n回家心切老妇人，倒在街道上。\n暴雨轰轰下，没人理呀没人睬。\n“奶奶、奶奶，你还好吗？”\n只有热心小羊羔，前来帮助她。\n“谢谢，谢谢，可爱小羊崽。\n天上雨水大，快快回家吧。”\n可惜城市那么大，没有小羊家。\n“来我家吧，来我家。避雨又休憩。”\n甩甩水，点点头，跟着奶奶去她家。\n一篮新鲜红苹果，交给小羊拿。\n苹果香又甜，小羊心痒痒。\n咽下一口水，篮子肩上扛。\n来到奶奶家，身上湿哒哒。\n奶奶不嫌弃，带到餐桌旁。\n“坐吧，坐吧，可爱的小羊羔。\n奶奶上去洗把澡，马上就回来。”\n奶奶离开了，留下小羊羔。\n餐桌上食物香喷喷，小羊心痒痒。\n再咽一口水，乖乖等奶奶。\n等呀等，等呀等，小羊饿昏啦。\n再到醒来时，小羊在床上。\n身体洗香香，美食床旁放。\n心里暖洋洋，奶奶乐开花。\n“吃吧，吃吧，可怜的小羊羔。\n今后跟着奶奶走，不渴又不饿。”\n“为什么？为什么？”小羊问又问。\n“因为呀，因为呀，雨后的苹果最香甜。”\n奶奶笑哈哈。\n——《乔弗瑞古今童话集》节选\n\n“奶奶说这是维多利亚以前的童话，我怎么觉得是在说我呢？”——贝娜\n“故事比奶奶老。”——安妮",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "贝娜的动手能力极强，你现在所看到的她身上的全套服饰以及安妮，都由她亲手制作。听说，在城堡之中，有一座古老的图书馆，而贝娜的童年除了完成奶奶交代的事，就是窝在图书馆里阅读她想要读的书。她过去的生活太过孤独，以至于当她发现书本中某种技术最终能够为自己“创造”真正的朋友时，她毫不犹豫将所有时间投入其中，这项技术最终的结晶，就是安妮。城堡中的人对于安妮的出现并不感到意外，对于他们而言，“童话中的一切皆有可能”，只是，在面对城堡外的人时，她需要一个说法——\n“人偶”，这就是贝娜所想到的说辞。贝娜时常需要以源石技艺与手工能力为安妮维护，从这一点上来说，她的确和人偶别无二致。只是，细心的人会发现，卡普里尼与人偶的言语交流，更像是另外一种“表演”，她们早就通晓对方的行动，知道对方的喜好，表现出的沟通，其实只是一种生活上的调剂或是缓解周边人群的疑虑与恐慌。这一点，是为贝娜做扫描的医师通过医学观察所作出推论。由此可见，当贝娜说出安妮是“另外一个我”时，她并没有在说谎。\n“已征询相关医疗部干员证明以上推测没有实证，建议删除。”——匿名高权限管理人员",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_469_indigo": {
+      "charID": "char_469_indigo",
+      "drawName": "织布机loom",
+      "infoName": "冰青",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】深靛\n【性别】女\n【战斗经验】没有战斗经验\n【出身地】伊比利亚\n【生日】9月30日\n【种族】斐迪亚\n【身高】167cm\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】标准\n【战场机动】普通\n【生理耐受】优良\n【战术规划】普通\n【战斗技巧】普通\n【源石技艺适应性】标准",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "来自伊比利亚的流浪术师。曾经是一座海滨灯塔的见习看守人。在游历期间，与正执行外勤任务的蓝毒和格劳克斯相识。后经蓝毒介绍，入职罗德岛。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓清晰，未见异常阴影，循环系统内源石颗粒检测未见异常，无矿石病感染迹象，现阶段可确认为非矿石病感染者。\n\n【体细胞与源石融合率】0%\n干员深靛没有被源石感染的迹象。\n\n【血液源石结晶密度】0.12u/L\n干员深靛在故乡时甚少接触源石。在外旅行期间，多少接触了一些源石制品，好在防护......呃，运气不错。\n\n不怎么出门的人当然也有自己的健康优势啊。\n——图耶",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【源石技艺概览】\n深靛小姐的源石技艺有一些特别。她的光，并不像大家看到的那么简单，我的仪器记录下来了她在施术时同房间的磁场，在去除多个常见频段噪声以后，找到了一定周期的组合波形变换。这波形将对大部分生物的神经系统产生一种......作用。这个作用很微弱，还称不上显著的干扰，可又是切实存在的。这可能就是大家会在她的光里感到温暖的原因吧。\n经过她的同意，我仔细研究了她所持的施术单元的内部构造。与现代流行的比如莱塔尼亚出产的法杖相比，她的法杖杖身里并没有装配辅助传导通路。嗯......其实，真正发挥作用的就是法杖最顶端的那个单元。而这构件本身，以最大功率模拟测算结果来看，足以为维多利亚大型工厂级别的设施供能。为什么它现在会在深靛小姐的法杖上？我随口问了下路过的棘刺先生......他在看完我的测试结果以后，变得有些心事重重，并没有发表更多看法。说实话，这挺不像他的。\n关于法杖的来历，深靛小姐也并不知晓更多。她只知道，这是在她离开故乡灯塔时，她的老师亲手交予她的。所以，我的研究只能暂时推进到这一步......真希望以后还能拿到更多信息啊。\n——术师干员薄绿的研究录音",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "两次......不，三次。我的毒，艾莉亚中过三次。\n第一次是刚见面。那时候我以为艾莉亚是敌人。从她中毒到失去知觉，时间比其他斐迪亚要久一倍。后面她醒得也很快。真有趣啊，您不觉得吗？\n不，请别误会。我并不准备在她身上做实验。她是我的好友，我也并非这样的人。当然......也请您不要做那种打算。\n艾莉亚......是有些迷糊呢。上一回是头发在我的试剂柜上缠住了，拉扯时候不小心撞翻瓶子，吸入了过量的毒雾。这回......大概是在蛋糕盒子和培养基之间做了错误的选择？\n她对我说过，在外面漫游的时候，她好几次误打误撞，和赏金猎人一起接过悬赏，也混过鱼龙混杂的黑市，并因此结识了好些精通毒理的“朋友”。她对神经毒素的异常耐受，或许是由于她的身体在反复中毒的过程中，逐渐适应了。不要低估生物的适应能力——这可是我们这些毒理学者挂在嘴边的话哦。\n好啦，说了这么多，她也该醒了。她一次比一次醒得快。我还有些事要做，这副新手套，可不可以拜托您帮我送给她？\n——某次干员深靛中毒后，干员蓝毒在医务室对华法琳医生所说的话",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "深靛小姐来自伊比利亚一个名叫岩湾镇的地方。\n在她印象中，灯塔一直在那里。只要是白天，门始终向镇上的居民敞开。不过很少有人愿意到灯塔里去。那儿离海太近了。大人们从祖辈那里听说了海的恐怖，然后急着告诉自己的孩子。深靛小姐的母亲也曾多次教育她。可她像是被这座神奇的建筑吸引了，只要一有空就想往里面跑。\n在灯塔里，她遇见了她的老师，一位上了年纪、寡言但风趣的黎博利。老师最早并不愿意当她老师，总是故作凶狠，驱赶这个喜欢趴在海边岩石上、动不动偷偷爬上灯塔的孩子。到了后来，老黎博利还是被打动了。年迈的看守人需要一个后继者，而对灯塔感兴趣的年轻人并没有几个。年复一年，老师教了她很多东西。在学习如何维护灯塔、如何使用替代性源石技艺点亮灯塔的同时，她窥见了黄金时代的一角。她对这些逝去的光景感到沉迷。她的父母、邻居、玩伴对此无法理解。很快，她搬进了灯塔，陪伴着老师，开始了漫长的守望。\n在往日的记载中，她曾见过“光明守护者”这个词语。当她开玩笑用这个称谓称呼她的老师时，老师沉默了。年长的黎博利一字一句告诉她，他们现在，更像是守护着黑夜。\n在灯塔里的日子过得比外面更快。在一个难得的风雨夜过去后，老师不再允许她进入灯塔。老师说，她必须离开岩湾镇，认识更多人，经历更多事，才有资格回来接替自己。从此，深靛小姐踏上了旅途，但她并不是特别明白这趟旅程会持续多久。\n她究竟要找到什么东西，才能被允许回家？在来到罗德岛以后，这个问题的答案才有了些眉目——她想找到能让灯塔恢复往日光亮的方法。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "随着越来越多来自伊比利亚的干员加入，我们对伊比利亚现状的了解正在加深。\n一个很明显的征兆是难民数量的增长。他们中的一部分是想躲避内部越来越压抑紧张的氛围，另一部分则是被迫从遭到灾害摧毁的家乡逃离。我们注意到这些发生在海边的灾难与其他地区常见的天灾有明显差异。我们仍无法顺利进入伊比利亚的几座重要城市，但已经在边境周边建立了多个办事处。我们的首要目标依然是附近区域矿石病的治疗，可对这一块地区的其他异常情况也会继续调查、保持关注。\n\n【权限记录】\n应您的要求，我们最近取得了一些线索，也接触到了一些有关联的伊比利亚人。先说结论——关于海的研究在表面上可能是一个默契的禁忌，可私底下绝非无人关注。包括深靛小姐的老师在内，有那么一批人，依据着代代传承的信息，正在做着某些准备。当然，对此我们掌握得仍不够多。线路已打通，如有必要，调查会接着推进。",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "干员深靛的心志就如她法杖发出来的光一样，或许最初微小，但始终稳定，并且在一点一点、毫无争议地变强。\n有一类人，她的强大并不来自于天赋，而是来自对某一件事物近乎执拗的坚持。干员深靛就是这样的人。在最晦暗的时刻，你都可以相信，她能带来丝缕光明。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
+    },
+    "char_485_pallas": {
+      "charID": "char_485_pallas",
+      "drawName": "aZLing4",
+      "infoName": "井上麻里奈",
+      "storyTextAudio": [
+        {
+          "stories": [
+            {
+              "storyText": "【代号】帕拉斯\n【性别】女\n【战斗经验】三年\n【出身地】米诺斯\n【生日】2月8日\n【种族】米诺斯\n【身高】164cm\n【矿石病感染情况】\n体表有源石结晶分布，参照医学检测报告，确认为感染者。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "基础档案",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【物理强度】标准\n【战场机动】普通\n【生理耐受】标准\n【战术规划】优良\n【战斗技巧】标准\n【源石技艺适应性】优良",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "综合体检测试",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "帕拉斯，曾在米诺斯担任祭司职务。在离开雅赛努斯城邦去往阿克罗蒂村任职期间，带领当地民众进行了对萨尔贡周边部落长年侵扰的反抗，并在当地推行旅游及文化产业的发展。后因矿石病病况恶化，来到罗德岛进行秘密治疗。",
+              "unLockType": 0,
+              "unLockParam": "",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "客观履历",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。\n\n【体细胞与源石融合率】8%\n左脚踝处有源石感染痕迹。\n\n【血液源石结晶密度】0.18u/L\n体内情况较为稳定，暂没有扩散迹象。\n\n“该干员具有专业的医护知识，使身体长期保持在健康状态，这使感染情况有所延缓。然而，对于身体素质的保持并不能彻底避免感染的扩散。帕拉斯小姐来到罗德岛接受治疗，应当是已经抱以进行长期观察和治疗的准备，希望接下来也继续积极听话地配合治疗。比如说......不要喝那么多酒啦！”——某医疗部门干员",
+              "unLockType": 2,
+              "unLockParam": "25",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "临床诊断分析",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "来自米诺斯的祭司帕拉斯，起初是作为特殊病人来到罗德岛进行秘密治疗。在初次对其进行身体检查的时候，她的所有信息几乎都处于保密状态，且有一位萨卡兹护卫陪伴。不久后，据帕拉斯小姐本人讲述，她在接受治疗的过程中对罗德岛产生了浓厚的兴趣，于是兴致勃勃地在身体状况稳定之后，主动申请成为罗德岛干员。\n“一项伟大的创举！外表的朴实是不能掩盖罗德岛的众人保有的那份赤诚之心的。这份赤诚，也绝不会辜负众人的心愿，它必将化为稳固坚实的力量。”\n不久后，帕拉斯小姐便转入了作战干员的编制，成为了“干员帕拉斯”。据说在办理入职手续的时候，帮忙填写表格的萨卡兹护卫为她选择的是后勤部门或医疗部门的编制，然而在帕拉斯小姐的强烈要求下，最终进入了作战编制，将外出参与各类作战行动。\n“你个不讲道理的祭司，知不知道你现在的状态最需要的就是‘低调’和‘安全’啊！”\n“啊，我最可亲可爱的战士，我勇敢而忠诚的萨卡兹护卫啊。我能理解你对弱者的体谅和关心，这是我一直试图劝导你温和的一面。然而，我并非弱者，也不需掩盖自己那被众人所需要的光辉。如果光辉真的落于我的身上，那么不许发扬并昭告更多生灵，便无法使我祭司之使命完整履行......”\n“*萨卡兹粗口*，那你就在这鬼地方好好呆着吧，我才不会陪你待在这里！”\n“好啊，那么你便暂且去往你向往的生活罢，我志同道合的勇士啊......欸？你真的要走吗？......呜......”\n于是，始终没有透露过自己名字的萨卡兹护卫先生气呼呼地离开了。",
+              "unLockType": 2,
+              "unLockParam": "50",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料一",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "帕拉斯小姐的适应能力非常好，一段时间的相处后，与罗德岛的各位干员已经迅速地熟络起来了。\n或许不仅仅是“熟络”，而是......过分热情了。只要和她简单交流几句，便马上能够了解许多她“说漏嘴”的经历。身世似乎是帕拉斯小姐最不忌讳的话题。她出身于米诺斯的显赫家族，从小过着充实的生活，并立志成为一名崇高的祭司。她学习了医学，又耐不住枯燥，为参加勇士大会学习格斗技巧，还为庆祝自己的成年参加了业余方程式战车竞技......总之，帕拉斯小姐兴趣广泛，身为祭司没有懈怠本职，同时拥有开放的思想，十分享受米诺斯文化中重要的娱乐精神。\n这样无忧无虑、充实的日子一直持续到了一场意外的发生。帕拉斯小姐的左脚踝处有明显的受伤痕迹，而留下疤痕的伤口上所露出的源石结晶使她的感染经历不言而喻。帕拉斯小姐在休假时的远行中发生了意外，不幸感染了矿石病，待回到米诺斯进行治疗则为时已晚。\n从看望自己的亲戚们凝重的神情中，帕拉斯小姐已然知晓了自己的命运。感染者是绝无可能继续担任十二英雄神殿的祭司的，甚至，祭司感染矿石病的消息也必须封锁。离开自己生活多年的繁华城邦已经迫在眉睫，帕拉斯小姐虽然失意难过过，但还是提出“希望到边远地区继续行使祭司之职”的心愿。于是，在家族的安排下，英雄神殿的祭司·帕拉斯，就这样悄无声息地离开了众人的视线，去到了鲜为人知的阿克罗蒂村，成为了一名隐姓埋名的普通祭司。\n问起阿克罗蒂村庄的生活经历，帕拉斯小姐显得十分怀念，讲述了许多村庄中发生的趣事。比如，在她的提议和带领下，村民们共同修建了英雄广场，开始举办各类戏剧表演和竞赛活动，大力发展当地旅游产业来吸引更多来客。帕拉斯小姐并未详细描述她推动这些工程进行时付出的努力或方法，仅仅是分享了在当地发生的各类趣事。然而，想要完成帕拉斯小姐的旅游及文化推广工程，有一项不得不重视的隐患尚待解决——\n来自萨尔贡部落长期的、持续不断的对米诺斯边远地区的侵扰。",
+              "unLockType": 2,
+              "unLockParam": "100",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料二",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "萨尔贡曾对米诺斯地区进行了长达百年的侵占，对米诺斯的历史产生了沉重的影响，也造成了诸多文化的灾难。百年的侵占时期中，萨尔贡王酋劫去了不少米诺斯的资源和珍贵艺术品，并对米诺斯的文化进行了蛮横直接的清洗。萨尔贡殖民者深知，只有摧毁了信仰才能够使人屈服。士兵烧毁了大部分精美的英雄宫殿和神殿，禁止米诺斯人举办各类竞赛、祭司活动，连戏剧演出都一度禁止。\n米诺斯人的反抗精神从未停止。随着萨尔贡因自身内部混乱日渐式微，在米诺斯各地发生的反抗活动愈发强烈，并最终在最大规模的行动中，由十二位当地复兴领导者所进行的“夺回神殿”一役取得了重大成功。十二位英雄带领当地民众夺回了自己城市的英雄神殿，并重新进行了修缮维护。自此以后，米诺斯人民的精神进一步觉醒，不断发展的米诺斯已经不再惧怕萨尔贡王酋的恐怖统治，最终击退了萨尔贡的殖民者。\n然而，尽管中心城邦经过多年的恢复和发展已经逐渐繁荣强盛，处在边界地带的村落仍旧饱受被萨尔贡一些野蛮部落骚扰的困扰。阿克罗蒂村便是其中之一，也是反抗精神最强烈的村庄之一。祭司帕拉斯在到达村庄时，反抗已经持续了几年时间，但总是难分胜负，无法彻底解决萨尔贡部族屡次侵扰的问题。\n“她的到来成为了那些村民们的希望。人们知道她是雅赛努斯的英雄神殿的祭司，自然十分崇敬。而她不仅积极为村民治疗，还主动投身于前线，怀着大败萨尔贡的决心指挥了大大小小数次战斗。\n“那些战斗场面并不宏大，战术也有些粗糙。但是嘛......不论敌人进攻多少次，她都一定坚持到彻底击退对方为止。胜仗越打越多，信仰她的战士和民众也逐渐增多。后来获得决定性的胜利，并联合米诺斯周边村庄与萨尔贡周边部落签订《互不侵犯条约》之后，人们对她的信仰简直到了狂热的地步。”\n“你说的这些，难道是在米诺斯流传的......”\n“这几年盛行的‘胜利女神’、‘智慧女神’故事，难道你也有所耳闻？”\n“所以您的意思是，帕拉斯小姐她就是那位......！”\n“嘘。”\n遗憾的是，萨卡兹护卫不愿再透露更多的信息，本次记录只得到此为止。",
+              "unLockType": 2,
+              "unLockParam": "150",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料三",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "【权限记录】\n“......是她的萨卡兹护卫先联系了罗德岛，希望我们给出对矿石病人完整的治疗方案。”\n“大约两到三次正式的资料传递之后，祭司帕拉斯慎重地选择了我们，并秘密地离开了米诺斯。”\n“我想，她所想要隐瞒这一切，并不是因为感染者的身份会使她感到自卑——实际上，祭司·帕拉斯对于自己感染后寻求改变的态度十分积极。她真正在乎的，应该是不希望过去和自己一同并肩作战的士兵和民众对已经形成神话般的形象感到怀疑。”\n“想要保留解放的成果，英雄的神话便不能有令人诟病的缺陷。帕拉斯小姐应该不希望自己和他人所达成的信任、付出的努力就这样轻易被怀疑所摧毁，所以宁肯放弃自己的身份，隐姓埋名地再度选择了离开。”\n“可是，这样一味地留下表面的美好，使人们不用接受其中的代价，心安理得地为完美的英雄故事鼓掌，真的好吗？”\n“......你的思考不无道理。祭司帕拉斯也一定这样纠结过。”\n“但是，这就是米诺斯的现状。只要暴露了感染的现实，祭司帕拉斯所创造的成果将会立刻被贬低。人们尚不能接受一名受感染的‘女神’拯救过米诺斯。个人的悲剧和自己的信仰发生了冲突，这对于忠诚的信仰者来说是加倍的痛苦。”\n“但是，勇敢地离开米诺斯后，帕拉斯或许能找到自己需要的答案。在罗德岛上生活的经历，应该会让她放下自己过去的身份所带来的压力，而从自己的遭遇思考更加深邃的矛盾。”\n“不用担心，她是一名殉道者，也是一名解放者。在看到人们遭受不公的待遇所产生的愤怒后，帕拉斯一定会重新拿起自己手中的武器。”\n“到她愿意主动加入罗德岛的时候，我们不应该拒绝。”\n......\n\n——某次会议上，凯尔希与人事部门成员部分发言记录",
+              "unLockType": 2,
+              "unLockParam": "200",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "档案资料四",
+          "unLockorNot": true
+        },
+        {
+          "stories": [
+            {
+              "storyText": "成为一名英雄，这是许多米诺斯人的志向与信仰。\n帕拉斯小姐对英雄怀有真诚的崇敬。在米诺斯，被称之为“英雄”是最高的敬意，帕拉斯小姐显然也怀有成为英雄的志向。或许在帕拉斯小姐心中，“女神”的名号远不如米诺斯人认可的“英雄”那般令人骄傲和自豪，所以她还在不断修行和实践的坎坷路途上。帕拉斯小姐的一言一行，几乎无时无刻都在展现她对米诺斯的怀念和自豪。\n然而被迫接受远离家乡的现实，使她成为被米诺斯所认同的英雄的理想成为一种奢望。这或许也是工作人员看到她驻足在舰桥上，独自酣醉至深夜的理由。",
+              "unLockType": 1,
+              "unLockParam": "2;1",
+              "unLockString": ""
+            }
+          ],
+          "storyTitle": "晋升资料",
+          "unLockorNot": true
+        }
+      ],
+      "handbookAvgList": []
     }
   },
   "npcDict": {
@@ -21471,6 +23516,16 @@
     "char_010_chen": {
       "charId": "char_010_chen",
       "conditionCharId": "char_010_chen",
+      "type": "DISPLAY_IF_CHAREXIST"
+    },
+    "npc_003_kalts": {
+      "charId": "npc_003_kalts",
+      "conditionCharId": "char_003_kalts",
+      "type": "INVISIBLE_IF_CHAREXIST"
+    },
+    "char_003_kalts": {
+      "charId": "char_003_kalts",
+      "conditionCharId": "char_003_kalts",
       "type": "DISPLAY_IF_CHAREXIST"
     }
   },
@@ -22199,6 +24254,470 @@
       "zoneNameForShow": "龙门",
       "picId": "story_loading_LM_day",
       "stageGetTime": 1617091200
+    },
+    "char_141_nights": {
+      "charId": "char_141_nights",
+      "stageId": "mem_nights_1",
+      "levelId": "Obt/Memory/level_memory_nights_1",
+      "zoneId": "storyMission",
+      "code": "mem_nights_1",
+      "name": "险中求胜",
+      "loadingPicId": "loading_Kazimierz_Trial",
+      "description": "高额的伤害，意味着更大的风险。解放干员夜烟的禁锢需要万分谨慎，她的法术对敌人能够给予致命的打击，但在施法过程中，难免无暇顾及敌人的伤害。此时，干员砾矫捷的身影能够帮助夜烟吸引一部分的火力，争取更多的施法时间。来根据场上的情况灵活应对吧。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "夜间竞技场",
+      "zoneNameForShow": "卡西米尔",
+      "picId": "story_loading_Kazimierz_Trial",
+      "stageGetTime": 1618459200
+    },
+    "char_143_ghost": {
+      "charId": "char_143_ghost",
+      "stageId": "mem_ghost_1",
+      "levelId": "Obt/Memory/level_memory_ghost_1",
+      "zoneId": "storyMission",
+      "code": "mem_ghost_1",
+      "name": "魂骨尚存",
+      "loadingPicId": "loading_LM_night",
+      "description": "幽灵鲨一定会满足指挥官的意愿，用疯狂的战意劈开一切阻拦。往往，幽灵鲨能够独自完成许多近乎极限的任务。但在这之后，干员幽灵鲨需要一段平静的休息时间。以及，要提防一些她不能顾及的威胁，比如来自空中的袭击。请配以充分的后续支援，以保证能够万无一失地达成挑战。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "夜间市区",
+      "zoneNameForShow": "龙门",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1618459200
+    },
+    "char_102_texas": {
+      "charId": "char_102_texas",
+      "stageId": "mem_texas_1",
+      "levelId": "Obt/Memory/level_memory_texas_1",
+      "zoneId": "storyMission",
+      "code": "mem_texas_1",
+      "name": "因地制宜",
+      "loadingPicId": "loading_Obsidian_Cave",
+      "description": "德克萨斯时常是最先切入战场的干员之一，借助她的能力，我们能够构筑第一道防线并加速引导其他干员就位，其灌注源石技艺的剑雨时常能对大范围内敌人的行动造成阻碍。仔细观察战场，将之部署到合适的位置，她不会令你失望的。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "火山洞窟",
+      "zoneNameForShow": "汐斯塔",
+      "picId": "story_loading_Obsidian_Cave",
+      "stageGetTime": 1618459200
+    },
+    "char_188_helage": {
+      "charId": "char_188_helage",
+      "stageId": "mem_helage_1",
+      "levelId": "Obt/Memory/level_memory_helage_1",
+      "zoneId": "storyMission",
+      "code": "mem_helage_1",
+      "name": "吾往矣",
+      "loadingPicId": "loading_SG",
+      "description": "乌萨斯的将领中从来没有畏惧前线的懦夫，至少赫拉格是如此。他即是军队——即使不依赖医疗与远程支援的辅助，他也能靠自己的浴血奋战立于不败。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "丛林",
+      "zoneNameForShow": "萨尔贡",
+      "picId": "story_loading_SG",
+      "stageGetTime": 1618459200
+    },
+    "char_183_skgoat": {
+      "charId": "char_183_skgoat",
+      "stageId": "mem_skgoat_1",
+      "levelId": "Obt/Memory/level_memory_skgoat_1",
+      "zoneId": "storyMission",
+      "code": "mem_skgoat_1",
+      "name": "三人的阵线",
+      "loadingPicId": "loading4",
+      "description": "虽然地灵一再强调自己并没有足够的法术天分，但她却能够将自己的学识与源石技艺理论相结合，并在最合适的地方发动使地面流沙化的源石技艺，让敌人难以移动。\n博士，请你和强大的赏金猎人斯卡蒂一起帮助她击退这些令人头疼的敌人吧。\n花太久时间的话，也会被她算入加班时间内的！",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "摧毁后",
+      "zoneNameForShow": "切尔诺伯格",
+      "picId": "story_loading4",
+      "stageGetTime": 1619856000
+    },
+    "char_230_savage": {
+      "charId": "char_230_savage",
+      "stageId": "mem_savage_1",
+      "levelId": "Obt/Memory/level_memory_savage_1",
+      "zoneId": "storyMission",
+      "code": "mem_savage_1",
+      "name": "哈！一线贯通！",
+      "loadingPicId": "loadingE2",
+      "description": "险路求生，绝境反击。在崎岖的山路、低洼山谷之中，干员暴行将施展自己独特的源石技艺，于逆境中也能够因敌取胜。\n此次作战受制于地形影响，能够给予干员暴行的支援将十分有限。务必谨慎制定方案，选定时机，定能以少胜多。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "洞窟",
+      "zoneNameForShow": "卡西米尔",
+      "picId": "story_loadingE2",
+      "stageGetTime": 1619856000
+    },
+    "char_179_cgbird": {
+      "charId": "char_179_cgbird",
+      "stageId": "mem_cgbird_1",
+      "levelId": "Obt/Memory/level_memory_cgbird_1",
+      "zoneId": "storyMission",
+      "code": "mem_cgbird_1",
+      "name": "牢不可破的幻影",
+      "loadingPicId": "loading_Wolumonde",
+      "description": "在战场上，夜莺小姐不仅仅是一位出色的医师，她还能在敌人的源石技艺攻击下，为周围干员提供强有力的庇佑，并在必要时刻制造幻影来吸引火力。\n让干员们站在夜莺小姐身边吧。不要恐慌，不必畏惧。相信她，然后，试着再走近一点。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "夜晚街道",
+      "zoneNameForShow": "沃伦姆德",
+      "picId": "story_loading_Wolumonde",
+      "stageGetTime": 1619856000
+    },
+    "char_264_f12yin": {
+      "charId": "char_264_f12yin",
+      "stageId": "mem_f12yin_1",
+      "levelId": "Obt/Memory/level_memory_f12yin_1",
+      "zoneId": "storyMission",
+      "code": "mem_f12yin_1",
+      "name": "不动如山",
+      "loadingPicId": "loading_Columbia_center",
+      "description": "不动如山这来自炎国的四字短语仿佛是为山量身订造的一般，当山站在战场上，他就像一座永远无法逾越的高峰一样令敌人望而生畏。\n敌人越多，他的价值愈将凸显，所以，将他布置在敌人的必经之处吧，他不会让你失望的。\n不动如山，不动如山。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "监狱",
+      "zoneNameForShow": "哥伦比亚",
+      "picId": "story_loading_Columbia_center",
+      "stageGetTime": 1619856000
+    },
+    "char_281_popka": {
+      "charId": "char_281_popka",
+      "stageId": "mem_popka_1",
+      "levelId": "Obt/Memory/level_memory_popka_1",
+      "zoneId": "storyMission",
+      "code": "mem_popka_1",
+      "name": "锯子转呀转",
+      "loadingPicId": "loading_LM_night",
+      "description": "泡普卡听不懂太复杂的指令，如果要为她安排任务，只要告诉她去哪里，其他的交给泡普卡自己来发挥就好。真的，其他都交给她吧，只要电锯转起来，没多少人能打得过泡普卡，我们自己都要想办法才能让她停下来，何况敌人呢？",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "1",
+          "unlockParam2": "55",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "屋顶",
+      "zoneNameForShow": "龙门",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1622520000
+    },
+    "char_126_shotst": {
+      "charId": "char_126_shotst",
+      "stageId": "mem_shotst_1",
+      "levelId": "Obt/Memory/level_memory_shotst_1",
+      "zoneId": "storyMission",
+      "code": "mem_shotst_1",
+      "name": "万箭齐发",
+      "loadingPicId": "loading_LM_night",
+      "description": "无论敌人从何处进攻，远方总有流星时时追逐他们的踪迹，第一支长箭，击碎敌人的护甲，第二支长箭，刺穿敌人的心脏。纵使敌人如潮水般涌来，流星也不会慌张，因为她已经不再需要一个人苦苦作战了。\n流星，森林的女儿，罗德岛的干员，随时准备松开绷紧的弓弦。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "屋顶",
+      "zoneNameForShow": "龙门",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1622520000
+    },
+    "char_275_breeze": {
+      "charId": "char_275_breeze",
+      "stageId": "mem_breeze_1",
+      "levelId": "Obt/Memory/level_memory_breeze_1",
+      "zoneId": "storyMission",
+      "code": "mem_breeze_1",
+      "name": "炮与弩的包围网",
+      "loadingPicId": "loading_LM_night",
+      "description": "在来到罗德岛前，微风已经了解了多种草药的使用方法。通过合理地使用这些草药，她可以有效缓解其他干员在战场上可能遇到的多种异常症状。\n纵然她并不了解战斗本身，但她始终相信着可靠的同事们。面对敌人突如其来的攻势，她会努力做好她应该去做的事情，不带一丝犹疑。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "屋顶",
+      "zoneNameForShow": "龙门",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1622520000
+    },
+    "char_213_mostma": {
+      "charId": "char_213_mostma",
+      "stageId": "mem_mostma_1",
+      "levelId": "Obt/Memory/level_memory_mostma_1",
+      "zoneId": "storyMission",
+      "code": "mem_mostma_1",
+      "name": "钥与匙的守护者",
+      "loadingPicId": "loading_Obsidian_Cave",
+      "description": "莫斯提马的敌人在面对她会有到一种粘滞感，仿佛自己的时间被调慢了一般，但我们从未听说有一种源石技艺能够干涉时间，也始终无法找到其中的奥秘，这份能力与她的身份一样充满谜团。\n无论如何，作为一名术师，她的价值不止于此。给她一个最好的舞台，再给她一点准备时间吧，当她掏出另一把杖时，无论多么强大的攻势也将烟消云散。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "火山洞窟",
+      "zoneNameForShow": "汐斯塔",
+      "picId": "story_loading_Obsidian_Cave",
+      "stageGetTime": 1622520000
+    },
+    "char_501_durin": {
+      "charId": "char_501_durin",
+      "stageId": "mem_durin_1",
+      "levelId": "Obt/Memory/level_memory_durin_1",
+      "zoneId": "storyMission",
+      "code": "mem_durin_1",
+      "name": "针对性合作",
+      "loadingPicId": "loading_LM_night",
+      "description": "为了在任务时达成更好的配合效果，行动组A4的训练有时也会邀请其他干员参加，特别是在针对杜林的训练场合——老组员将教导新人学会怎样揪住偷懒的杜林，并巧妙地监督她完成自己的工作。\n请注意：为达到训练效果，干员杜林应考虑被配置于最难以偷懒的位置。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "0",
+          "unlockParam2": "30",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "屋顶",
+      "zoneNameForShow": "龙门",
+      "picId": "story_loading_LM_night",
+      "stageGetTime": 1625198400
+    },
+    "char_260_durnar": {
+      "charId": "char_260_durnar",
+      "stageId": "mem_durnar_1",
+      "levelId": "Obt/Memory/level_memory_durnar_1",
+      "zoneId": "storyMission",
+      "code": "mem_durnar_1",
+      "name": "如雷坚守",
+      "loadingPicId": "loading_DM",
+      "description": "竖起重盾，面对敌人，这只是第一步。何时挥刀，何时撞击，何时防御，每一步都需要思考，而坚雷，早已将这些思考化为条件反射。作为士兵，她从不畏惧体力与技巧上的对抗，而作为干员，她将用坚盾护佑其他人。\n她的剑仍旧锐利，她的盾仍旧坚实。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切尔诺伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1625198400
+    },
+    "char_237_gravel": {
+      "charId": "char_237_gravel",
+      "stageId": "mem_gravel_1",
+      "levelId": "Obt/Memory/level_memory_gravel_1",
+      "zoneId": "storyMission",
+      "code": "mem_gravel_1",
+      "name": "东奔西走",
+      "loadingPicId": "loading_DM",
+      "description": "作为卡西米尔的四阶骑士，砾拥有十分丰富的作战经验。熟知砾小姐的能力的人知道，砾小姐的能力十分适合用作辅助队友。敏捷的行动、坚实的防御、精准的一击制敌，这些能力让砾很适合对落单敌人进行阻碍和拖延，为队友创造更多的调整时间。\n难对付的家伙不止一个？不要担心，在战场上灵巧地奔波的砾，不会让敌人有可乘之机。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "荒野",
+      "zoneNameForShow": "切尔诺伯格",
+      "picId": "story_loading_DM",
+      "stageGetTime": 1625198400
+    },
+    "char_017_huang": {
+      "charId": "char_017_huang",
+      "stageId": "mem_huang_1",
+      "levelId": "Obt/Memory/level_memory_huang_1",
+      "zoneId": "storyMission",
+      "code": "mem_huang_1",
+      "name": "一夫当关",
+      "loadingPicId": "loading_OOD_02",
+      "description": "加压，加压，再加压，需要攻坚手煌出场的战斗，没有一场称得上轻松。顶住正面的压力，削弱侧方的敌人，然后找准最佳时机，一举歼灭对手！\n这就是煌平常总在面对的战局，这就是煌为小队劈砍出的胜利之路。\n信任她，将一切交给她。放心，干员煌绝不令人失望。",
+      "unlockParam": [
+        {
+          "unlockType": 1,
+          "unlockParam1": "2",
+          "unlockParam2": "1",
+          "unlockParam3": null
+        }
+      ],
+      "rewardItem": [
+        {
+          "id": "4003",
+          "count": 200,
+          "type": "DIAMOND_SHD"
+        }
+      ],
+      "stageNameForShow": "沙漠街市",
+      "zoneNameForShow": "萨尔贡",
+      "picId": "story_loading_OOD_02",
+      "stageGetTime": 1625198400
     }
   }
 }

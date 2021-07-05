@@ -9,9 +9,6 @@
             "npc_001_doctor",
             "npc_003_kalts",
             "char_1011_lava2",
-            "char_159_peacok",
-            "char_333_sidero",
-            "char_163_hpsts",
             "char_171_bldsk",
             "char_253_greyy",
             "char_298_susuro",
@@ -24,11 +21,6 @@
             "char_130_doberm",
             "char_131_flameb",
             "char_401_elysm",
-            "char_436_whispr",
-            "char_326_glacus",
-            "char_110_deepcl",
-            "char_129_bluep",
-            "char_293_thorns",
             "char_355_ethan",
             "char_311_mudrok",
             "char_328_cammou",
@@ -44,7 +36,9 @@
             "char_285_medic2",
             "char_376_therex",
             "char_002_amiya",
-            "char_400_weedy"
+            "char_400_weedy",
+            "char_304_zebra",
+            "char_003_kalts"
           ],
           "forceId": "rhodes",
           "pos": {
@@ -329,6 +323,11 @@
               "direction": 3,
               "charId": "char_149_scave",
               "forceId": null
+            },
+            {
+              "direction": 0,
+              "charId": "char_003_kalts",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -447,12 +446,12 @@
             },
             {
               "direction": 3,
-              "charId": "char_253_greyy",
+              "charId": "char_2013_cerber",
               "forceId": null
             },
             {
               "direction": 4,
-              "charId": "char_2013_cerber",
+              "charId": "char_311_mudrok",
               "forceId": null
             },
             {
@@ -483,7 +482,7 @@
             },
             {
               "direction": 3,
-              "charId": "char_2013_cerber",
+              "charId": "char_311_mudrok",
               "forceId": null
             },
             {
@@ -556,32 +555,6 @@
             {
               "direction": 5,
               "charId": "char_355_ethan",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_129_bluep",
-          "scale": 1.0,
-          "pos": {
-            "x": -1199.99939,
-            "y": -1039.23
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_311_mudrok",
-              "forceId": null
-            },
-            {
-              "direction": 1,
-              "charId": "char_163_hpsts",
-              "forceId": null
-            },
-            {
-              "direction": 2,
-              "charId": "char_436_whispr",
               "forceId": null
             }
           ],
@@ -681,47 +654,6 @@
           "haveOutLine": true
         },
         {
-          "charId": "char_163_hpsts",
-          "scale": 1.0,
-          "pos": {
-            "x": -1199.99939,
-            "y": -866.025
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_131_flameb",
-              "forceId": null
-            },
-            {
-              "direction": 1,
-              "charId": "char_2013_cerber",
-              "forceId": null
-            },
-            {
-              "direction": 2,
-              "charId": "char_333_sidero",
-              "forceId": null
-            },
-            {
-              "direction": 3,
-              "charId": "char_436_whispr",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_129_bluep",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_311_mudrok",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
           "charId": "char_171_bldsk",
           "scale": 1.0,
           "pos": {
@@ -779,32 +711,6 @@
           "haveOutLine": true
         },
         {
-          "charId": "char_110_deepcl",
-          "scale": 1.0,
-          "pos": {
-            "x": -599.9997,
-            "y": -692.82
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_350_surtr",
-              "forceId": null
-            },
-            {
-              "direction": 1,
-              "charId": "char_328_cammou",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_326_glacus",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
           "charId": "char_009_12fce",
           "scale": 1.0,
           "pos": {
@@ -818,38 +724,23 @@
           "charId": "char_253_greyy",
           "scale": 1.0,
           "pos": {
-            "x": -1049.99951,
-            "y": -606.2175
+            "x": -900.0,
+            "y": -692.8203
           },
           "connectionList": [
             {
               "direction": 0,
-              "charId": "char_219_meteo",
+              "charId": "char_2013_cerber",
               "forceId": null
             },
             {
               "direction": 1,
-              "charId": "char_401_elysm",
-              "forceId": null
-            },
-            {
-              "direction": 2,
               "charId": "char_400_weedy",
               "forceId": null
             },
             {
-              "direction": 3,
-              "charId": "char_159_peacok",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_333_sidero",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_2013_cerber",
+              "direction": 2,
+              "charId": "char_350_surtr",
               "forceId": null
             }
           ],
@@ -917,37 +808,6 @@
             {
               "direction": 5,
               "charId": "char_130_doberm",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_326_glacus",
-          "scale": 1.0,
-          "pos": {
-            "x": -749.999634,
-            "y": -779.4225
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_159_peacok",
-              "forceId": null
-            },
-            {
-              "direction": 1,
-              "charId": "char_350_surtr",
-              "forceId": null
-            },
-            {
-              "direction": 2,
-              "charId": "char_110_deepcl",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_293_thorns",
               "forceId": null
             }
           ],
@@ -1040,16 +900,6 @@
             },
             {
               "direction": 2,
-              "charId": "char_2013_cerber",
-              "forceId": null
-            },
-            {
-              "direction": 3,
-              "charId": "char_163_hpsts",
-              "forceId": null
-            },
-            {
-              "direction": 4,
               "charId": "char_311_mudrok",
               "forceId": null
             }
@@ -1075,6 +925,11 @@
               "forceId": null
             },
             {
+              "direction": 4,
+              "charId": "char_304_zebra",
+              "forceId": null
+            },
+            {
               "direction": 5,
               "charId": "char_328_cammou",
               "forceId": null
@@ -1086,120 +941,33 @@
           "charId": "char_2013_cerber",
           "scale": 1.0,
           "pos": {
-            "x": -1199.99939,
-            "y": -692.82
+            "x": -1050.0,
+            "y": -606.2178
           },
           "connectionList": [
             {
               "direction": 0,
-              "charId": "char_158_milu",
-              "forceId": null
-            },
-            {
-              "direction": 1,
               "charId": "char_219_meteo",
               "forceId": null
             },
             {
-              "direction": 2,
-              "charId": "char_253_greyy",
-              "forceId": null
-            },
-            {
-              "direction": 3,
-              "charId": "char_333_sidero",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_163_hpsts",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_131_flameb",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_159_peacok",
-          "scale": 1.0,
-          "pos": {
-            "x": -899.9996,
-            "y": -692.82
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_253_greyy",
-              "forceId": null
-            },
-            {
               "direction": 1,
+              "charId": "char_401_elysm",
+              "forceId": null
+            },
+            {
+              "direction": 2,
               "charId": "char_400_weedy",
               "forceId": null
             },
             {
-              "direction": 2,
-              "charId": "char_350_surtr",
-              "forceId": null
-            },
-            {
               "direction": 3,
-              "charId": "char_326_glacus",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_293_thorns",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_333_sidero",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_333_sidero",
-          "scale": 1.0,
-          "pos": {
-            "x": -1049.99951,
-            "y": -779.4225
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_2013_cerber",
-              "forceId": null
-            },
-            {
-              "direction": 1,
               "charId": "char_253_greyy",
               "forceId": null
             },
             {
-              "direction": 2,
-              "charId": "char_159_peacok",
-              "forceId": null
-            },
-            {
-              "direction": 3,
-              "charId": "char_293_thorns",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_436_whispr",
-              "forceId": null
-            },
-            {
               "direction": 5,
-              "charId": "char_163_hpsts",
+              "charId": "char_311_mudrok",
               "forceId": null
             }
           ],
@@ -1235,7 +1003,7 @@
             },
             {
               "direction": 4,
-              "charId": "char_253_greyy",
+              "charId": "char_2013_cerber",
               "forceId": null
             },
             {
@@ -1276,12 +1044,12 @@
             },
             {
               "direction": 4,
-              "charId": "char_159_peacok",
+              "charId": "char_253_greyy",
               "forceId": null
             },
             {
               "direction": 5,
-              "charId": "char_253_greyy",
+              "charId": "char_2013_cerber",
               "forceId": null
             }
           ],
@@ -1337,44 +1105,13 @@
               "forceId": null
             },
             {
-              "direction": 4,
-              "charId": "char_110_deepcl",
+              "direction": 3,
+              "charId": "char_304_zebra",
               "forceId": null
             },
             {
               "direction": 5,
               "charId": "char_350_surtr",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_293_thorns",
-          "scale": 1.0,
-          "pos": {
-            "x": -899.9996,
-            "y": -866.025
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": "char_333_sidero",
-              "forceId": null
-            },
-            {
-              "direction": 1,
-              "charId": "char_159_peacok",
-              "forceId": null
-            },
-            {
-              "direction": 2,
-              "charId": "char_326_glacus",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": "char_436_whispr",
               "forceId": null
             }
           ],
@@ -1404,18 +1141,8 @@
               "forceId": null
             },
             {
-              "direction": 3,
-              "charId": "char_110_deepcl",
-              "forceId": null
-            },
-            {
-              "direction": 4,
-              "charId": "char_326_glacus",
-              "forceId": null
-            },
-            {
               "direction": 5,
-              "charId": "char_159_peacok",
+              "charId": "char_253_greyy",
               "forceId": null
             }
           ],
@@ -1425,54 +1152,28 @@
           "charId": "char_311_mudrok",
           "scale": 1.0,
           "pos": {
-            "x": -1349.99939,
-            "y": -952.6275
-          },
-          "connectionList": [
-            {
-              "direction": 1,
-              "charId": "char_131_flameb",
-              "forceId": null
-            },
-            {
-              "direction": 2,
-              "charId": "char_163_hpsts",
-              "forceId": null
-            },
-            {
-              "direction": 3,
-              "charId": "char_129_bluep",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_436_whispr",
-          "scale": 1.0,
-          "pos": {
-            "x": -1049.99951,
-            "y": -952.6275
+            "x": -1200.0,
+            "y": -692.8203
           },
           "connectionList": [
             {
               "direction": 0,
-              "charId": "char_163_hpsts",
+              "charId": "char_158_milu",
               "forceId": null
             },
             {
               "direction": 1,
-              "charId": "char_333_sidero",
+              "charId": "char_219_meteo",
               "forceId": null
             },
             {
               "direction": 2,
-              "charId": "char_293_thorns",
+              "charId": "char_2013_cerber",
               "forceId": null
             },
             {
               "direction": 5,
-              "charId": "char_129_bluep",
+              "charId": "char_131_flameb",
               "forceId": null
             }
           ],
@@ -2293,6 +1994,43 @@
           "haveOutLine": true
         },
         {
+          "charId": "char_304_zebra",
+          "scale": 1.0,
+          "pos": {
+            "x": -450.0,
+            "y": -606.2178
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_328_cammou",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_367_swllow",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_003_kalts",
+          "scale": 1.2,
+          "pos": {
+            "x": 0.0,
+            "y": -173.205
+          },
+          "connectionList": [
+            {
+              "direction": 3,
+              "charId": "char_144_red",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
           "charId": "npc_010_chen",
           "scale": 1.0,
           "pos": {
@@ -2449,7 +2187,31 @@
           "char2": "char_002_amiya"
         },
         {
-          "index": 44,
+          "index": 560,
+          "lineType": 0,
+          "char1": "char_002_amiya",
+          "char2": "char_003_kalts"
+        },
+        {
+          "index": 561,
+          "lineType": 0,
+          "char1": "char_003_kalts",
+          "char2": "npc_001_doctor"
+        },
+        {
+          "index": 562,
+          "lineType": 0,
+          "char1": "char_003_kalts",
+          "char2": "char_345_folnic"
+        },
+        {
+          "index": 563,
+          "lineType": 0,
+          "char1": "char_144_red",
+          "char2": "char_003_kalts"
+        },
+        {
+          "index": 564,
           "lineType": 0,
           "char1": "npc_010_chen",
           "char2": "char_002_amiya"
@@ -3569,25 +3331,25 @@
           "char2": "char_201_moeshd"
         },
         {
-          "index": 45,
+          "index": 565,
           "lineType": 0,
           "char1": "npc_2005_wywu",
           "char2": "npc_010_chen"
         },
         {
-          "index": 46,
+          "index": 566,
           "lineType": 0,
           "char1": "char_136_hsguma",
           "char2": "npc_010_chen"
         },
         {
-          "index": 47,
+          "index": 567,
           "lineType": 0,
           "char1": "char_308_swire",
           "char2": "npc_010_chen"
         },
         {
-          "index": 48,
+          "index": 568,
           "lineType": 0,
           "char1": "npc_010_chen",
           "char2": "char_002_amiya"
@@ -4853,7 +4615,8 @@
             "char_381_bubble",
             "char_402_tuye",
             "char_379_sesa",
-            "char_344_beewax"
+            "char_344_beewax",
+            "char_472_pasngr"
           ],
           "forceId": "sargon",
           "pos": {
@@ -4879,6 +4642,11 @@
                 {
                   "direction": 0,
                   "charId": "char_379_sesa",
+                  "forceId": null
+                },
+                {
+                  "direction": 1,
+                  "charId": "char_472_pasngr",
                   "forceId": null
                 },
                 {
@@ -4990,6 +4758,24 @@
             "y": 276.0659
           },
           "colorBlocks": []
+        },
+        {
+          "color": "d5b1cc",
+          "charList": [
+            "char_426_billro"
+          ],
+          "forceId": "leithanien",
+          "pos": {
+            "x": -750.0,
+            "y": -259.807617
+          },
+          "isThisGroup": false,
+          "connectPos": 2,
+          "focusPos": {
+            "x": 583.6315,
+            "y": 193.085129
+          },
+          "colorBlocks": []
         }
       ],
       "charList": [
@@ -5086,6 +4872,11 @@
             {
               "direction": 0,
               "charId": "char_402_tuye",
+              "forceId": null
+            },
+            {
+              "direction": 2,
+              "charId": "char_472_pasngr",
               "forceId": null
             },
             {
@@ -5324,6 +5115,37 @@
             }
           ],
           "haveOutLine": true
+        },
+        {
+          "charId": "char_472_pasngr",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 4,
+              "charId": null,
+              "forceId": "sargon"
+            },
+            {
+              "direction": 5,
+              "charId": "char_379_sesa",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_426_billro",
+          "scale": 1.0,
+          "pos": {
+            "x": -600.0,
+            "y": -173.205078
+          },
+          "connectionList": [],
+          "haveOutLine": true
         }
       ],
       "lineList": [
@@ -5344,128 +5166,12 @@
           "lineType": 0,
           "char1": "char_285_medic2",
           "char2": "char_416_zumama"
-        }
-      ],
-      "minScale": 0.75,
-      "maxScale": 2.0
-    },
-    "abyssal": {
-      "groupId": "abyssal",
-      "forceDataList": [
-        {
-          "color": "412471",
-          "charList": [
-            "char_143_ghost",
-            "char_263_skadi",
-            "char_218_cuttle"
-          ],
-          "forceId": "abyssal",
-          "pos": {
-            "x": -300.0,
-            "y": 173.205078
-          },
-          "isThisGroup": true,
-          "connectPos": 3,
-          "focusPos": {
-            "x": 26.5856552,
-            "y": -47.3239326
-          },
-          "colorBlocks": [
-            {
-              "id": "abyssal0",
-              "forceId": "abyssal",
-              "pos": {
-                "x": -150.0,
-                "y": 86.60254
-              },
-              "color": "412471",
-              "connectionList": [
-                {
-                  "direction": 2,
-                  "charId": "char_143_ghost",
-                  "forceId": null
-                },
-                {
-                  "direction": 3,
-                  "charId": "char_263_skadi",
-                  "forceId": null
-                },
-                {
-                  "direction": 5,
-                  "charId": "char_218_cuttle",
-                  "forceId": null
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "charList": [
-        {
-          "charId": "char_143_ghost",
-          "scale": 1.0,
-          "pos": {
-            "x": 0.0,
-            "y": 173.205
-          },
-          "connectionList": [
-            {
-              "direction": 4,
-              "charId": "char_263_skadi",
-              "forceId": null
-            },
-            {
-              "direction": 5,
-              "charId": null,
-              "forceId": "abyssal"
-            }
-          ],
-          "haveOutLine": true
         },
         {
-          "charId": "char_263_skadi",
-          "scale": 1.0,
-          "pos": {
-            "x": 0.0,
-            "y": 0.0
-          },
-          "connectionList": [
-            {
-              "direction": 0,
-              "charId": null,
-              "forceId": "abyssal"
-            },
-            {
-              "direction": 1,
-              "charId": "char_143_ghost",
-              "forceId": null
-            }
-          ],
-          "haveOutLine": true
-        },
-        {
-          "charId": "char_218_cuttle",
-          "scale": 1.0,
-          "pos": {
-            "x": -299.999847,
-            "y": 0.0
-          },
-          "connectionList": [
-            {
-              "direction": 2,
-              "charId": null,
-              "forceId": "abyssal"
-            }
-          ],
-          "haveOutLine": true
-        }
-      ],
-      "lineList": [
-        {
-          "index": 0,
+          "index": 3,
           "lineType": 0,
-          "char1": "char_143_ghost",
-          "char2": "char_263_skadi"
+          "char1": "char_344_beewax",
+          "char2": "char_426_billro"
         }
       ],
       "minScale": 0.75,
@@ -5488,7 +5194,9 @@
             "char_250_phatom",
             "char_185_frncat",
             "char_166_skfire",
-            "char_388_mint"
+            "char_388_mint",
+            "char_363_toddi",
+            "char_369_bena"
           ],
           "forceId": "victoria",
           "pos": {
@@ -5553,14 +5261,14 @@
               "id": "victoria2",
               "forceId": "victoria",
               "pos": {
-                "x": 449.9998,
-                "y": -86.6025
+                "x": 600.0,
+                "y": 0.0
               },
               "color": "ffd75c",
               "connectionList": [
                 {
                   "direction": 0,
-                  "charId": "char_275_breeze",
+                  "charId": "char_363_toddi",
                   "forceId": null
                 },
                 {
@@ -5684,9 +5392,9 @@
               "forceId": null
             },
             {
-              "direction": 3,
-              "charId": null,
-              "forceId": "victoria"
+              "direction": 2,
+              "charId": "char_363_toddi",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -5763,8 +5471,8 @@
           "charId": "char_250_phatom",
           "scale": 1.0,
           "pos": {
-            "x": 599.9997,
-            "y": 0.0
+            "x": 750.0,
+            "y": 86.60254
           },
           "connectionList": [
             {
@@ -5836,6 +5544,11 @@
               "forceId": null
             },
             {
+              "direction": 3,
+              "charId": "char_363_toddi",
+              "forceId": null
+            },
+            {
               "direction": 4,
               "charId": "char_275_breeze",
               "forceId": null
@@ -5860,6 +5573,11 @@
               "direction": 1,
               "charId": null,
               "forceId": "victoria"
+            },
+            {
+              "direction": 5,
+              "charId": "char_369_bena",
+              "forceId": null
             }
           ],
           "haveOutLine": true
@@ -5868,8 +5586,8 @@
           "charId": "char_185_frncat",
           "scale": 1.0,
           "pos": {
-            "x": 449.9998,
-            "y": -259.8075
+            "x": 600.0,
+            "y": -173.205078
           },
           "connectionList": [
             {
@@ -5907,6 +5625,48 @@
             {
               "direction": 5,
               "charId": "char_112_siege",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_363_toddi",
+          "scale": 1.0,
+          "pos": {
+            "x": 450.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_164_nightm",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": null,
+              "forceId": "victoria"
+            },
+            {
+              "direction": 5,
+              "charId": "char_275_breeze",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_369_bena",
+          "scale": 1.0,
+          "pos": {
+            "x": -150.0,
+            "y": -259.807617
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_338_iris",
               "forceId": null
             }
           ],
@@ -6934,7 +6694,9 @@
             "char_343_tknogi",
             "char_337_utage",
             "char_289_gyuki",
-            "char_362_saga"
+            "char_362_saga",
+            "char_475_akafyu",
+            "char_478_kirara"
           ],
           "forceId": "higashi",
           "pos": {
@@ -6998,6 +6760,11 @@
             "y": 259.8075
           },
           "connectionList": [
+            {
+              "direction": 3,
+              "charId": "char_475_akafyu",
+              "forceId": null
+            },
             {
               "direction": 4,
               "charId": "char_362_saga",
@@ -7087,6 +6854,16 @@
               "forceId": null
             },
             {
+              "direction": 2,
+              "charId": "char_475_akafyu",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_478_kirara",
+              "forceId": null
+            },
+            {
               "direction": 5,
               "charId": "char_337_utage",
               "forceId": null
@@ -7102,6 +6879,53 @@
             "y": 86.6025
           },
           "connectionList": [],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_475_akafyu",
+          "scale": 1.0,
+          "pos": {
+            "x": 300.0,
+            "y": 173.205078
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_289_gyuki",
+              "forceId": null
+            },
+            {
+              "direction": 4,
+              "charId": "char_478_kirara",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_362_saga",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_478_kirara",
+          "scale": 1.0,
+          "pos": {
+            "x": 300.0,
+            "y": 0.0
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_362_saga",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_475_akafyu",
+              "forceId": null
+            }
+          ],
           "haveOutLine": true
         }
       ],
@@ -7123,15 +6947,34 @@
           "color": "d5b1cc",
           "charList": [
             "char_183_skgoat",
-            "char_180_amgoat"
+            "char_180_amgoat",
+            "char_426_billro"
           ],
           "forceId": "leithanien",
           "pos": {
-            "x": -149.999924,
-            "y": 86.6025
+            "x": -150.0,
+            "y": 86.60254
           },
           "isThisGroup": true,
           "connectPos": 3,
+          "focusPos": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "colorBlocks": []
+        },
+        {
+          "color": "9cb567",
+          "charList": [
+            "char_344_beewax"
+          ],
+          "forceId": "sargon",
+          "pos": {
+            "x": -600.0,
+            "y": -173.205078
+          },
+          "isThisGroup": false,
+          "connectPos": 2,
           "focusPos": {
             "x": 0.0,
             "y": 0.0
@@ -7168,12 +7011,50 @@
               "direction": 2,
               "charId": "char_183_skgoat",
               "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_426_billro",
+              "forceId": null
             }
           ],
           "haveOutLine": true
+        },
+        {
+          "charId": "char_426_billro",
+          "scale": 1.0,
+          "pos": {
+            "x": -150.0,
+            "y": -86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_180_amgoat",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_344_beewax",
+          "scale": 1.0,
+          "pos": {
+            "x": -450.0,
+            "y": -86.60254
+          },
+          "connectionList": [],
+          "haveOutLine": true
         }
       ],
-      "lineList": [],
+      "lineList": [
+        {
+          "index": 0,
+          "lineType": 0,
+          "char1": "char_344_beewax",
+          "char2": "char_426_billro"
+        }
+      ],
       "minScale": 0.75,
       "maxScale": 2.0
     },
@@ -7214,6 +7095,485 @@
       "lineList": [],
       "minScale": 0.75,
       "maxScale": 2.0
+    },
+    "iberia": {
+      "groupId": "iberia",
+      "forceDataList": [
+        {
+          "color": "903d19",
+          "charList": [
+            "char_436_whispr",
+            "char_293_thorns",
+            "char_129_bluep",
+            "char_326_glacus",
+            "char_469_indigo"
+          ],
+          "forceId": "iberia",
+          "pos": {
+            "x": -300.0,
+            "y": 0.0
+          },
+          "isThisGroup": true,
+          "connectPos": 3,
+          "focusPos": {
+            "x": 20.2861328,
+            "y": 64.2253647
+          },
+          "colorBlocks": []
+        }
+      ],
+      "charList": [
+        {
+          "charId": "char_326_glacus",
+          "scale": 1.0,
+          "pos": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_469_indigo",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_129_bluep",
+              "forceId": null
+            },
+            {
+              "direction": 4,
+              "charId": "char_436_whispr",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_293_thorns",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_129_bluep",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": -86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_326_glacus",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_469_indigo",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_436_whispr",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_293_thorns",
+          "scale": 1.0,
+          "pos": {
+            "x": -150.0,
+            "y": -86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_326_glacus",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_436_whispr",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_436_whispr",
+          "scale": 1.0,
+          "pos": {
+            "x": 0.0,
+            "y": -173.205078
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_293_thorns",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_326_glacus",
+              "forceId": null
+            },
+            {
+              "direction": 2,
+              "charId": "char_129_bluep",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_469_indigo",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 4,
+              "charId": "char_129_bluep",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_326_glacus",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        }
+      ],
+      "lineList": [],
+      "minScale": 0.75,
+      "maxScale": 2.0
+    },
+    "egir": {
+      "groupId": "egir",
+      "forceDataList": [
+        {
+          "color": "412471",
+          "charList": [
+            "char_1012_skadi2",
+            "char_110_deepcl"
+          ],
+          "forceId": "egir",
+          "pos": {
+            "x": 450.0,
+            "y": 86.60254
+          },
+          "isThisGroup": true,
+          "connectPos": 5,
+          "focusPos": {
+            "x": -186.538345,
+            "y": -27.1791019
+          },
+          "colorBlocks": []
+        },
+        {
+          "color": "412471",
+          "charList": [
+            "char_263_skadi",
+            "char_143_ghost",
+            "char_474_glady",
+            "char_218_cuttle"
+          ],
+          "forceId": "abyssal",
+          "pos": {
+            "x": -300.0,
+            "y": 0.0
+          },
+          "isThisGroup": true,
+          "connectPos": 2,
+          "focusPos": {
+            "x": 244.454468,
+            "y": 13.16658
+          },
+          "colorBlocks": [
+            {
+              "id": "abyssal0",
+              "forceId": "abyssal",
+              "pos": {
+                "x": -300.0,
+                "y": 173.205078
+              },
+              "color": "412471",
+              "connectionList": [
+                {
+                  "direction": 3,
+                  "charId": "char_263_skadi",
+                  "forceId": null
+                },
+                {
+                  "direction": 5,
+                  "charId": "char_218_cuttle",
+                  "forceId": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "charList": [
+        {
+          "charId": "char_1012_skadi2",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 3,
+              "charId": "char_110_deepcl",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_110_deepcl",
+          "scale": 1.0,
+          "pos": {
+            "x": 300.0,
+            "y": 0.0
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_1012_skadi2",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_143_ghost",
+          "scale": 1.0,
+          "pos": {
+            "x": -150.0,
+            "y": -86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 1,
+              "charId": "char_263_skadi",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_474_glady",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_263_skadi",
+          "scale": 1.0,
+          "pos": {
+            "x": -150.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": null,
+              "forceId": "abyssal"
+            },
+            {
+              "direction": 4,
+              "charId": "char_143_ghost",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_218_cuttle",
+          "scale": 1.0,
+          "pos": {
+            "x": -450.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": null,
+              "forceId": "abyssal"
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_474_glady",
+          "scale": 1.0,
+          "pos": {
+            "x": -300.0,
+            "y": -173.205078
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_143_ghost",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        }
+      ],
+      "lineList": [
+        {
+          "index": 0,
+          "lineType": 0,
+          "char1": "char_263_skadi",
+          "char2": "char_1012_skadi2"
+        },
+        {
+          "index": 1,
+          "lineType": 0,
+          "char1": "char_143_ghost",
+          "char2": "char_474_glady"
+        },
+        {
+          "index": 2,
+          "lineType": 0,
+          "char1": "char_143_ghost",
+          "char2": "char_263_skadi"
+        }
+      ],
+      "minScale": 0.75,
+      "maxScale": 2.0
+    },
+    "minos": {
+      "groupId": "minos",
+      "forceDataList": [
+        {
+          "color": "fd8f00",
+          "charList": [
+            "char_159_peacok",
+            "char_485_pallas",
+            "char_163_hpsts",
+            "char_333_sidero"
+          ],
+          "forceId": "minos",
+          "pos": {
+            "x": -150.0,
+            "y": -86.60254
+          },
+          "isThisGroup": true,
+          "connectPos": 2,
+          "focusPos": {
+            "x": -58.32473,
+            "y": 26.97452
+          },
+          "colorBlocks": []
+        }
+      ],
+      "charList": [
+        {
+          "charId": "char_485_pallas",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": -86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 0,
+              "charId": "char_163_hpsts",
+              "forceId": null
+            },
+            {
+              "direction": 1,
+              "charId": "char_159_peacok",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_333_sidero",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_159_peacok",
+          "scale": 1.0,
+          "pos": {
+            "x": 150.0,
+            "y": 86.60254
+          },
+          "connectionList": [
+            {
+              "direction": 4,
+              "charId": "char_485_pallas",
+              "forceId": null
+            },
+            {
+              "direction": 5,
+              "charId": "char_163_hpsts",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_163_hpsts",
+          "scale": 1.0,
+          "pos": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "connectionList": [
+            {
+              "direction": 2,
+              "charId": "char_159_peacok",
+              "forceId": null
+            },
+            {
+              "direction": 3,
+              "charId": "char_485_pallas",
+              "forceId": null
+            },
+            {
+              "direction": 4,
+              "charId": "char_333_sidero",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        },
+        {
+          "charId": "char_333_sidero",
+          "scale": 1.0,
+          "pos": {
+            "x": 0.0,
+            "y": -173.205078
+          },
+          "connectionList": [
+            {
+              "direction": 1,
+              "charId": "char_163_hpsts",
+              "forceId": null
+            },
+            {
+              "direction": 2,
+              "charId": "char_485_pallas",
+              "forceId": null
+            }
+          ],
+          "haveOutLine": true
+        }
+      ],
+      "lineList": [],
+      "minScale": 0.75,
+      "maxScale": 2.0
     }
   },
   "forceToGroupDict": {
@@ -7237,7 +7597,6 @@
     "laterano": "laterano",
     "rim": "rim",
     "sargon": "sargon",
-    "abyssal": "abyssal",
     "victoria": "victoria",
     "glasgow": "victoria",
     "ursus": "ursus",
@@ -7250,6 +7609,10 @@
     "sami": "sami",
     "higashi": "higashi",
     "leithanien": "leithanien",
-    "babel": "kazdel"
+    "babel": "kazdel",
+    "iberia": "iberia",
+    "egir": "egir",
+    "abyssal": "egir",
+    "minos": "minos"
   }
 }
