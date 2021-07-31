@@ -1397,6 +1397,22 @@
         }
       ]
     },
+    "mod_unlock_token": {
+      "itemId": "mod_unlock_token",
+      "name": "模组数据块",
+      "description": "数据块中记录了工程部干员们为制作模组而奋斗的每个日夜。",
+      "rarity": 4,
+      "iconId": "mod_unlock_token",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": 90001,
+      "usage": "用以解锁干员的模组。",
+      "obtainApproach": "采购中心、任务奖励、活动获得",
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
     "30011": {
       "itemId": "30011",
       "name": "源岩",
@@ -1615,6 +1631,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act8mini_05",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act7mini_04",
           "occPer": "USUAL"
         },
@@ -1715,8 +1735,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act16d5_01",
-          "occPer": "USUAL"
+          "stageId": "act17d0_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act9d0_02",
@@ -1747,7 +1767,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act7d5_01",
+          "stageId": "act16d5_01",
           "occPer": "USUAL"
         },
         {
@@ -1779,8 +1799,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act17d0_02",
-          "occPer": "OFTEN"
+          "stageId": "act8mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act7d5_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "main_02-03",
@@ -1808,8 +1832,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act16d5_05",
-          "occPer": "OFTEN"
+          "stageId": "act17d0_06",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act11d0_05",
@@ -1836,7 +1860,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act9d0_05",
+          "stageId": "act16d5_05",
           "occPer": "OFTEN"
         },
         {
@@ -1852,8 +1876,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act17d0_06",
+          "stageId": "act8mini_03",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act9d0_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_08-09",
@@ -2245,7 +2273,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act15d5_03",
+          "stageId": "act16d5_01",
           "occPer": "ALWAYS"
         },
         {
@@ -2277,7 +2305,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act4d0_01",
+          "stageId": "act15d5_03",
           "occPer": "ALWAYS"
         },
         {
@@ -2309,7 +2337,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16d5_01",
+          "stageId": "act8mini_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act4d0_01",
           "occPer": "ALWAYS"
         },
         {
@@ -2338,8 +2370,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act18d3_05",
-          "occPer": "USUAL"
+          "stageId": "act18d3_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act9d0_05",
@@ -2370,8 +2402,8 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_04",
-          "occPer": "ALWAYS"
+          "stageId": "act18d3_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "a001_03",
@@ -2382,7 +2414,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_03",
+          "stageId": "act8mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act6d5_04",
           "occPer": "ALWAYS"
         },
         {
@@ -3042,6 +3078,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act8mini_07",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act15d5_06",
           "occPer": "OFTEN"
         },
@@ -3614,6 +3654,10 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "act8mini_06",
+          "occPer": "OFTEN"
+        },
         {
           "stageId": "act18d3_08",
           "occPer": "USUAL"
@@ -9737,6 +9781,22 @@
       "obtainApproach": "活动期间关卡限时掉落",
       "classifyType": "NONE",
       "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [],
+      "buildingProductList": []
+    },
+    "act12d0_token_components_rep_1": {
+      "itemId": "act12d0_token_components_rep_1",
+      "name": "机械零件",
+      "description": "一开始只能在祖玛玛的部族中见到，后来逐渐散落在雨林和荒野的各种地方。每一个都充满了想象力和对物理法则的反抗，虽然不符合任何国家的任何工业标准。",
+      "rarity": 4,
+      "iconId": "act12d0_token_components",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "祖玛玛的部族中在建造各种东西时广泛使用的机械零件，可用于兑换各类物资。",
+      "obtainApproach": "活动期间关卡限时掉落",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
       "stageDropList": [
         {
           "stageId": "act12d0_01",
@@ -10261,6 +10321,51 @@
       "itemType": "ACTIVITY_ITEM",
       "stageDropList": [],
       "buildingProductList": []
+    },
+    "act8mini_token_vigilo": {
+      "itemId": "act8mini_token_vigilo",
+      "name": "“印象”",
+      "description": "他人将之视为意义不明的涂鸦；凯尔希以此推测博士的精神状态；而在博士眼里，这些碎片拼凑起了如今的自己。",
+      "rarity": 4,
+      "iconId": "act8mini_token_vigilo",
+      "overrideBkg": null,
+      "stackIconId": null,
+      "sortId": -10000,
+      "usage": "一些经过本我宣泄、自我认知、超我架构的非现实图像。",
+      "obtainApproach": "活动期间关卡限时掉落",
+      "classifyType": "NONE",
+      "itemType": "ACTIVITY_ITEM",
+      "stageDropList": [
+        {
+          "stageId": "act8mini_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act8mini_07",
+          "occPer": "ALWAYS"
+        }
+      ],
+      "buildingProductList": []
     }
   },
   "expItems": {
@@ -10677,6 +10782,7 @@
     "furni_dropS009_laBoheme_01": 1,
     "furni_dropS009_gotterdammerung_01": 1,
     "furni_dropS009_siegfried_01": 1,
+    "furni_dropS009_suorAngelica_01": 1,
     "furni_dropS009_magicFlute_01": 1,
     "furni_dropS009_etudeOp10No12_01": 1,
     "furni_dropS009_fantaisieOp49_01": 1,
@@ -10692,6 +10798,7 @@
     "furni_contract_s5_01": 1,
     "furni_annihilation_s2_01": 1,
     "furni_annihilation_s4_01": 1,
+    "furni_annihilation_s5_01": 1,
     "furni_team001_blackSteel_target_01": 1,
     "furni_team001_followers_ceilingLight_01": 1,
     "furni_team001_ursus_baseballStand_01": 1,
@@ -10756,6 +10863,9 @@
     "char_2013_cerber@summer#4": 1,
     "char_201_moeshd@summer#4": 1,
     "char_337_utage@summer#4": 1,
+    "char_180_amgoat@summer#5": 1,
+    "char_291_aglina@summer#5": 1,
+    "char_411_tomimi@summer#5": 1,
     "char_241_panda@marthe#1": 1,
     "char_115_headbr@marthe#2": 1,
     "char_129_bluep@marthe#3": 1,
@@ -10789,6 +10899,7 @@
     "char_373_lionhd@wild#3": 1,
     "char_365_aprl@wild#3": 1,
     "char_345_folnic@wild#4": 1,
+    "char_145_prove@wild#5": 1,
     "char_219_meteo@sweep#1": 1,
     "char_108_silent@sweep#1": 1,
     "char_235_jesica@sweep#1": 1,
