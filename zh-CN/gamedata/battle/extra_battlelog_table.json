@@ -1,0 +1,49 @@
+{
+  "SELECTOR": {
+    "data" : [
+      {     
+        "sourceId": "char_181_flower"
+      },
+      {     
+        "sourceId": "char_128_plosis",
+        "sourceMode": "1"
+      },
+      {
+        "sourceId": "char_179_cgbird",
+        "sourceMode": "1"
+      }
+    ]
+  },
+  "DEATHDETAIL": {
+    "data" : [
+      {
+        "sourceId": "char_430_fartth",
+        "sourceMode": "3"
+      },
+      {
+        "sourceId": "char_158_milu",
+        "enemyApplyWay": "RANGED"
+      },
+      {
+        "sourceId": "char_158_milu",
+        "enemyId": "enemy_1500_skulsr"
+      }, 
+      { 
+        "sourceId": "char_302_glaze",
+        "sourceMode": "2"
+      },
+      {  
+        "sourceId": "char_302_glaze",
+        "enemyId": "enemy_1021_bslime"
+      }
+    ]
+  },
+  "PROJECTILEBORN": {
+    "data" : [
+      {    
+        "sourceId": "char_275_breeze",
+        "projectileName": "projectile_breeze_s2"
+      }
+    ]
+  }
+}
